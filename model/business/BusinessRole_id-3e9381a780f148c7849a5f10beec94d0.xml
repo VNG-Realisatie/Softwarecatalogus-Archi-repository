@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelgroep"
+    id="id-3e9381a780f148c7849a5f10beec94d0"
+    documentation="De doelgroep is een ordening van de gemeentelijke applicatieservices naar de groep gebruikers. Een doelgroep is bijvoorbeeld de inwoners en ondernemers">
+  <properties
+      key="Object ID"
+      value="4807ff94-8f06-4a1c-ae4c-fcc9955e4eda"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+</archimate:BusinessRole>

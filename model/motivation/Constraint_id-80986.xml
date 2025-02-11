@@ -1,0 +1,12 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaardversie"
+    id="id-80986"
+    documentation="Een door de beheerder van de standaard uitgebrachte versie van de standaard">
+  <properties
+      key="Object ID"
+      value="7650b4e2-1f91-434e-a7cb-40286aceaa59"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+</archimate:Constraint>

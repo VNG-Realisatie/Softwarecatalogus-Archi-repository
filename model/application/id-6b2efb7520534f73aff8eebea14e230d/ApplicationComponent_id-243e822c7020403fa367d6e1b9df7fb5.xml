@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentiecomponent"
+    id="id-243e822c7020403fa367d6e1b9df7fb5"
+    documentation="Een type applicatiecomponent dat binnen een referentiearchitectuur benoemd is als elementair bouwblok">
+  <properties
+      key="Object ID"
+      value="1c2f511f-4243-46ae-8127-beea4e036134"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+</archimate:ApplicationComponent>
