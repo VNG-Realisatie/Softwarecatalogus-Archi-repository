@@ -6,17 +6,18 @@
     version="5.0.0">
   <properties
       key="Publiceren"
-      value="GEMMA Online en redactie"/>
+      value="Niet"/>
   <properties
       key="Architectuurtool"
       value="Archi"/>
   <properties
-      key="Object ID"
-      value="fbce5a1e-db20-4af1-8420-b0b90216b162"/>
-  <properties
       key="Release"
-      value="2025-01-29"/>
+      value="2025-02-11"/>
   <properties
       key="Type model"
       value="Projectmodel"/>
+  <profiles
+      name="Referentiecomponent"
+      id="id-1f9e9c3840d241a28096d4a3a37c8986"
+      conceptType="ApplicationComponent"/>
 </archimate:ArchimateModel>
