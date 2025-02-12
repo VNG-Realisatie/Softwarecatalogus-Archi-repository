@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenCatalogi"
+    id="id-343d1e6a69fb4e44baf1dbe9ca9a85f2"
+    documentation="An open-source platform for managing and discovering software, data, and API catalogs, mainly for public sector organizations.  &#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Centralized registry of open data, APIs, and software components.  &#xD;&#xA;- Metadata-driven search and categorization.  &#xD;&#xA;- API integration for automated catalog updates.  &#xD;&#xA;- Supports linked data standards (RDF, SPARQL)."/>

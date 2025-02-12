@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Softwarecatalogus"
     id="id-5af2e6f1-0ffa-403a-b8e5-1bf6153acfe1"
-    purpose="Modellen die beschrijven hoe de GEMMA is opgezet, zoals het kennismodel met de gebruikte ArchiMate-concepten en -modellering en het portfoliomodel met de verzameling van producten waarmee de GEMMA is opgebouwd"
+    purpose="Architectuur en ontwerp Softwarecatalogus"
     version="5.0.0">
   <properties
       key="Publiceren"
