@@ -2090,4 +2090,26 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-45c80aa1c40e4775baed15f49c0ac3bf.xml#id-45c80aa1c40e4775baed15f49c0ac3bf"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e5b11d7113b94046bcd4f73c6ddc9fc8"
+      textAlignment="1"
+      content="fuga provider overgegaan in cyso&#xD;&#xA;&#xD;&#xA;NL hosting kubernetes">
+    <bounds
+        x="1665"
+        y="1638"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d187eae664da48db9eed5d58d9aaaae5"
+      textAlignment="1"
+      content="Conduction transform - mapping service">
+    <bounds
+        x="1952"
+        y="1600"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
