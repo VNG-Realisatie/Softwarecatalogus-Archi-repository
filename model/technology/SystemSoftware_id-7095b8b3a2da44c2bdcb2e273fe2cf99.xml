@@ -1,0 +1,12 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technologiecomponent"
+    id="id-7095b8b3a2da44c2bdcb2e273fe2cf99"
+    documentation="Systeemsoftware die de technologieservices realiseren">
+  <properties
+      key="Object ID"
+      value="a0824f48-49fc-41e5-8c9a-bcac280c492d"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+</archimate:SystemSoftware>

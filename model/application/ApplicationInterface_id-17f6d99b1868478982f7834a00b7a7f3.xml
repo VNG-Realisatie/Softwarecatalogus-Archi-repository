@@ -1,0 +1,12 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie-interface"
+    id="id-17f6d99b1868478982f7834a00b7a7f3"
+    documentation="Door een Applicatiecomponent aangeboden interface die (andere) Applicatiecomponenten, Nodes of Actoren Applicatieservices kunnen gebruiken.">
+  <properties
+      key="Object ID"
+      value="e4a3eb47-78cc-4622-8bf4-e18bcdee3830"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+</archimate:ApplicationInterface>

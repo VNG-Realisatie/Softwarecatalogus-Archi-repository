@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collaborative office document editing (optional)"
+    id="id-e2b24f5991aa4f5e8500bd576f796eff"
+    documentation="Enabling users to work individually or collectively on common office documents like XLSX, DOCX or PPTX as well as OpenDocument files."/>

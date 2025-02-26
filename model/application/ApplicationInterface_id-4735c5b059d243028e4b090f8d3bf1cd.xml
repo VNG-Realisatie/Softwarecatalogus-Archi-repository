@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="End user interface"
+    id="id-4735c5b059d243028e4b090f8d3bf1cd"
+    documentation="Access their files and folders, initiate and control sharing, monitor who is doing what with their files, search for, comment &#xD;&#xA;on, edit, view and download files. &#xD;&#xA;Files can be deleted and brought back from the trash and users can view older versions of files and restore them if they wish"/>

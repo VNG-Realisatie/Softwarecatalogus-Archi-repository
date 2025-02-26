@@ -1,5 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Triple store"
-    id="id-86ee5af89ba1419fac06a85ae47b4e6c"
-    documentation="Een database service ontworpen voor het opslaan en opvragen van semantische gegevens in RDF-triples."/>

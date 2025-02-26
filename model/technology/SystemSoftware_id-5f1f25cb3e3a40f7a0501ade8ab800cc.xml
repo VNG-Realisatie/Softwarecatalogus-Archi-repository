@@ -1,9 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Open Registers"
-    id="id-5f1f25cb3e3a40f7a0501ade8ab800cc"
-    documentation="A Nextcloud-based app for managing structured, authoritative datasets (registers). It ensures versioned, trusted, and structured data storage, accessible via API and UI.&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Store and manage registers in JSON, CSV, or XML format.&#xD;&#xA;- Version control and access permissions.&#xD;&#xA;- WebDAV &amp; API integration for external system access.&#xD;&#xA;- Federation support for syncing across Nextcloud instances.">
-  <properties
-      key="home"
-      value="https://openregisters.app/"/>
-</archimate:SystemSoftware>

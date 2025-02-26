@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiecomponent"
+    id="id-6b2f81e3ecc241af991adedf0ad1c13b"
+    documentation="Een modulair, zelfstandig inzetbaar en vervangbaar deel van een informatiesysteem dat bepaalde functionaliteit kan leveren.">
+  <properties
+      key="Object ID"
+      value="08bcd296-6744-45db-9f45-1cc5705ac3ba"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+</archimate:ApplicationComponent>

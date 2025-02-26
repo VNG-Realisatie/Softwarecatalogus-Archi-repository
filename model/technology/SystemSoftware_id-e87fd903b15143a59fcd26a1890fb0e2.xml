@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Keycloak"
-    id="id-e87fd903b15143a59fcd26a1890fb0e2"
-    documentation="Een open-source identiteits- en toegangsbeheeroplossing met Single Sign-On (SSO).&#xD;&#xA;&#xD;&#xA;Gebruikers beheer en de mogelijkheid om deze aan meerdere ADFS-omgevingen  te koppelen, waarmee per alliantie, alliantiepartner of zelfs per organisatie gebruik zou  kunnen worden gemaakt van ADFS."/>

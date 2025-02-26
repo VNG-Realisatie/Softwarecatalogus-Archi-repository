@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federation"
+    id="id-f03237696efc4388856e9baced1a58a9"
+    documentation="This feature enables transparent file sharing between users on different servers"/>

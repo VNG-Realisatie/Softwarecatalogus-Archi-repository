@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatic facets"
+    id="id-52cd8ed21bcd4695acfa4872a3109f2e"
+    documentation="Automatic Facets provide dynamic filtering options based on object properties and metadata."/>

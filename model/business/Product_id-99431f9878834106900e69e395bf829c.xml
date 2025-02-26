@@ -1,0 +1,9 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Ground platform"
+    id="id-99431f9878834106900e69e395bf829c"
+    documentation="Een in de cloud beheerd Kubernetes hosting-platform ingericht conform de Haven standaard.&#xD;&#xA;&#xD;&#xA;Een op gemeenten gerichte variant van het product managed Kubernetes">
+  <properties
+      key="URL"
+      value="https://cyso.com/cloud-infrastructure/common-ground/"/>
+</archimate:Product>

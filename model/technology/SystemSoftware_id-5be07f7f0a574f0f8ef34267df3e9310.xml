@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REDIS caching server"
+    id="id-5be07f7f0a574f0f8ef34267df3e9310"
+    documentation="Redis (which stands for REmote DIctionary Server) is an open-source in-memory data structure store that is commonly used to implement non-relational key-value databases and caches.">
+  <properties
+      key="URL"
+      value="https://redisson.org/glossary/redis.html"/>
+</archimate:SystemSoftware>

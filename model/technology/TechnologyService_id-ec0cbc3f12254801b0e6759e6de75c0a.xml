@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Authentication and Provisioning"
+    id="id-ec0cbc3f12254801b0e6759e6de75c0a"
+    documentation="Nextcloud integrates in existing account handling infrastructure. Active Directory &#xD;&#xA;and LDAP support provides account provisioning, integration and quota manage&#xD;&#xA;ment."/>

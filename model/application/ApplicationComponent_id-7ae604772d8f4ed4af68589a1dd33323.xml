@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WebDAV client"
+    id="id-7ae604772d8f4ed4af68589a1dd33323">
+  <profiles
+      href="folder.xml#id-1f9e9c3840d241a28096d4a3a37c8986"/>
+</archimate:ApplicationComponent>

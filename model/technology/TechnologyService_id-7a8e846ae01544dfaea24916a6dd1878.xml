@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File Access Control and Processing"
+    id="id-7a8e846ae01544dfaea24916a6dd1878"
+    documentation="Through File Access Control and automatic file tagging, Nextcloud gives administrators control over data access by enabling them to define strict rules requests need to adhere to"/>

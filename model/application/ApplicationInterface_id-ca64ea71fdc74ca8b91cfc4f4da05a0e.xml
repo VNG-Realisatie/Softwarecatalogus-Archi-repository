@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Admin interface"
+    id="id-ca64ea71fdc74ca8b91cfc4f4da05a0e"
+    documentation=" web interface for configuring, managing &#xD;&#xA;and monitoring Nextcloud systems "/>

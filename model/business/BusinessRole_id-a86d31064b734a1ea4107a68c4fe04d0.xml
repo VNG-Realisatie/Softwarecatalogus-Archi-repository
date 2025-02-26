@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstenafnemer"
+    id="id-a86d31064b734a1ea4107a68c4fe04d0"
+    documentation="De actor of applicatie die diensten afneemt die door een aanbieder worden aangeboden.&#xA;Een dienstenafnemer levert de gebruikersinterfaces en procesinrichting voor medewerkers van de gemeente en burgers en bedrijven en maakt daarbij gebruik van bij dienstenaanbieders afgenomen diensten.">
+  <properties
+      key="Bron"
+      value="Thema-architectuur Common Ground"/>
+  <properties
+      key="Object ID"
+      value="8eab469b-a804-42e1-a6ac-340564812c27"/>
+</archimate:BusinessRole>

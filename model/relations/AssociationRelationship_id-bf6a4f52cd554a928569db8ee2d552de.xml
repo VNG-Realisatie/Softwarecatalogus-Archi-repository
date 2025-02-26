@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert product"
+    id="id-bf6a4f52cd554a928569db8ee2d552de">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e8dda52b72c2453e8028d879d0841939.xml#id-e8dda52b72c2453e8028d879d0841939"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_id-99431f9878834106900e69e395bf829c.xml#id-99431f9878834106900e69e395bf829c"/>
+</archimate:AssociationRelationship>

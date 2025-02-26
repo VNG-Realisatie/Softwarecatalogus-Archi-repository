@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstenaanbieder"
+    id="id-6fb8f9a2056c4f929f6bca0e711a1ffd"
+    documentation="De actor of applicatie die diensten aanbiedt die door een afnemer zijn af te nemen.&#xA;Een dienstenaanbieder levert diensten waarmee dienstenafnemers toegang krijgen tot data uit databronnen.">
+  <properties
+      key="Bron"
+      value="Thema-architectuur Common Ground"/>
+  <properties
+      key="Object ID"
+      value="84a5bfce-e8c7-42e0-a094-919ac0c01f2f"/>
+</archimate:BusinessRole>

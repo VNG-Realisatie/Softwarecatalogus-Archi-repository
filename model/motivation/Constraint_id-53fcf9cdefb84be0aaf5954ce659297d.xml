@@ -1,4 +1,9 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name=" NL Design-system richtlijnen"
-    id="id-53fcf9cdefb84be0aaf5954ce659297d"/>
+    id="id-53fcf9cdefb84be0aaf5954ce659297d"
+    documentation="Richtlijnen, patronen en componenten voor het toegankelijk, inclusief en gebruiksvriendelijk ontwikkelen van interfaces">
+  <properties
+      key="URL"
+      value="https://www.nldesignsystem.nl/"/>
+</archimate:Constraint>

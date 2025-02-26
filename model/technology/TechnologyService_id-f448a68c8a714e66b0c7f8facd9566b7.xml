@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server side encryption"
+    id="id-f448a68c8a714e66b0c7f8facd9566b7"
+    documentation="object storage can be secured through server side encryption"/>

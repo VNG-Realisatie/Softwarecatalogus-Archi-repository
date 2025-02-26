@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accessing data"
+    id="id-08739f08c4e746c588f54718c1db0b5f"
+    documentation="While Nextcloud provides a great deal of control over data access and sharing to administrators, users are presented with an easy to use and familiar interface through the web browser, Android and iOS apps and desktop sync applications. "/>

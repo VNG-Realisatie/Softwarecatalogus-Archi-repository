@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File handling and storage"
+    id="id-120b86163b084162ad5e1d19faf2b09e"
+    documentation=" Nextcloud hides away file system and storage differences for the end users. It &#xD;&#xA;stores user files in standard file system formats, supporting most enterprise file &#xD;&#xA;storage systems."/>

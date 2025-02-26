@@ -1,0 +1,12 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technologieservice"
+    id="id-1a06fbd9a6ad46589e11738500be41b0"
+    documentation="Services die technische functionaliteit leveren aan applicaties. Bijvoorbeeld services voor verwerking, opslag, netwerk en beveiliging.">
+  <properties
+      key="Object ID"
+      value="04cf604a-ff4b-4974-adce-3c360a3f861c"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+</archimate:TechnologyService>

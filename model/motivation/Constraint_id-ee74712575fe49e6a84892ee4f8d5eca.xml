@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security standards and  guidlines"
+    id="id-ee74712575fe49e6a84892ee4f8d5eca"
+    documentation="Nextcloud aligns with industry standards such as Clause 14 of ISO/IEC27001-2013 and related standards, guidance and security principles"/>
