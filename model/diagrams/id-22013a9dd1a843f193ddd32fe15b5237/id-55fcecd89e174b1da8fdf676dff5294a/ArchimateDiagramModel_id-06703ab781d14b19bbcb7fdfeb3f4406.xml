@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nextcloud geplot op Common Ground 5-lagen"
-    id="id-06703ab781d14b19bbcb7fdfeb3f4406">
+    id="id-06703ab781d14b19bbcb7fdfeb3f4406"
+    documentation="De uitwerking van Nextcloud binnen het Common Ground 5-lagenmodel">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-da9eae33102a4122a6872c7b5f54a929"
@@ -741,17 +742,5 @@
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_id-ee74712575fe49e6a84892ee4f8d5eca.xml#id-ee74712575fe49e6a84892ee4f8d5eca"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6e335a59f5b8474f81aa2a407f28d371">
-    <bounds
-        x="1330"
-        y="580"
-        width="110"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_id-f03237696efc4388856e9baced1a58a9.xml#id-f03237696efc4388856e9baced1a58a9"/>
   </children>
 </archimate:ArchimateDiagramModel>

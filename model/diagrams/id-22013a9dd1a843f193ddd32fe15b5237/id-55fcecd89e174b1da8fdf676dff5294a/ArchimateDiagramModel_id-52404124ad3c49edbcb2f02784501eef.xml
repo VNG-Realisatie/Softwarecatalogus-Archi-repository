@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Softwarecatalogus component Referentiearchitectuur"
-    id="id-52404124ad3c49edbcb2f02784501eef">
+    id="id-52404124ad3c49edbcb2f02784501eef"
+    documentation="Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende services, componenten en functies">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2b738cd71fdf46cebdd1addc8e0d03f6"

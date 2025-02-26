@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nextcloud technische architectuur"
-    id="id-658e18e3dde5499fb264b32789984848">
+    id="id-658e18e3dde5499fb264b32789984848"
+    documentation="De services geleverd door Nextcloud en de onderliggende technologiecomponenten.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d65761dba0cc4d94b2b4a47569895640"

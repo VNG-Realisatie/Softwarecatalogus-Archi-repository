@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open Registers en -Connector technische architectuur"
-    id="id-af7231c22ac84c8ca03fd420c61a1d7f">
+    id="id-af7231c22ac84c8ca03fd420c61a1d7f"
+    documentation="De services geleverd door Open Registers en Open Connector, en de onderliggende (Nextcloud) technologieservices">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c6a1c66cfd974d12975180257c95a01a"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruikers en eigenaren uitzoekview"
-    id="id-31151a63a9544e498cb7fadfc1f9e2c2">
+    id="id-31151a63a9544e498cb7fadfc1f9e2c2"
+    documentation="Verdeling van eigenaarschap en verantwoordelijkheiden voor de Softwarecatalogus en gebruikte services">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ddc45359bb2c49e79b69b246a57cce87"
@@ -26,8 +27,8 @@
           href="AssociationRelationship_id-5b1ee67015184b6cb49ba2151a2e9191.xml#id-5b1ee67015184b6cb49ba2151a2e9191"/>
     </sourceConnections>
     <bounds
-        x="86"
-        y="875"
+        x="291"
+        y="905"
         width="120"
         height="55"/>
     <archimateElement
@@ -39,8 +40,8 @@
       id="id-9ed24cc7f3894a52b6bbd3bda550e512"
       targetConnections="id-633ea02feb6a4aab9cd70bfc544261b9">
     <bounds
-        x="257"
-        y="875"
+        x="462"
+        y="905"
         width="120"
         height="55"/>
     <archimateElement
@@ -60,8 +61,8 @@
           href="AssignmentRelationship_id-280fd3a5cea34553a842ab77b1b7d23e.xml#id-280fd3a5cea34553a842ab77b1b7d23e"/>
     </sourceConnections>
     <bounds
-        x="86"
-        y="660"
+        x="291"
+        y="690"
         width="120"
         height="55"/>
     <archimateElement
@@ -73,8 +74,8 @@
       id="id-711392998b484dbd9fcdfafc8404d8b4"
       targetConnections="id-4df59544519a4f818d722164cafb4e27 id-d60ccd259c8644a2b30d3de0f9acba07">
     <bounds
-        x="86"
-        y="765"
+        x="291"
+        y="795"
         width="120"
         height="55"/>
     <archimateElement
@@ -269,8 +270,8 @@
           href="RealizationRelationship_id-31aa4e0ad4eb450c8d0f41dd2a341ba4.xml#id-31aa4e0ad4eb450c8d0f41dd2a341ba4"/>
     </sourceConnections>
     <bounds
-        x="157"
-        y="960"
+        x="362"
+        y="990"
         width="120"
         height="55"/>
     <archimateElement
@@ -528,8 +529,8 @@
           href="RealizationRelationship_id-f8a0463766a5477b805099bb849bf3ab.xml#id-f8a0463766a5477b805099bb849bf3ab"/>
     </sourceConnections>
     <bounds
-        x="23"
-        y="960"
+        x="228"
+        y="990"
         width="120"
         height="55"/>
     <archimateElement
