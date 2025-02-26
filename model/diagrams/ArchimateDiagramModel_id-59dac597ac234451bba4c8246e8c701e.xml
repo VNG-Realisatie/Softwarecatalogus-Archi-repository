@@ -228,4 +228,7 @@
   <properties
       key="Object ID"
       value="ba7a2b4d-14bd-40b0-abc3-95cbef78fb05"/>
+  <properties
+      key="drivingView"
+      value="true"/>
 </archimate:ArchimateDiagramModel>
