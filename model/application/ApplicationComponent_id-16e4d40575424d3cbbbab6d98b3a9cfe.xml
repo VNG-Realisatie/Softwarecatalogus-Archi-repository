@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unit tests"
+    id="id-16e4d40575424d3cbbbab6d98b3a9cfe"
+    documentation="Voor het testen worden unit tests gebruikt, specifiek opgezet voor de backend in PHP en de frontend in Vue. Deze tests waarborgen de betrouwbaarheid van de kernfunctionaliteiten in beide lagen van de applicatie. "/>

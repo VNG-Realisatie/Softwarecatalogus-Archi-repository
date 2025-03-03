@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Softwarecatalogus component Referentiearchitectuur"
+    name="Softwarecatalogus applicatiearchitectuur Referentiearchitectuur"
     id="id-52404124ad3c49edbcb2f02784501eef"
     documentation="Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende services, componenten en functies">
   <children
@@ -244,18 +244,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cbc29a20e6674fb0af5fef5f3f194b84"
-        targetConnections="id-fbfdbdaafb974973a80d0b7b9a744cf8 id-4c73f2c6de14410ab13972437943b843"
+        targetConnections="id-fbfdbdaafb974973a80d0b7b9a744cf8 id-4c73f2c6de14410ab13972437943b843 id-88f8d908296e4f5189b0c7087ef52cf5"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-88f8d908296e4f5189b0c7087ef52cf5"
-          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          source="id-cbc29a20e6674fb0af5fef5f3f194b84"
-          target="id-f8e33642f37d40bf9500a83327bb067a">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-20fde294ac974efaa7b5f6e2b5eeacb9.xml#id-20fde294ac974efaa7b5f6e2b5eeacb9"/>
-      </sourceConnections>
       <bounds
           x="30"
           y="38"
@@ -332,11 +322,6 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-85783d711f69493b844e392743fbe609.xml#id-85783d711f69493b844e392743fbe609"/>
     </sourceConnections>
-    <sourceConnections
-        id="id-6c3748de281c4de18a42bfd947049716"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        source="id-954fafe4e4bf4eb9ab16935bc4310b71"
-        target="id-8d94e05b104545009df319c6b1e451fd"/>
     <bounds
         x="969"
         y="204"
@@ -796,8 +781,18 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-f8e33642f37d40bf9500a83327bb067a"
-          targetConnections="id-062f675a8edd4c8fa5efebac4151aad7 id-88f8d908296e4f5189b0c7087ef52cf5"
+          targetConnections="id-062f675a8edd4c8fa5efebac4151aad7"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-88f8d908296e4f5189b0c7087ef52cf5"
+            font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+            source="id-f8e33642f37d40bf9500a83327bb067a"
+            target="id-cbc29a20e6674fb0af5fef5f3f194b84">
+          <archimateRelationship
+              xsi:type="archimate:ServingRelationship"
+              href="ServingRelationship_id-20fde294ac974efaa7b5f6e2b5eeacb9.xml#id-20fde294ac974efaa7b5f6e2b5eeacb9"/>
+        </sourceConnections>
         <bounds
             x="30"
             y="30"
@@ -866,19 +861,6 @@
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_id-f5acce8932794e77b4f4aa41bc12e353.xml#id-f5acce8932794e77b4f4aa41bc12e353"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-8d94e05b104545009df319c6b1e451fd"
-      targetConnections="id-6c3748de281c4de18a42bfd947049716"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      textAlignment="1"
-      content="Samen met Rutger ArchiMate API valideren en testen">
-    <bounds
-        x="1125"
-        y="128"
-        width="185"
-        height="50"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

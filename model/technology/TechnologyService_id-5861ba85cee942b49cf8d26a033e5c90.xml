@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow"
+    id="id-5861ba85cee942b49cf8d26a033e5c90"
+    documentation="Workflow geïntegreerd met Open Registers maakt het mogelijk om extra business logic toe te voegen, zoals automatische e-mailmeldingen bij specifieke acties"/>

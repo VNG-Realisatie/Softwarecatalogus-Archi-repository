@@ -1,0 +1,9 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CI/CD pipeline"
+    id="id-2ae6a6e5d0eb4a73a035259447d6d9af"
+    documentation="Continuous Integration and Continuous Deployment is a set of practices and tools designed to improve the software development process by automating builds, testing, and deployment">
+  <properties
+      key="URL"
+      value="https://github.com/resources/articles/devops/ci-cd"/>
+</archimate:ApplicationProcess>

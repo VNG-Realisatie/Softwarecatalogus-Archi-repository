@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prometheus"
+    id="id-ad80304f74024df08d85177342471318"
+    documentation="A monitoring and alerting toolkit designed for reliability and scalability, primarily used for collecting and querying time-series data"/>

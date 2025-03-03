@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Argo CD"
+    id="id-e0129dfdf90745a59a144c6ef8480d9d"
+    documentation="Argo CD is a Kubernetes deployment tool that automatically synchronizes applications with their desired state defined in a Git repository, ensuring continuous and version-controlled delivery"/>

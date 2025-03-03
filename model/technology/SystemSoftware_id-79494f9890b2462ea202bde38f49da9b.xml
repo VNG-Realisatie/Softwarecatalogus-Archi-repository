@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windmill"
+    id="id-79494f9890b2462ea202bde38f49da9b"
+    documentation="Windmill is an open-source tool for automating workflows with scripts, APIs, and integrations.&#xD;&#xA;&#xD;&#xA;It supports various programming languages, includes a low-code UI, and allows for scheduling, triggers, and event-driven automation"/>

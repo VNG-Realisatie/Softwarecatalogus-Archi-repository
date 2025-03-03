@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cursor (AI code editor)"
+    id="id-8e85d505c0c94accacc7da5128abf7fe"
+    documentation="Cursor AI is an AI-powered code editor built to simplify and accelerate software development. It is a fork of Visual Studio Code, bringing advanced AI capabilities to a familiar interface."/>

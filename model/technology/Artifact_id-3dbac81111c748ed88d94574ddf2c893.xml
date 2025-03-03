@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Helm-chart"
+    id="id-3dbac81111c748ed88d94574ddf2c893"
+    documentation="A Helm chart is a package containing all the necessary files to define, configure, and deploy a Kubernetes application. It includes templates, default values, and metadata, allowing for reusable, versioned, and parameterized deployments."/>
