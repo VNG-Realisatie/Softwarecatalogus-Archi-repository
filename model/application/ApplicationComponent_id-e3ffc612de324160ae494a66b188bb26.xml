@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Office"
-    id="id-e3ffc612de324160ae494a66b188bb26"/>
+    id="id-e3ffc612de324160ae494a66b188bb26"
+    documentation="Microsoft Office (Office 365 / Microsoft 365) is een productiviteitssuite met apps zoals Word, Excel, PowerPoint en Outlook, ontworpen voor documentbewerking, samenwerking en communicatie"/>
