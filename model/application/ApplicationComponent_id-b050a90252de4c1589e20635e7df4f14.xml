@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Archi"
-    id="id-b050a90252de4c1589e20635e7df4f14"/>
+    id="id-b050a90252de4c1589e20635e7df4f14"
+    documentation="Archi is een gratis en open-source ArchiMate-modelleringstool, ontworpen voor enterprise-architecten om architectuurmodellen te visualiseren, analyseren en beheren"/>

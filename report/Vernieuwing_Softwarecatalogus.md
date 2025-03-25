@@ -2,7 +2,7 @@
 Snelle toegang tot de relevante view voor de vernieuwing van de Softwarecatalogus
 
 
-Report generated at: 2025-03-03  11:43:48
+Report generated at: 2025-03-11  18:32:39
 
 ---
 ## Inhoudsopgave
@@ -1641,180 +1641,209 @@ Verdeling van eigenaarschap en verantwoordelijkheiden voor de Softwarecatalogus 
 
 Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende services, componenten en functies
 <figure align="center">
-  <img width="1537" src="Vernieuwing_Softwarecatalogus/Softwarecatalogus_applicatiearchitectuur_Referentiearchitectuur.svg" alt="Softwarecatalogus applicatiearchitectuur Referentiearchitectuur">
+  <img width="1272" src="Vernieuwing_Softwarecatalogus/Softwarecatalogus_applicatiearchitectuur_Referentiearchitectuur.svg" alt="Softwarecatalogus applicatiearchitectuur Referentiearchitectuur">
   <figcaption><i>Softwarecatalogus applicatiearchitectuur Referentiearchitectuur</i></figcaption>
 </figure>
 
 <table>
   <thead>
     <tr>
-      <th colspan="3" width="20%">Element</th>
+      <th colspan="4" width="20%">Element</th>
       <th rowspan="2" width="80%">Documentation</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td></td><td></td><td></td><td></td></tr>
+    <tr><td></td><td></td><td></td><td></td><td></td></tr>
     <tr valign="top")>
-      <td colspan="3">Gebruik</td>
+      <td colspan="4">GEMMA AMEFF-bestand</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">Aanbod</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">ArchiMate File Format</td>
-      <td><p>Met het ArchiMate Bestandsuitwisselformaat kunnen architectuurtools ArchiMate architectuurmodellen met elkaar uitwisselen. Deze standaard wordt ook aangeduid als ArchiMate Model Exchange File Format (AMEFF)</p></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">AMEFF export API</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">ArchiMate API</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">Open API standaard</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">Softwarecatalogus beheer</td>
+      <td colspan="4">Softwarecatalogus beheer</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
-      <td colspan="2">Import formulier</td>
+      <td colspan="3">Import formulier</td>
       <td></td>
     </tr>
     <tr valign="top")>
+      <td colspan="4">Softwarecatalogus publiek</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
+      <td colspan="3">Views formulier</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="4">Browser</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
       <td colspan="3">Softwarecatalogus frontend</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="1"></td>
-      <td colspan="2">Beheren content en configuratie</td>
+      <td colspan="2"></td>
+      <td colspan="2">Beheerinteractie</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="3"></td>
+      <td colspan="1">Opstarten en tonen imports</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="2"></td>
-      <td colspan="1">Beheren content</td>
+      <td colspan="2">ArchiMate views</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="2"></td>
-      <td colspan="1">Beheren configuratie</td>
+      <td colspan="3"></td>
+      <td colspan="1">Ophalen ArchiMate</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="1"></td>
-      <td colspan="2">Toegangsbeveiliging</td>
+      <td colspan="3"></td>
+      <td colspan="1">SVG library x</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="2"></td>
-      <td colspan="1">Beheren gebruikers en rollen</td>
+      <td colspan="3"></td>
+      <td colspan="1">Genereren SVG</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">Softwarecatalogus backend</td>
+      <td colspan="3"></td>
+      <td colspan="1">Ophalen pakketten</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="1"></td>
-      <td colspan="2">ArchiMate integratie</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="2"></td>
-      <td colspan="1">AMEFF importer</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="2"></td>
-      <td colspan="1">AMEFF exporter</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="2"></td>
-      <td colspan="1">Version manager</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="2"></td>
-      <td colspan="1">Relation manager</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">Referentiearchitectuur</td>
+      <td colspan="4">ArchiMate API</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
-      <td colspan="2">Importeren ArchiMate</td>
+      <td colspan="3">ArchiMate File Format</td>
+      <td><p>Met het ArchiMate Bestandsuitwisselformaat kunnen architectuurtools ArchiMate architectuurmodellen met elkaar uitwisselen. Deze standaard wordt ook aangeduid als ArchiMate Model Exchange File Format (AMEFF)</p></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="4">Softwarecatalogus API</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
-      <td colspan="2">Exporteren ArchiMate</td>
+      <td colspan="3">Aanbod API mock-up</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="4">Beheren content en configuratie</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
-      <td colspan="2">Ontsluiten architectuur concepten</td>
+      <td colspan="3">Beheren content</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="4">Referentiearchitectuur</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
-      <td colspan="2">Plotten op views</td>
+      <td colspan="3">Plotten op views</td>
       <td></td>
     </tr>
     <tr valign="top")>
+      <td colspan="1"></td>
+      <td colspan="3">Importeren ArchiMate</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
+      <td colspan="3">Exporteren ArchiMate</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
+      <td colspan="3">Ontsluiten architectuur concepten</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="4">Aanbod</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
+      <td colspan="3">Raadplegen aanbod</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="4">Softwarecatalogus backend</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
+      <td colspan="3">ArchiMate integratie</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="2">Version manager</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="2">AMEFF importer</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="2">AMEFF exporter</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="2">Relation manager</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
       <td colspan="3">ArchiMate ontsluiten</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="1"></td>
+      <td colspan="2"></td>
       <td colspan="2">Opvragen elementen, relaties en views</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">ArchiMate views</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
       <td colspan="1"></td>
-      <td colspan="2">Toevoegen pakketten aan view</td>
+      <td colspan="3">Aanbod mock-up</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="1"></td>
-      <td colspan="2">Genereren SVG</td>
+      <td colspan="2"></td>
+      <td colspan="2">Ontsluit statisch lijstje pakketten</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">GEMMA AMEFF-bestand</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">Nextcloud platform services</td>
+      <td colspan="4">Nextcloud platform services</td>
       <td><p>easy, unified access to files wherever they are stored</p></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">Open Connector services</td>
+      <td colspan="4">Open Connector services</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">Open Registers services</td>
+      <td colspan="4">Open Registers services</td>
       <td><p>Voor dataopslag wordt gebruik gemaakt van Open Registers, waardoor functioneel beheerders objecten zelfstandig kunnen toevoegen of aanpassen.</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
-      <td colspan="2">GEMMA register</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">SVG library x</td>
+      <td colspan="3">GEMMA register</td>
       <td></td>
     </tr>
   </tbody>
@@ -1824,7 +1853,7 @@ Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende serv
 
 Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende services, componenten en functies
 <figure align="center">
-  <img width="2197" src="Vernieuwing_Softwarecatalogus/Softwarecatalogus_applicatiearchitectuur.svg" alt="Softwarecatalogus applicatiearchitectuur">
+  <img width="1886" src="Vernieuwing_Softwarecatalogus/Softwarecatalogus_applicatiearchitectuur.svg" alt="Softwarecatalogus applicatiearchitectuur">
   <figcaption><i>Softwarecatalogus applicatiearchitectuur</i></figcaption>
 </figure>
 
@@ -1838,11 +1867,27 @@ Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende serv
   <tbody>
     <tr><td></td><td></td><td></td><td></td></tr>
     <tr valign="top")>
-      <td colspan="3">ArchiMate File Format</td>
-      <td><p>Met het ArchiMate Bestandsuitwisselformaat kunnen architectuurtools ArchiMate architectuurmodellen met elkaar uitwisselen. Deze standaard wordt ook aangeduid als ArchiMate Model Exchange File Format (AMEFF)</p></td>
+      <td colspan="3">Browser</td>
+      <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">AMEFF export API</td>
+      <td colspan="1"></td>
+      <td colspan="2">Softwarecatalogus frontend</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="1">Softwarecatalogus beheer</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="1">Softwarecatalogus publiek</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="1">Softwarecatalogus besloten</td>
       <td></td>
     </tr>
     <tr valign="top")>
@@ -1850,36 +1895,36 @@ Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende serv
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">Open API standaard</td>
-      <td></td>
+      <td colspan="1"></td>
+      <td colspan="2">ArchiMate File Format</td>
+      <td><p>Met het ArchiMate Bestandsuitwisselformaat kunnen architectuurtools ArchiMate architectuurmodellen met elkaar uitwisselen. Deze standaard wordt ook aangeduid als ArchiMate Model Exchange File Format (AMEFF)</p></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">Raadplegen aanbod API</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">Raadplegen gebruik API</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">Registreren aanbod API</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">Registreren gebruik API</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">Softwarecatalogus beheer</td>
+      <td colspan="3">Softwarecatalogus API</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
-      <td colspan="2">Import formulier</td>
+      <td colspan="2">Organisatie API</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="3">Softwarecatalogus frontend</td>
+      <td colspan="1"></td>
+      <td colspan="2">Aanbod API</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
+      <td colspan="2">Gebruik API</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
+      <td colspan="2">Open API standaard</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="3">Softwarecatalogus backend</td>
       <td></td>
     </tr>
     <tr valign="top")>
@@ -1895,20 +1940,6 @@ Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende serv
     <tr valign="top")>
       <td colspan="2"></td>
       <td colspan="1">Beheren configuratie</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="1"></td>
-      <td colspan="2">Toegangsbeveiliging</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="2"></td>
-      <td colspan="1">Beheren gebruikers en rollen</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">Softwarecatalogus backend</td>
       <td></td>
     </tr>
     <tr valign="top")>
@@ -1968,6 +1999,16 @@ Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende serv
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
+      <td colspan="2">Toegangsbeveiliging</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="1">Beheren gebruikers en rollen</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="1"></td>
       <td colspan="2">Organisatie</td>
       <td></td>
     </tr>
@@ -2009,10 +2050,6 @@ Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende serv
     <tr valign="top")>
       <td colspan="2"></td>
       <td colspan="1">Exporteren ArchiMate</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="3">GEMMA AMEFF-bestand</td>
       <td></td>
     </tr>
     <tr valign="top")>
@@ -2076,7 +2113,7 @@ Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende serv
     <tr><td></td><td></td><td></td><td></td></tr>
     <tr valign="top")>
       <td colspan="3">Softwarecatalogus</td>
-      <td></td>
+      <td><p>De GEMMA Softwarecatalogus geeft een overzicht van applicaties en leveranciers die binnen Nederlandse gemeenten worden gebruikt, bedoeld om transparantie te bieden, samenwerking te stimuleren en standaardisatie binnen gemeentelijke IT te bevorderen.</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="3">Softwarecatalogus services</td>
@@ -2299,7 +2336,7 @@ Provides gateway and service bus functionality like mapping, translation and syn
 ### DevOps en tools
 
 <figure align="center">
-  <img width="1939" src="Vernieuwing_Softwarecatalogus/DevOps_en_tools.svg" alt="DevOps en tools">
+  <img width="1681" src="Vernieuwing_Softwarecatalogus/DevOps_en_tools.svg" alt="DevOps en tools">
   <figcaption><i>DevOps en tools</i></figcaption>
 </figure>
 
@@ -2314,7 +2351,7 @@ Provides gateway and service bus functionality like mapping, translation and syn
     <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr valign="top")>
       <td colspan="5">Development</td>
-      <td></td>
+      <td><p>Het proces van ontwerpen, coderen, testen en implementeren van software, gericht op snelle en iteratieve levering van functionaliteit.</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
@@ -2324,7 +2361,7 @@ Provides gateway and service bus functionality like mapping, translation and syn
     <tr valign="top")>
       <td colspan="2"></td>
       <td colspan="3">Office</td>
-      <td></td>
+      <td><p>Microsoft Office (Office 365 / Microsoft 365) is een productiviteitssuite met apps zoals Word, Excel, PowerPoint en Outlook, ontworpen voor documentbewerking, samenwerking en communicatie</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="3"></td>
@@ -2334,7 +2371,7 @@ Provides gateway and service bus functionality like mapping, translation and syn
     <tr valign="top")>
       <td colspan="2"></td>
       <td colspan="3">Archi</td>
-      <td></td>
+      <td><p>Archi is een gratis en open-source ArchiMate-modelleringstool, ontworpen voor enterprise-architecten om architectuurmodellen te visualiseren, analyseren en beheren</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="3"></td>
@@ -2357,9 +2394,19 @@ Provides gateway and service bus functionality like mapping, translation and syn
       <td></td>
     </tr>
     <tr valign="top")>
+      <td colspan="3"></td>
+      <td colspan="2">Documentatie</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
       <td colspan="2"></td>
       <td colspan="3">GitKraken</td>
-      <td></td>
+      <td><p>GitKraken is een grafische Git-client die ontwikkeld is voor intuïtief versiebeheer, met functies zoals visuele commit-historie, ingebouwde GitFlow-ondersteuning, integraties met platforms zoals GitHub en GitLab, en samenwerkingstools voor teams.</p></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="3">Docusaurus</td>
+      <td><p>Docusaurus is een open-source documentatieframework gebaseerd op Markdown en React, ontworpen voor het eenvoudig beheren en publiceren van technische documentatie, met features zoals automatische navigatie, versiebeheer, meertalige ondersteuning en eenvoudige hosting.</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
@@ -2369,7 +2416,7 @@ Provides gateway and service bus functionality like mapping, translation and syn
     <tr valign="top")>
       <td colspan="2"></td>
       <td colspan="3">Docker</td>
-      <td></td>
+      <td><p>Docker is a containerization platform that allows developers to package, distribute, and run applications in isolated environments, ensuring consistency, scalability, and efficiency across different environments.</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
@@ -2399,7 +2446,12 @@ Provides gateway and service bus functionality like mapping, translation and syn
     <tr valign="top")>
       <td colspan="2"></td>
       <td colspan="3">Postman</td>
-      <td></td>
+      <td><p>Postman is een API-ontwikkelingsplatform waarmee ontwikkelaars API’s kunnen ontwerpen, testen en documenteren</p></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="3">Stoplight.io</td>
+      <td><p>Stoplight is a collaborative API design platform that enables you to build excellent APIs and create scalable API programs</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="5">GitHub.com</td>
@@ -2422,17 +2474,22 @@ Provides gateway and service bus functionality like mapping, translation and syn
     </tr>
     <tr valign="top")>
       <td colspan="2"></td>
-      <td colspan="3">(Project)documentatie</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="2"></td>
       <td colspan="3">Softwarecatalogus-code</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="2"></td>
       <td colspan="3">Configs</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="2"></td>
+      <td colspan="3">GitHub pages</td>
+      <td></td>
+    </tr>
+    <tr valign="top")>
+      <td colspan="3"></td>
+      <td colspan="2">Documentatie</td>
       <td></td>
     </tr>
     <tr valign="top")>
@@ -2451,27 +2508,26 @@ Provides gateway and service bus functionality like mapping, translation and syn
       <td></td>
     </tr>
     <tr valign="top")>
+      <td colspan="5">Softwarecatalogus</td>
+      <td><p>De GEMMA Softwarecatalogus geeft een overzicht van applicaties en leveranciers die binnen Nederlandse gemeenten worden gebruikt, bedoeld om transparantie te bieden, samenwerking te stimuleren en standaardisatie binnen gemeentelijke IT te bevorderen.</p></td>
+    </tr>
+    <tr valign="top")>
       <td colspan="5">Cloud infrastructuur</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
-      <td colspan="4">Softwarecatalogus</td>
+      <td colspan="4">Softwarecatalogus production image</td>
       <td></td>
     </tr>
     <tr valign="top")>
-      <td colspan="2"></td>
-      <td colspan="3">Softwarecatalogus production image</td>
-      <td></td>
-    </tr>
-    <tr valign="top")>
-      <td colspan="2"></td>
-      <td colspan="3">Softwarecatalogus staging image</td>
+      <td colspan="1"></td>
+      <td colspan="4">Softwarecatalogus staging image</td>
       <td></td>
     </tr>
     <tr valign="top")>
       <td colspan="5">Operations</td>
-      <td></td>
+      <td><p>Het beheren en onderhouden van IT-infrastructuur, applicaties en services, met focus op stabiliteit, schaalbaarheid en betrouwbaarheid.</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="1"></td>
@@ -2532,12 +2588,13 @@ Tools: Snyk, Trivy, OWASP ZAP</p></td>
     <tr valign="top")>
       <td colspan="2"></td>
       <td colspan="3">Pentest-Tools.com </td>
-      <td><p>Pentest-Tools.com is a web-based platform that speeds-up the common steps performed in almost every assessment: reconnaissance, vulnerability scanning, exploitation, and report writing</p></td>
+      <td><p>Pentest-Tools.com is een online platform voor penetratietesten, waarmee beveiligingsprofessionals websites, netwerken en systemen kunnen scannen op kwetsbaarheden</p>
+<p>Pentest-Tools.com is a web-based platform that speeds-up the common steps performed in almost every assessment: reconnaissance, vulnerability scanning, exploitation, and report writing</p></td>
     </tr>
     <tr valign="top")>
       <td colspan="2"></td>
-      <td colspan="3">nl.internet.nl</td>
-      <td></td>
+      <td colspan="3">NL.Internet.nl</td>
+      <td><p>NL.Internet.nl is een online testtool ontwikkeld door het Internet Standards Platform om websites, e-mail en internetverbindingen te controleren op moderne internetstandaarden, zoals IPv6, DNSSEC, HTTPS en STARTTLS, met als doel de veiligheid en toekomstbestendigheid van het Nederlandse internet te verbeteren.</p></td>
     </tr>
   </tbody>
 </table>
