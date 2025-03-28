@@ -80,4 +80,16 @@
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-3f69c472ff1a42a2aef81a778145e0ae.xml#id-3f69c472ff1a42a2aef81a778145e0ae"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5e6b81d70e2e4c5ea0b563f403168b72">
+    <bounds
+        x="48"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-4ab089187a0048dba6520b605318f9fd.xml#id-4ab089187a0048dba6520b605318f9fd"/>
+  </children>
 </archimate:ArchimateDiagramModel>
