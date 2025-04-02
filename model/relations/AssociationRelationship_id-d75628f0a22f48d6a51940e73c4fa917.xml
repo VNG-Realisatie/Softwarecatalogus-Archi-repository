@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="heeft"
+    name="biedt aan/gebruikt"
     id="id-d75628f0a22f48d6a51940e73c4fa917"
     directed="true">
   <source
