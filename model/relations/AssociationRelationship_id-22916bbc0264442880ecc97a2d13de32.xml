@@ -1,13 +1,13 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="biedt aan/gebruikt"
-    id="id-d75628f0a22f48d6a51940e73c4fa917"
+    name="heeft"
+    id="id-22916bbc0264442880ecc97a2d13de32"
     directed="true">
   <source
       xsi:type="archimate:DataObject"
-      href="DataObject_id-03b6d5a76eec4683b85b89073a34ed99.xml#id-03b6d5a76eec4683b85b89073a34ed99"/>
+      href="DataObject_id-ea43938826e945baaaf519f76ee6ccf9.xml#id-ea43938826e945baaaf519f76ee6ccf9"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-ea43938826e945baaaf519f76ee6ccf9.xml#id-ea43938826e945baaaf519f76ee6ccf9"/>
+      href="DataObject_id-9a2463a53b26406d9728bd44dcb5b521.xml#id-9a2463a53b26406d9728bd44dcb5b521"/>
 </archimate:AssociationRelationship>
