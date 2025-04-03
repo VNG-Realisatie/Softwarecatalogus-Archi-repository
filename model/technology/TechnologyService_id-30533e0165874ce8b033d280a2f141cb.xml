@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Register en objecten service"
+    id="id-30533e0165874ce8b033d280a2f141cb"
+    documentation="Store and manage registers of objects within their Nextcloud instance&#xD;&#xA;"/>

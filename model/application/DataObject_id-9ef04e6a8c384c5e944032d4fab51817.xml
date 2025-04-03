@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Referentieconcept"
-    id="id-9ef04e6a8c384c5e944032d4fab51817"/>
+    id="id-9ef04e6a8c384c5e944032d4fab51817"
+    documentation="- referentiecomponenten&#xD;&#xA;- applicatieservices&#xD;&#xA;- bedrijfsfuncties"/>

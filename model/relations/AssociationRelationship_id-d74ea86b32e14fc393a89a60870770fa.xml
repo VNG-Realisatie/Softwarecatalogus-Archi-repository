@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt afgesloten door"
+    id="id-d74ea86b32e14fc393a89a60870770fa"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-20b7f683a2bc4be29dd1e72d4be22cbf.xml#id-20b7f683a2bc4be29dd1e72d4be22cbf"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-03b6d5a76eec4683b85b89073a34ed99.xml#id-03b6d5a76eec4683b85b89073a34ed99"/>
+</archimate:AssociationRelationship>

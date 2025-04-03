@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="heeft betrekking op"
+    name="(heeft betrekking) op"
     id="id-afdce43675e84beca5cc58796b75940c"
     directed="true">
   <source
@@ -9,5 +9,5 @@
       href="DataObject_id-ea43938826e945baaaf519f76ee6ccf9.xml#id-ea43938826e945baaaf519f76ee6ccf9"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-0ab3738b82734d5ab67d224344c60f43.xml#id-0ab3738b82734d5ab67d224344c60f43"/>
+      href="DataObject_id-952302bc94204053bcca4bf38dd0e753.xml#id-952302bc94204053bcca4bf38dd0e753"/>
 </archimate:AssociationRelationship>

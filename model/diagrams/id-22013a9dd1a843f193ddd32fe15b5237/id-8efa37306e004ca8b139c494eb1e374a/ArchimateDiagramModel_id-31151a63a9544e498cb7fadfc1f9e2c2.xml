@@ -288,8 +288,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-0e49a07cf0cd47e39b94cf9bdad3d023.xml#id-0e49a07cf0cd47e39b94cf9bdad3d023"/>
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-a6dba1d44f7741039b95b38de8f9e6bd.xml#id-a6dba1d44f7741039b95b38de8f9e6bd"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -448,8 +448,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-4714c70de9db49cdac11b4f0b392bc91.xml#id-4714c70de9db49cdac11b4f0b392bc91"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-f646db43b173499c96b4918533ffa8f3.xml#id-f646db43b173499c96b4918533ffa8f3"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -461,8 +461,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-d4c6b80af89f454db08f79a142a53dc8.xml#id-d4c6b80af89f454db08f79a142a53dc8"/>
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-58246031176e4299972849b083ef3e05.xml#id-58246031176e4299972849b083ef3e05"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -600,8 +600,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-8d430072e839447caf9e3ea96bc7b812.xml#id-8d430072e839447caf9e3ea96bc7b812"/>
+            xsi:type="archimate:SystemSoftware"
+            href="SystemSoftware_id-7183cacaa98a4b419149d9e823baf87b.xml#id-7183cacaa98a4b419149d9e823baf87b"/>
       </children>
       <archimateElement
           xsi:type="archimate:Artifact"
@@ -709,8 +709,8 @@
         source="id-7da5e341b1fd4716895d4fac27fe4045"
         target="id-f4bc361a19c347a79cf6139a1efc0d4f">
       <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_id-55c04b8a8ee34ad496840eb552b1f60d.xml#id-55c04b8a8ee34ad496840eb552b1f60d"/>
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-6a527c0e0b31461291b7db18bf46c986.xml#id-6a527c0e0b31461291b7db18bf46c986"/>
     </sourceConnections>
     <bounds
         x="242"

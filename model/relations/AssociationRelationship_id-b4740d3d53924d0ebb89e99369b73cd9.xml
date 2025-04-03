@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afkomstig uit"
+    id="id-b4740d3d53924d0ebb89e99369b73cd9"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9ef04e6a8c384c5e944032d4fab51817.xml#id-9ef04e6a8c384c5e944032d4fab51817"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-090fedd2dd32442b863705ca652b0f8d.xml#id-090fedd2dd32442b863705ca652b0f8d"/>
+</archimate:AssociationRelationship>

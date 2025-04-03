@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Registers services"
+    id="id-f9e0b09c951a4812aeee26fa357b8241"
+    documentation="Voor dataopslag wordt gebruik gemaakt van Open Registers, waardoor functioneel beheerders objecten zelfstandig kunnen toevoegen of aanpassen."/>

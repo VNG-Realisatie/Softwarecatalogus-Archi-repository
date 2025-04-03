@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Softwarecatalogus applicatiearchitectuur"
+    name="Applicatiearchitectuur MVP"
     id="id-d2634ad3d74e4fbea1fd1340d76ecb45"
     documentation="Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende services, componenten en functies">
   <children
@@ -761,8 +761,8 @@
           href="Artifact_id-630873cd35b944fea7e60a611b998c75.xml#id-630873cd35b944fea7e60a611b998c75"/>
     </children>
     <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-02c2cb3bd5f84ef8a866477258c4059d.xml#id-02c2cb3bd5f84ef8a866477258c4059d"/>
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-f9e0b09c951a4812aeee26fa357b8241.xml#id-f9e0b09c951a4812aeee26fa357b8241"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -783,8 +783,8 @@
         width="201"
         height="76"/>
     <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-0e49a07cf0cd47e39b94cf9bdad3d023.xml#id-0e49a07cf0cd47e39b94cf9bdad3d023"/>
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-a6dba1d44f7741039b95b38de8f9e6bd.xml#id-a6dba1d44f7741039b95b38de8f9e6bd"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"

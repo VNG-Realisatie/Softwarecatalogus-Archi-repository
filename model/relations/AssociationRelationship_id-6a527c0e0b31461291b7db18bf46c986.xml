@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is fork of"
+    id="id-6a527c0e0b31461291b7db18bf46c986">
+  <properties
+      key="Type before conversion"
+      value="specialization-relationship"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f719001359cf4570b91c0feb664cf59e.xml#id-f719001359cf4570b91c0feb664cf59e"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-7183cacaa98a4b419149d9e823baf87b.xml#id-7183cacaa98a4b419149d9e823baf87b"/>
+</archimate:AssociationRelationship>

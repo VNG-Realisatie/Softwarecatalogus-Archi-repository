@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Connector"
+    id="id-f646db43b173499c96b4918533ffa8f3"
+    documentation="A middleware service that connects different data sources (APIs, databases, cloud storage) and transforms data into a standardized format for reuse.  &#xD;&#xA;Provides gateway and service bus functionality like mapping, translation and synchronisation of data&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Connects APIs, databases, and external registers.  &#xD;&#xA;- Converts and normalizes data into common formats (JSON, RDF, etc.).  &#xD;&#xA;- Automates data ingestion and synchronization.  &#xD;&#xA;- Supports workflow automation for seamless integration."/>

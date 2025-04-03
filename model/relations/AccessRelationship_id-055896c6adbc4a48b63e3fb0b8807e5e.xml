@@ -4,8 +4,8 @@
     id="id-055896c6adbc4a48b63e3fb0b8807e5e"
     accessType="3">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-02c2cb3bd5f84ef8a866477258c4059d.xml#id-02c2cb3bd5f84ef8a866477258c4059d"/>
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-f9e0b09c951a4812aeee26fa357b8241.xml#id-f9e0b09c951a4812aeee26fa357b8241"/>
   <target
       xsi:type="archimate:Artifact"
       href="Artifact_id-09785b86b0ec4712a137792a0872ac8f.xml#id-09785b86b0ec4712a137792a0872ac8f"/>

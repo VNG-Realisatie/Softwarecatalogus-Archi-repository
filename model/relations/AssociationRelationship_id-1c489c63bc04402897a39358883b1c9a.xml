@@ -1,8 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="biedt aan / gebruikt"
-    id="id-1c489c63bc04402897a39358883b1c9a">
+    name="is (intellectueel) eigenaar van"
+    id="id-1c489c63bc04402897a39358883b1c9a"
+    directed="true">
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-03b6d5a76eec4683b85b89073a34ed99.xml#id-03b6d5a76eec4683b85b89073a34ed99"/>
