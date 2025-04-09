@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsobject"
+    id="EAID_CBF07C0B_ADE4_4e67_8442_CDC13C116B3F"
+    documentation="Nieuw toegevoegd, gebaseerd op GEMMA.">
+  <properties
+      key="ArchiMate concept"
+      value="Business Object"/>
+  <properties
+      key="GEMMA begrip"
+      value="Bedrijfsobject"/>
+  <properties
+      key="GEMMA definitie"
+      value="Een concept dat binnen een bepaald domein wordt gebruikt en betekenis heeft."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een concept dat binnen een bepaald domein wordt gebruikt en betekenis heeft."/>
+</archimate:BusinessObject>

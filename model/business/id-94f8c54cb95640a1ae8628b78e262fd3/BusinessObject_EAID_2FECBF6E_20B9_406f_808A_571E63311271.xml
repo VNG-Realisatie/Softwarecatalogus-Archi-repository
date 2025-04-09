@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaardtype"
+    id="EAID_2FECBF6E_20B9_406f_808A_571E63311271"
+    documentation="In lijn met organisatietype">
+  <properties
+      key="FORA begrip"
+      value="Standaardgroep?"/>
+  <properties
+      key="FORA definitie"
+      value="Indeling van standaarden voor de (mate van) bouwbaarheid en testbaarheid"/>
+  <properties
+      key="Opmerking"
+      value="In lijn met organisatietype"/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een typering van een standaard."/>
+</archimate:BusinessObject>

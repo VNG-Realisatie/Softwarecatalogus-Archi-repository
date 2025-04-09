@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorzienings-aanbod"
+    id="EAID_A187BE7A_30C8_47a6_9AFE_2B28AD2E7479"
+    documentation="De hoedanigheid waarin een Voorzieningen door een leveranciersorganisatie kan worden geproduceerd, geleverd of beheerd&#xA;&#xA;Voorbeelden van die hoedanisheid&#xA;- Leverancier &#xA;- Verkoper &#xA;- Beheerder">
+  <properties
+      key="Voorstel SWC definitie"
+      value="Typering van de relatie tussen Organisatie en Voorziening"/>
+</archimate:BusinessObject>

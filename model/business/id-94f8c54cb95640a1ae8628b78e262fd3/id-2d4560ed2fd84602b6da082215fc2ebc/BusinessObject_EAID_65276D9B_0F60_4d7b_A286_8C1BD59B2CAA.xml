@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiecomponent"
+    id="EAID_65276D9B_0F60_4d7b_A286_8C1BD59B2CAA"
+    documentation="Gebaseerd op GEMMA">
+  <properties
+      key="ArchiMate concept"
+      value="Application component"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Een modulair, zelfstandig inzetbaar en vervangbaar deel van een informatiesysteem dat bepaalde functionaliteit kan leveren."/>
+  <properties
+      key="GEMMA begrip"
+      value="Applicatiecomponent"/>
+  <properties
+      key="GEMMA definitie"
+      value="Een modulair, zelfstandig inzetbaar en vervangbaar deel van een informatiesysteem dat bepaalde functionaliteit kan leveren."/>
+  <properties
+      key="Opmerking"
+      value="Gebaseerd op GEMMA"/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een modulair, zelfstandig inzetbaar en vervangbaar deel van een informatiesysteem dat bepaalde functionaliteit kan leveren."/>
+</archimate:BusinessObject>

@@ -158,14 +158,14 @@
         x="20"
         y="420"
         width="826"
-        height="441"/>
+        height="486"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-69f13712e84e4da589250e0e575880d2"
         fillColor="#ffffcc">
       <bounds
-          x="20"
-          y="40"
+          x="19"
+          y="35"
           width="781"
           height="55"/>
       <referencedModel
@@ -177,8 +177,8 @@
         id="id-aef16f53480b4b558b46f1e3a728f6f7"
         fillColor="#def6e3">
       <bounds
-          x="20"
-          y="290"
+          x="19"
+          y="345"
           width="781"
           height="55"/>
       <referencedModel
@@ -190,8 +190,8 @@
         id="id-de7e3c82a069446485b32bb5ac2d2e65"
         fillColor="#def6e3">
       <bounds
-          x="21"
-          y="225"
+          x="20"
+          y="280"
           width="780"
           height="55"/>
       <referencedModel
@@ -202,8 +202,8 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-c39da7794edb4c4b8e4b06f8979d53d3">
       <bounds
-          x="21"
-          y="360"
+          x="20"
+          y="415"
           width="780"
           height="55"/>
       <referencedModel
@@ -215,8 +215,8 @@
         id="id-c6ab5688eda549ad942e39269fc4fafa"
         fillColor="#d9ffff">
       <bounds
-          x="21"
-          y="110"
+          x="20"
+          y="165"
           width="780"
           height="102"/>
       <referencedModel
@@ -228,13 +228,26 @@
         id="id-249955163d264b489deb0abe340ee0f0"
         fillColor="#d9ffff">
       <bounds
-          x="40"
-          y="145"
+          x="39"
+          y="200"
           width="322"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-52404124ad3c49edbcb2f02784501eef.xml#id-52404124ad3c49edbcb2f02784501eef"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-638c7989e602462d9d3f49c42e328d5a"
+        fillColor="#d9ffff">
+      <bounds
+          x="20"
+          y="100"
+          width="780"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-811e1ce341d54da7b057b71a7d554b7f.xml#id-811e1ce341d54da7b057b71a7d554b7f"/>
     </children>
   </children>
   <properties

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voldoet aan"
+    id="id-c89680849b4a4ac99dd26635a94fcd4b"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_FC4F9164_216F_47be_BCA9_B9FE8F46E171.xml#EAID_FC4F9164_216F_47be_BCA9_B9FE8F46E171"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-64087130bce245d798b029eae6650188.xml#id-64087130bce245d798b029eae6650188"/>
+</archimate:AssociationRelationship>

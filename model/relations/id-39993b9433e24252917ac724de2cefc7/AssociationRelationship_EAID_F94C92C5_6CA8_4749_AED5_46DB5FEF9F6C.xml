@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is onderdeel van"
+    id="EAID_F94C92C5_6CA8_4749_AED5_46DB5FEF9F6C"
+    documentation="bv in he kader van een samenwerkingsverband"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_2C034536_DA51_4315_AACD_522393EDF5C8.xml#EAID_2C034536_DA51_4315_AACD_522393EDF5C8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_2C034536_DA51_4315_AACD_522393EDF5C8.xml#EAID_2C034536_DA51_4315_AACD_522393EDF5C8"/>
+</archimate:AssociationRelationship>

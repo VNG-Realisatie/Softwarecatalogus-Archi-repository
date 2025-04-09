@@ -1,0 +1,11 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentiearchitectuur"
+    id="EAID_B8CF3433_5F38_4461_93F2_F218AC03E2E9">
+  <properties
+      key="Externe bron"
+      value="https://www.referentiearchitectuur.nl/index.php/Toepassen_van_referentie-architectuur#:~:text=5%20Meer%20documentatie-,Wat%20is%20een%20referentie%2Darchitectuur%3F,'solution%20architectures'')."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Herbruikbare architecturen, die gebaseerd zijn op best-practices. Zij bieden een sjabloon voor het opstellen van specifieke enterprise-architecturen en oplossingsarchitecturen (''solution architectures'')"/>
+</archimate:Grouping>

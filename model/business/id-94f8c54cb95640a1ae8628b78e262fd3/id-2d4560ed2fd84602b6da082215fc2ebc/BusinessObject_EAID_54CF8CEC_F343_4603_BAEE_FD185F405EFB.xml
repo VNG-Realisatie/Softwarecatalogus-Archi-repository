@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsfunctie"
+    id="EAID_54CF8CEC_F343_4603_BAEE_FD185F405EFB"
+    documentation="Gebaseerd op FORA en gecombineerd met GEMMA&#xA;&#xA;Maarten de Niet: Een bedrijfsfunctie is een verzameling gedrag op basis van een gekozen reeks criteria (doorgaans vereiste bedrijfsmiddelen en / of competenties), nauw afgestemd op een organisatie, maar niet noodzakelijkerwijs expliciet bepaald door de organisatie. (Bron: Archimate)">
+  <properties
+      key="ArchiMate concept"
+      value="Business function"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Activiteiten die zijn gegroepeerd omdat daarvoor vergelijkbare bedrijfsmiddelen, kennis of competenties nodig zijn."/>
+  <properties
+      key="FORA begrip"
+      value="(M) Bedrijfsfunctie"/>
+  <properties
+      key="FORA definitie"
+      value="&quot;Taak of verantwoordelijkheid die door een Organisatie of een individu in een bepaalde Rol wordt ingevuld (&quot;&quot;assigned&quot;&quot;). Een bedrijfsfunctie wordt ondersteund (&quot;&quot;served&quot;&quot;) door een of meer Applicatiefuncties, en verwerkt (&quot;&quot;access&quot;&quot;) informatie bij de ui"/>
+  <properties
+      key="GEMMA begrip"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="GEMMA definitie"
+      value="Activiteiten die zijn gegroepeerd omdat daarvoor vergelijkbare bedrijfsmiddelen, kennis of competenties nodig zijn."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Taak of verantwoordelijkheid, waarvoor vergelijkbare kennis, competenties of bedrijfsmiddelen ingezet worden, die door een Organisatie in een bepaalde Organisatierol wordt ingevuld."/>
+  <properties
+      key="WILMA begrip "
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="WILMA definitie"
+      value="Een bedrijfsfunctie is een samenhangde verzameling activiteiten waarvoor vergelijkbare expertise en resources ingezet worden."/>
+</archimate:BusinessObject>

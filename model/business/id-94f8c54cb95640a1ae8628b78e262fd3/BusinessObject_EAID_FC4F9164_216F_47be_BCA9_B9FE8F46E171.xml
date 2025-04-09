@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorziening"
+    id="EAID_FC4F9164_216F_47be_BCA9_B9FE8F46E171"
+    documentation="Groepering van services die aan afnemers worden aangeboden, met als doel het bevorderen van uniformiteit en efficiëntie.">
+  <properties
+      key="ArchiMate concept"
+      value="Business service"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Activiteiten gebundeld in een dienst die via één of meerdere Kanalen kan worden afgenomen."/>
+  <properties
+      key="FORA begrip"
+      value="(M) Landelijke voorziening"/>
+  <properties
+      key="FORA definitie"
+      value="Een bovenschools of landelijk Systeem of geheel van systemen en modules waar meerdere onderwijsinstellingen informatie verwerken, opslaan, of uitwisselen. Een landelijke voorziening heeft (&quot;Realiseert&quot;) een of meer Landelijke services, en maakt deel uit v"/>
+  <properties
+      key="NORA begrip"
+      value="Voorziening"/>
+  <properties
+      key="NORA definitie"
+      value="Groepering van services die aan afnemers worden aangeboden."/>
+  <properties
+      key="Opmerking"
+      value="Gebaseerd op NORA"/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Groepering van services die aan afnemers worden aangeboden, met als doel het bevorderen van uniformiteit en efficiëntie binnen de overheid."/>
+</archimate:BusinessObject>

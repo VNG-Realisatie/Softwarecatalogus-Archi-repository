@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract"
+    id="EAID_B5A6C0EA_E370_4124_908D_50916DCA920E"
+    documentation="Bron ArchiMate">
+  <properties
+      key="ArchiMate concept"
+      value="Contract"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Afspraken tussen een aanbieder en afnemer van Product(en) of Dienst(en) die rechten en plichten van beide partijen beschrijven."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een contract vertegenwoordigt een formele of informele specificatie van een overeenkomst tussen een aanbieder en een consument."/>
+</archimate:BusinessObject>

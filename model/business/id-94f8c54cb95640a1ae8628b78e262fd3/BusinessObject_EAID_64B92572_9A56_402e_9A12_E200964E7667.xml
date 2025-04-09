@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikersrol"
+    id="EAID_64B92572_9A56_402e_9A12_E200964E7667"
+    documentation="De verantwoordelijkheid en daarbij benodigde toegangsrechten die aan een gebruiker toegewezen kunnen worden">
+  <properties
+      key="ArchiMate concept"
+      value="Business Role"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Een bedrijfsrol is de verantwoordelijkheid voor specifiek gedrag waar een bedrijfsactor aan toegewezen kan worden."/>
+  <properties
+      key="Opmerking"
+      value="of rechten"/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="De verantwoordelijkheid en daarbij benodigde toegangsrechten waar een gebruiker aan toegewezen kan worden"/>
+</archimate:BusinessObject>

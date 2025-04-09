@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatietype"
+    id="EAID_16CF75B2_3B1E_4900_9939_C7A37F4A3242"
+    documentation="In lijn met Standaardtype">
+  <properties
+      key="Voorstel SWC definitie"
+      value="Typering van een organisatie"/>
+  <properties
+      key="WILMA begrip "
+      value="Standaardgroep?"/>
+  <properties
+      key="WILMA definitie"
+      value="Indeling van standaarden voor de (mate van) bouwbaarheid en testbaarheid"/>
+</archimate:BusinessObject>

@@ -1,0 +1,11 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanbod"
+    id="EAID_844131A4_873C_43ca_970A_D114457E189D">
+  <properties
+      key="Externe bron"
+      value="https://www.ensie.nl/nima/aanbod"/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Het totaal aan voorzieningen dat in een bepaald geografisch gebied gedurende een bepaalde periode wordt aangeboden."/>
+</archimate:Grouping>

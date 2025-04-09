@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsproces"
+    id="EAID_9B00F966_A0DF_4484_ADD6_2E9D030DBF38"
+    documentation="Gebaseerd op WILMA&#xA;&#xA;Maarten de Niet: Alternatief voorstel:&#xA;Een bedrijfsproces vertegenwoordigt een opeenvolging van gedrag waarmee een specifiek resultaat wordt bereikt, zoals een gedefinieerde reeks producten of bedrijfsdiensten. (Bron: Archimate)">
+  <properties
+      key="ArchiMate concept"
+      value="Business process"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Reeks opeenvolgend uit te voeren activiteiten die bijdraagt aan een specifiek resultaat."/>
+  <properties
+      key="GEMMA begrip"
+      value="Bedrijfsproces"/>
+  <properties
+      key="GEMMA definitie"
+      value="Een specifieke vorm van Proces, bestaande uit een geordende reeks van Deelprocessen die kan worden uitgevoerd om één of meerdere (samenhangende) Producten of Diensten te leveren."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een keten van activiteiten om een product of dienst te leveren die bijdraagt aan de doelstellingen of bedrijfsfuncties van de organisatie."/>
+  <properties
+      key="WILMA begrip "
+      value="Bedrijfsproces"/>
+  <properties
+      key="WILMA definitie"
+      value="Een keten van activiteiten om een product of dienst te leveren die bijdraagt aan de doelstellingen of bedrijfsfuncties van de organisatie."/>
+</archimate:BusinessObject>

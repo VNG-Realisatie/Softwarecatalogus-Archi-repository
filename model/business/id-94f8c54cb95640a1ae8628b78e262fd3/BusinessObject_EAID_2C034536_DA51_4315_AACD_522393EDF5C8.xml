@@ -1,0 +1,36 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatie"
+    id="EAID_2C034536_DA51_4315_AACD_522393EDF5C8"
+    documentation="Een organisatie is een bedrijf, instelling of vereniging die gedrag vertoont.">
+  <properties
+      key="ArchiMate concept"
+      value="Actor"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Een organisatie, -afdeling of persoon die activiteiten kan uitvoeren."/>
+  <properties
+      key="FORA begrip"
+      value="(M) Organisatie"/>
+  <properties
+      key="FORA definitie"
+      value="&quot;Ofwel een onderwijsorganisatie, die verantwoordelijk is (&quot;&quot;assigned&quot;&quot;) voor Bedrijfsfuncties en die Referentiecomponenten inzet (&quot;&quot;associatie&quot;&quot;) voor de ondersteuning hiervan, Ofwel een leverancier, die Referentiecomponenten levert (&quot;&quot;associatie&quot;&quot;) ..."/>
+  <properties
+      key="GEMMA begrip"
+      value="Actor"/>
+  <properties
+      key="GEMMA definitie"
+      value="Een organisatie, -afdeling of persoon die activiteiten kan uitvoeren."/>
+  <properties
+      key="Opmerking"
+      value="afgeleid uit definities GEMMA en WILMA"/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een organisatie die in staat is bepaald (actief) gedrag te vertonen."/>
+  <properties
+      key="WILMA begrip "
+      value="Bedrijfsactor"/>
+  <properties
+      key="WILMA definitie"
+      value="Een bedrijfsactor is een organisatorische eenheid die in staat is bepaald (actief) gedrag te vertonen."/>
+</archimate:BusinessObject>

@@ -1,0 +1,30 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sector"
+    id="EAID_D035DB25_138F_40ef_94E0_0382072705C5"
+    documentation="Een sector is een inhoudelijk verwante verzameling van publieke dienstverlening.&#xA;&#xA;Maarten de Niet: Een alternatief wat in het onderwijsdomein wordt gebruikt is &quot;Werkingsgebied&quot; gedefinieerd als:&#xA;Het domein (organisatorisch taakveld) binnen de overheid waarin het elementen (principes, standaarden, voorzieningen, etc.) worden of kunnen worden toegepast.&#xA;&#xA;Alternatief voorstel:&#xA;Een domein is een verzameling elementen die in samenhang worden ingericht en gebruikt voor afbakening en scoping van activiteiten / onderdelen van een organisatie.">
+  <properties
+      key="FORA begrip"
+      value="(M) Bedrijfsdomein"/>
+  <properties
+      key="FORA definitie"
+      value="Domein waarbinnen de activiteiten van de organisatie zich afspeelt. Wordt gebruikt voor afbakening en scoping van de onderdelen."/>
+  <properties
+      key="NORA begrip"
+      value="Domein"/>
+  <properties
+      key="NORA definitie"
+      value="Een domein is een inhoudelijk verwante verzameling van publieke dienstverlening. De domeinen zoals de NORA die gebruikt zijn gebaseerd op de indeling in onderwerpen op www.rijksoverheid.nl/onderwerpen."/>
+  <properties
+      key="Opmerking"
+      value="gebaseerd op NORA-domein"/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Inhoudelijk verwante verzameling van publieke dienstverlening."/>
+  <properties
+      key="WILMA begrip "
+      value="Domeingroep"/>
+  <properties
+      key="WILMA definitie"
+      value="Een domeingroep is een afgebakende groep elementen die in de waterschapspraktijk vaak in samenhang worden ingericht en gebruikt"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatieinterface (API)"
+    id="EAID_BF5CCB61_C72B_4be3_BC36_387BB7F639BC"
+    documentation="Door een (Applicatie)component aangeboden interface waar (andere) (Applicatie)componenten, Nodes of Actoren Applicatieservices kunnen gebruiken.">
+  <properties
+      key="ArchiMate concept"
+      value="Application interface"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Door een (Applicatie)component aangeboden interface waar (andere) (Applicatie)componenten, Nodes of Actoren Applicatieservices kunnen gebruiken."/>
+  <properties
+      key="GEMMA begrip"
+      value="Applicatie-interface"/>
+  <properties
+      key="GEMMA definitie"
+      value="Door een (Applicatie)component aangeboden interface waar (andere) (Applicatie)componenten, Nodes of Actoren Applicatieservices kunnen gebruiken."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Door een (Applicatie)component aangeboden interface waar (andere) (Applicatie)componenten, Nodes of Actoren Applicatieservices kunnen gebruiken."/>
+</archimate:BusinessObject>

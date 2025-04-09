@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft"
+    id="EAID_EBF6A2DC_005F_4bdd_A0FA_0E0BBD5D40A4"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_B5A6C0EA_E370_4124_908D_50916DCA920E.xml#EAID_B5A6C0EA_E370_4124_908D_50916DCA920E"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_2C034536_DA51_4315_AACD_522393EDF5C8.xml#EAID_2C034536_DA51_4315_AACD_522393EDF5C8"/>
+</archimate:AssociationRelationship>

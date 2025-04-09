@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwetsbaarheid"
+    id="EAID_07FEAC90_404A_44c5_A410_986C3542A8FE"
+    documentation="Informatiebeveiligings- en privacy-risico">
+  <properties
+      key="Voorstel SWC definitie"
+      value="Informatiebeveiligings- en privacy-risico"/>
+</archimate:BusinessObject>

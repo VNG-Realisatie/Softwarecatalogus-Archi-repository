@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatieservice"
+    id="EAID_B40646E8_8B11_47b5_8708_AF7A652FB489"
+    documentation="Functionaliteit gebundeld in een service die middels een applicatieinterface door een applicatiecomponent  beschikbaar wordt gesteld.">
+  <properties
+      key="ArchiMate concept"
+      value="Application Service"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Functionaliteit gebundeld in een service die gebruikt kan worden middels één of meerdere Applicatie-interfaces."/>
+  <properties
+      key="GEMMA begrip"
+      value="Applicatieservice"/>
+  <properties
+      key="GEMMA definitie"
+      value="Functionaliteit gebundeld in een service die gebruikt kan worden middels één of meerdere Applicatie-interfaces."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Functionaliteit gebundeld in een service die gebruikt kan worden middels één of meerdere Applicatie-interfaces."/>
+  <properties
+      key="WILMA begrip "
+      value="Applicatieservice"/>
+  <properties
+      key="WILMA definitie"
+      value="Een applicatieservice ontsluit functionaliteit naar afnemers van die functionaliteit. Een voorbeeld van een applicatieservice is de 'Aanmaken zaak' service."/>
+</archimate:BusinessObject>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stuurt"
+    id="id-009ee6d3510a4a938084caaa8f562d03"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fa44d93a3e5e43879bfe578646fb6e14.xml#id-fa44d93a3e5e43879bfe578646fb6e14"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_B5A6C0EA_E370_4124_908D_50916DCA920E.xml#EAID_B5A6C0EA_E370_4124_908D_50916DCA920E"/>
+</archimate:AssociationRelationship>

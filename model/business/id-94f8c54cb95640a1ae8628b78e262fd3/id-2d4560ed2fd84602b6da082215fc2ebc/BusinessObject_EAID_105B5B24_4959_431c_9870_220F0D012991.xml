@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiefunctie"
+    id="EAID_105B5B24_4959_431c_9870_220F0D012991"
+    documentation="Gebaseerd op WILMA &#xA;&#xA;&#xA;Maarten de Niet: Alternatief voorstel:&#xA;Een bedrijfsfunctie is een verzameling gedrag op basis van een gekozen reeks criteria (doorgaans vereiste bedrijfsmiddelen en / of competenties), nauw afgestemd op een organisatie, maar niet noodzakelijkerwijs expliciet bepaald door de organisatie. (Bron: Archimate)">
+  <properties
+      key="ArchiMate concept"
+      value="Application Function"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Binnen een Component beschikbare functionaliteit."/>
+  <properties
+      key="FORA begrip"
+      value="(M) Applicatiefunctie"/>
+  <properties
+      key="FORA definitie"
+      value="&quot;Bundel van nauw gerelateerde functionaliteit, die door (meestal) een Referentiecomponent gerealiseerd (&quot;&quot;assigned&quot;&quot;) wordt. Een Applicatiefunctie maakt deel uit (&quot;&quot;aggregates&quot;&quot;) een Bedrijfsdomein en ondersteunt (&quot;&quot;serves&quot;&quot;) een of meer Bedrijfsfuncties."/>
+  <properties
+      key="GEMMA begrip"
+      value="Applicatiefunctie"/>
+  <properties
+      key="GEMMA definitie"
+      value="Binnen een Component beschikbare functionaliteit."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een samenhangende groep interne gedragingen van een applicatiecomponent."/>
+  <properties
+      key="WILMA begrip "
+      value="Applicatiefunctie"/>
+  <properties
+      key="WILMA definitie"
+      value="Een samenhangende groep interne gedragingen van een applicatiecomponent."/>
+</archimate:BusinessObject>

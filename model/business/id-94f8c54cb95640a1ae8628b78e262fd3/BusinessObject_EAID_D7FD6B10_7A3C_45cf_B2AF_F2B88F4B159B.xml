@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorzieningstype"
+    id="EAID_D7FD6B10_7A3C_45cf_B2AF_F2B88F4B159B"
+    documentation="Een typering van een voorziening. Conform standaardtype en organisatietype&#xA;bv Landelijke voorziening">
+  <properties
+      key="Opmerking"
+      value="Er zijn meerdere typeringen mogelijk, denk aan hosting (SaaS, on premise), Scope (landelijk, sectoraal, organisatie, ..), etc."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een typering van een voorziening"/>
+</archimate:BusinessObject>

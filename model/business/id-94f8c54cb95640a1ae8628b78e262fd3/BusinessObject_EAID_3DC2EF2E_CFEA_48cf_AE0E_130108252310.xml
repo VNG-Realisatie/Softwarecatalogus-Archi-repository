@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard"
+    id="EAID_3DC2EF2E_CFEA_48cf_AE0E_130108252310"
+    documentation="Een document met erkende afspraken, specificaties of criteria over een product, een dienst of een methode. Standaarden kunnen vastgelegd worden binnen een bedrijf of organisatie, binnen een consortium van organisaties of door erkende standaardisatieorganisaties.">
+  <properties
+      key="FORA definitie"
+      value="Niet beschikbaar"/>
+  <properties
+      key="GEMMA begrip"
+      value="Standaard"/>
+  <properties
+      key="GEMMA definitie"
+      value="Een specfieke vorm van een Beperking, bestaande uit een document dat een set van regels bevat die beschrijven hoe mensen materialen, producten, diensten, technologieën, taken, processen en systemen dienen te ontwikkelen en beheren."/>
+  <properties
+      key="NORA begrip"
+      value="Standaard"/>
+  <properties
+      key="NORA definitie"
+      value="Een document dat een set van regels bevat die beschrijven hoe mensen materialen, producten, diensten, technologieën, taken, processen en systemen dienen te ontwikkelen en beheren."/>
+  <properties
+      key="Opmerking"
+      value="Beperking: Een omstandigheid die beperkingen stelt aan de wijze waarop doelen gerealiseerd kunnen worden."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een specifieke vorm van een Beperking, bestaande uit een document dat een set van regels bevat die beschrijven hoe mensen materialen, producten, diensten, technologieën, taken, processen en systemen dienen te ontwikkelen en beheren."/>
+  <properties
+      key="WILMA begrip "
+      value="Standaard"/>
+  <properties
+      key="WILMA begrip "
+      value="Standaard"/>
+  <properties
+      key="WILMA definitie"
+      value="Een standaard is een afspraak tussen organisaties of afdelingen om in specifieke situaties gebruik te maken van een bepaald voorgedefinieerd formaat of protocol."/>
+  <properties
+      key="ArchiMate concept"
+      value="Constraint"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Een omstandigheid die beperkingen stelt aan de wijze waarop doelen gerealiseerd kunnen worden."/>
+  <properties
+      key="FORA begrip"
+      value="(M) Standaard"/>
+</archimate:BusinessObject>

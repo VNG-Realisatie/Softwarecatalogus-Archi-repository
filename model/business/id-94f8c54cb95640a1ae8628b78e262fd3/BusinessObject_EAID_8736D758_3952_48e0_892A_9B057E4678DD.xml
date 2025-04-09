@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruik"
+    id="EAID_8736D758_3952_48e0_892A_9B057E4678DD"
+    documentation="Gebaseerd op ENSI. Het vermogen of de manier om de waarde van iets te benutten, in bezit te hebben, toe te passen of te exploiteren.&#xA;&#xA;Toine: Hier wordt bedoeld: Het gebruik van een voorziening door een gebruiker(s-organisatie) van geleverd door een aanbieder conform de referentiearchitectuur (standaarden, functionaliteit), conform de contractuele voorwaarden.">
+  <properties
+      key="Voorstel SWC definitie"
+      value="De bekwaamheid om de waarde van &quot;een voorziening&quot; te benutten, in bezit te hebben, toe te passen of te exploiteren."/>
+</archimate:BusinessObject>

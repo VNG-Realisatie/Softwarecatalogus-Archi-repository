@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikers-account"
+    id="EAID_F21ED3FE_5E34_4dd8_9E3B_C88E67723A68"
+    documentation="Digitale identiteit van een persoon die de SWC gebruikt.">
+  <properties
+      key="ArchiMate concept"
+      value="Actor"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Een organisatie, -afdeling of persoon die activiteiten kan uitvoeren."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Digitale identiteit van een persoon die de SWC gebruikt."/>
+</archimate:BusinessObject>

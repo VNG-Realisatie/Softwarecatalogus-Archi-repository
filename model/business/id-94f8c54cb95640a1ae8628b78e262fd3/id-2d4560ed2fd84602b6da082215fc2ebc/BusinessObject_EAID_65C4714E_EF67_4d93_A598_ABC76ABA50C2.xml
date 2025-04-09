@@ -1,0 +1,33 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data-object"
+    id="EAID_65C4714E_EF67_4d93_A598_ABC76ABA50C2"
+    documentation="Voorstel: noem Gegevensobject. Gebaseerd op GEMMA">
+  <properties
+      key="ArchiMate concept"
+      value="Data Object"/>
+  <properties
+      key="ArchiMate definitie (vertaling GEMMA)"
+      value="Samenhangende set gegevens die geautomatiseerd kan worden verwerkt."/>
+  <properties
+      key="FORA begrip"
+      value="(M) Gegevens"/>
+  <properties
+      key="FORA definitie"
+      value="&quot;Gegevensverzameling die gelezen en of geschreven (&quot;&quot;access&quot;&quot;) wordt door een Referentiecomponent, bij het uitvoeren van een Applicatiefunctie. Een Gegevensverzameling leidt tot (&quot;&quot;Realiseert&quot;&quot;) Informatie. Gegevens hebben een relatie (&quot;&quot;geassocieerd&quot;&quot;) m"/>
+  <properties
+      key="GEMMA begrip"
+      value="Gegevensobject"/>
+  <properties
+      key="GEMMA definitie"
+      value="Samenhangende set gegevens die geautomatiseerd kan worden verwerkt."/>
+  <properties
+      key="Voorstel SWC definitie"
+      value="Samenhangende set gegevens die geautomatiseerd kan worden verwerkt."/>
+  <properties
+      key="WILMA begrip "
+      value="Gegevensobject"/>
+  <properties
+      key="WILMA definitie"
+      value="Een passief element dat geschikt is voor geautomatiseerde verwerking."/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentiecomponent"
+    id="EAID_39B41497_A699_4f0b_A93C_B438EEE666C0"
+    documentation="Een specifieke vorm van een Applicatiecomponent, of daarvan afgeleid concept, dat een herkenbare waarde kan leveren, en als zelfstandige, concrete voorziening kan worden afgenomen of toegepast of geïnstalleerd, beheerd en/of gebruikt.">
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een specifieke vorm van een Applicatiecomponent, of daarvan afgeleid, concept die een herkenbare waarde kan leveren, en als zelfstandige, concrete voorziening kan worden afgenomen of toegepast of geïnstalleerd, beheerd en/of gebruikt."/>
+</archimate:BusinessObject>

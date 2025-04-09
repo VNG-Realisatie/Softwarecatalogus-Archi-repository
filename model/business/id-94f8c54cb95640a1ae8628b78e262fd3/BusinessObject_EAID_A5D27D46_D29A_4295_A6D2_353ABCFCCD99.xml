@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentieconcept"
+    id="EAID_A5D27D46_D29A_4295_A6D2_353ABCFCCD99"
+    documentation="Een specifieke vorm van een ArchiMate-, of daarvan afgeleid, concept dat een binnen de sectorspecifieke informatievoorziening herkenbare waarde kan leveren.">
+  <properties
+      key="Voorstel SWC definitie"
+      value="Een specifieke vorm van een ArchiMate, of daarvan afgeleid, concept die een binnen de sectorspecifieke informatievoorziening herkenbare waarde kan leveren"/>
+  <properties
+      key="Bron"/>
+</archimate:BusinessObject>

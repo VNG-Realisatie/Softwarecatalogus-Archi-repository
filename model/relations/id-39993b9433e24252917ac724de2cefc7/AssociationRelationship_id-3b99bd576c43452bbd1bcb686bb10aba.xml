@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="databron voor"
+    id="id-3b99bd576c43452bbd1bcb686bb10aba"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4698a57f677d406cb8220e8b041e33dc.xml#id-4698a57f677d406cb8220e8b041e33dc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_8736D758_3952_48e0_892A_9B057E4678DD.xml#EAID_8736D758_3952_48e0_892A_9B057E4678DD"/>
+</archimate:AssociationRelationship>
