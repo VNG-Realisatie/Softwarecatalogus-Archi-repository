@@ -6,20 +6,18 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_91EF_4133_BF9A_F10D4A3D8793"
-      font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#efefef">
     <bounds
         x="675"
         y="45"
-        width="527"
+        width="531"
         height="411"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_138F_40ef_94E0_0382072705C5"
         targetConnections="EAID_DC000000_F926_49a6_B3EA_B937234D6211 EAID_DC000000_7819_4047_BF88_66CBD04DDC55 EAID_DC000000_3C90_4943_AEC8_C31BCD4920ED EAID_DC000000_7CE3_483b_92B2_69F82A22264C"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -59,7 +57,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_3B1E_4900_9939_C7A37F4A3242"
         targetConnections="EAID_DC000000_4681_47da_B60D_8409C520118B"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -89,7 +86,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_DA51_4315_AACD_522393EDF5C8"
         targetConnections="EAID_DC000000_8846_437f_99C6_0EF1A39F5223 EAID_DC000000_005F_4bdd_A0FA_0E0BBD5D40A4 EAID_DC000000_6CA8_4749_AED5_46DB5FEF9F6C"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -141,6 +137,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="EAID_DC000000_6CA8_4749_AED5_46DB5FEF9F6C"
+          textPosition="2"
           source="EAID_DN000000_DA51_4315_AACD_522393EDF5C8"
           target="EAID_DN000000_DA51_4315_AACD_522393EDF5C8">
         <bendpoints
@@ -179,7 +176,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_5E34_4dd8_9E3B_C88E67723A68"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -231,7 +227,7 @@
       <bounds
           x="367"
           y="139"
-          width="120"
+          width="139"
           height="76"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -241,7 +237,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_9A56_402e_9A12_E200964E7667"
         targetConnections="EAID_DC000000_04DF_4a12_A24F_1D02746B9B85"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -256,7 +251,7 @@
       <bounds
           x="369"
           y="296"
-          width="120"
+          width="139"
           height="88"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -269,20 +264,18 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_35E8_4a32_94BB_F5BBF7128D71"
-      font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#efefef">
     <bounds
         x="675"
         y="483"
-        width="527"
+        width="531"
         height="452"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_3952_48e0_892A_9B057E4678DD"
         targetConnections="EAID_DC000000_2099_43a7_B774_0550BE102730 EAID_DC000000_8297_4401_9A2E_E4E7F864BA48 EAID_DC000000_D50F_4307_8DC2_04DC182E871B"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -332,11 +325,6 @@
           id="EAID_DC000000_8AAD_4b77_A011_ED87AE138EC0"
           source="EAID_DN000000_3952_48e0_892A_9B057E4678DD"
           target="EAID_DN000000_E370_4124_908D_50916DCA920E">
-        <bendpoints
-            startX="-11"
-            startY="-248"
-            endX="-5"
-            endY="30"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_EAID_594F51DC_8AAD_4b77_A011_ED87AE138EC0.xml#EAID_594F51DC_8AAD_4b77_A011_ED87AE138EC0"/>
@@ -344,7 +332,7 @@
       <bounds
           x="20"
           y="289"
-          width="468"
+          width="486"
           height="146"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -354,7 +342,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_DB86_42f6_BA6C_252CDF68F51E"
         targetConnections="EAID_DC000000_74EB_42ff_A25B_689063ABA311"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -369,7 +356,7 @@
       <bounds
           x="356"
           y="57"
-          width="132"
+          width="150"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -379,13 +366,12 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_404A_44c5_A410_986C3542A8FE"
         targetConnections="EAID_DC000000_E333_4011_8184_95C41F53E4B5 EAID_DC000000_5903_4a35_A01E_513EE03E45F3"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <bounds
           x="20"
           y="57"
-          width="120"
+          width="136"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -395,7 +381,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_E370_4124_908D_50916DCA920E"
         targetConnections="EAID_DC000000_8AAD_4b77_A011_ED87AE138EC0"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -442,7 +427,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_873C_43ca_970A_D114457E189D"
-      font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#efefef">
@@ -455,7 +439,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_30C8_47a6_9AFE_2B28AD2E7479"
         targetConnections="EAID_DC000000_9FC9_4862_9C7C_3489892171C9 EAID_DC000000_5649_442b_8D64_B009E4E129B2"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -470,7 +453,7 @@
       <bounds
           x="407"
           y="223"
-          width="117"
+          width="164"
           height="88"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -480,7 +463,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_216F_47be_BCA9_B9FE8F46E171"
         targetConnections="EAID_DC000000_7E0A_4830_9F52_5BDF66BAC9D2 EAID_DC000000_3379_4f71_B278_0D4060963056 EAID_DC000000_8C5C_421a_A30F_A88CC19517D9 EAID_DC000000_CC30_4037_A8FB_69DCC93D3007"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -555,11 +537,6 @@
             startY="37"
             endX="123"
             endY="37"/>
-        <bendpoints
-            startX="91"
-            startY="37"
-            endX="91"
-            endY="37"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_EAID_58F118E9_8C5C_421a_A30F_A88CC19517D9.xml#EAID_58F118E9_8C5C_421a_A30F_A88CC19517D9"/>
@@ -569,11 +546,6 @@
           id="EAID_DC000000_CC30_4037_A8FB_69DCC93D3007"
           source="EAID_DN000000_216F_47be_BCA9_B9FE8F46E171"
           target="EAID_DN000000_216F_47be_BCA9_B9FE8F46E171">
-        <bendpoints
-            startX="91"
-            startY="-35"
-            endX="91"
-            endY="-35"/>
         <bendpoints
             startX="123"
             startY="-35"
@@ -608,9 +580,9 @@
             href="AssociationRelationship_EAID_76EDBF16_669C_4ea0_861E_7E425B6A8A49.xml#EAID_76EDBF16_669C_4ea0_861E_7E425B6A8A49"/>
       </sourceConnections>
       <bounds
-          x="46"
+          x="22"
           y="219"
-          width="181"
+          width="205"
           height="88"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -620,13 +592,12 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_7A3C_45cf_B2AF_F2B88F4B159B"
         targetConnections="EAID_DC000000_86F2_463a_BF44_49ECF27D53BE"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <bounds
-          x="46"
+          x="22"
           y="51"
-          width="181"
+          width="205"
           height="76"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
@@ -639,7 +610,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_5F38_4461_93F2_F218AC03E2E9"
-      font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
       lineColor="#4f4f4f"
       textAlignment="1">
     <bounds
@@ -651,7 +621,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_D29A_4295_A6D2_353ABCFCCD99"
         targetConnections="EAID_DC000000_29C2_4849_ADC7_C8A1C5FCA10A EAID_DC000000_F7FC_4219_BE07_38A831AC7E7D id-3f8a0306e21840b292bc11cd64d0a44b id-f42019cf13c44d14b5c11352f2f9de4f id-9a53116f887a49f68d7c8e2c1c3efe6d EAID_DC000000_4949_41de_8744_028A924DC588 id-d2a293171de54380b61bf23bc42bec5a id-28d705b1ee514504859291a8c2815bc3 id-9819c216cd834c81a1159bd0920e7aa9 id-c7c2198ff69548bf9968f57a6316adb9 id-59e9b11c62b0410baf862cdb7bf6794f id-ab4427c118ca4933be31b01b04eb4e5d id-bb469284a78b4a40847d6763cc738b9c"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -711,19 +680,14 @@
           source="EAID_DN000000_D29A_4295_A6D2_353ABCFCCD99"
           target="EAID_DN000000_D29A_4295_A6D2_353ABCFCCD99">
         <bendpoints
-            startX="240"
-            startY="-108"
-            endX="240"
-            endY="-108"/>
+            startX="276"
+            startY="-106"
+            endX="276"
+            endY="-106"/>
         <bendpoints
-            startX="259"
-            startY="-108"
-            endX="259"
-            endY="-108"/>
-        <bendpoints
-            startX="259"
+            startX="276"
             startY="-181"
-            endX="259"
+            endX="276"
             endY="-181"/>
         <bendpoints
             startX="166"
@@ -735,14 +699,13 @@
             href="AssociationRelationship_EAID_7D74C0E8_4949_41de_8744_028A924DC588.xml#EAID_7D74C0E8_4949_41de_8744_028A924DC588"/>
       </sourceConnections>
       <bounds
-          x="44"
+          x="20"
           y="178"
-          width="480"
+          width="504"
           height="253"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="EAID_DN000000_A0DF_4484_ADD6_2E9D030DBF38"
-          font="1|Calibri|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
           lineColor="#4f4f4f"
           fillColor="#fefeb4">
         <sourceConnections
@@ -764,7 +727,7 @@
               href="SpecializationRelationship_EAID_0FECA89C_A235_4332_8BA3_2E7E18AF450A.xml#EAID_0FECA89C_A235_4332_8BA3_2E7E18AF450A"/>
         </sourceConnections>
         <bounds
-            x="17"
+            x="15"
             y="51"
             width="132"
             height="55"/>
@@ -775,7 +738,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="EAID_DN000000_F343_4603_BAEE_FD185F405EFB"
-          font="1|Calibri|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
           lineColor="#4f4f4f"
           fillColor="#fefeb4">
         <sourceConnections
@@ -797,7 +759,7 @@
               href="SpecializationRelationship_EAID_946BAE87_28DF_40e1_B0F7_EA1953CC471A.xml#EAID_946BAE87_28DF_40e1_B0F7_EA1953CC471A"/>
         </sourceConnections>
         <bounds
-            x="161"
+            x="159"
             y="51"
             width="133"
             height="55"/>
@@ -808,7 +770,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="EAID_DN000000_8B11_47b5_8708_AF7A652FB489"
-          font="1|Calibri|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
           lineColor="#4f4f4f"
           fillColor="#fefeb4">
         <sourceConnections
@@ -830,7 +791,7 @@
               href="SpecializationRelationship_EAID_B5B3A871_0941_474e_BB03_4E18F9DC6692.xml#EAID_B5B3A871_0941_474e_BB03_4E18F9DC6692"/>
         </sourceConnections>
         <bounds
-            x="17"
+            x="15"
             y="111"
             width="132"
             height="55"/>
@@ -841,7 +802,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="EAID_DN000000_4959_431c_9870_220F0D012991"
-          font="1|Calibri|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
           lineColor="#4f4f4f"
           fillColor="#fefeb4">
         <sourceConnections
@@ -863,7 +823,7 @@
               href="SpecializationRelationship_EAID_DB92DE87_B0B0_40da_8D49_83B703C3AE96.xml#EAID_DB92DE87_B0B0_40da_8D49_83B703C3AE96"/>
         </sourceConnections>
         <bounds
-            x="161"
+            x="159"
             y="112"
             width="133"
             height="55"/>
@@ -874,7 +834,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="EAID_DN000000_A699_4f0b_A93C_B438EEE666C0"
-          font="1|Calibri|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
           lineColor="#4f4f4f"
           fillColor="#fefeb4">
         <sourceConnections
@@ -906,9 +865,9 @@
               href="SpecializationRelationship_EAID_DC0983E3_BFDF_41c6_AEA6_7FD82DECE264.xml#EAID_DC0983E3_BFDF_41c6_AEA6_7FD82DECE264"/>
         </sourceConnections>
         <bounds
-            x="305"
+            x="313"
             y="51"
-            width="145"
+            width="161"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessObject"
@@ -918,7 +877,6 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="EAID_DN000000_0F60_4d7b_A286_8C1BD59B2CAA"
           targetConnections="EAID_DC000000_B802_42ca_BA6F_B318CB6828D6"
-          font="1|Calibri|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
           lineColor="#4f4f4f"
           fillColor="#fefeb4">
         <sourceConnections
@@ -931,9 +889,9 @@
               href="SpecializationRelationship_EAID_F541280B_632A_4c85_A03D_BCC5E5037E66.xml#EAID_F541280B_632A_4c85_A03D_BCC5E5037E66"/>
         </sourceConnections>
         <bounds
-            x="305"
+            x="313"
             y="111"
-            width="145"
+            width="161"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessObject"
@@ -943,11 +901,10 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="EAID_DN000000_C72B_4be3_BC36_387BB7F639BC"
           targetConnections="id-fe7cbb79acd04e1faec0e27127f29677"
-          font="1|Calibri|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
           lineColor="#4f4f4f"
           fillColor="#fefeb4">
         <bounds
-            x="17"
+            x="15"
             y="183"
             width="132"
             height="55"/>
@@ -959,11 +916,10 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="EAID_DN000000_ADE4_4e67_8442_CDC13C116B3F"
           targetConnections="id-77943e9e1d22436081fc71b495a6d28a"
-          font="1|Calibri|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
           lineColor="#4f4f4f"
           fillColor="#fefeb4">
         <bounds
-            x="161"
+            x="159"
             y="183"
             width="133"
             height="55"/>
@@ -974,13 +930,12 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="EAID_DN000000_EF67_4d93_A598_ABC76ABA50C2"
-          font="1|Calibri|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
           lineColor="#4f4f4f"
           fillColor="#fefeb4">
         <bounds
-            x="307"
+            x="315"
             y="184"
-            width="143"
+            width="159"
             height="54"/>
         <archimateElement
             xsi:type="archimate:BusinessObject"
@@ -994,7 +949,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_CFEA_48cf_AE0E_130108252310"
         targetConnections="EAID_DC000000_5432_45ce_A244_7CD62E69F3F9 EAID_DC000000_669C_4ea0_861E_7E425B6A8A49"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <sourceConnections
@@ -1019,13 +973,12 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="EAID_DN000000_20B9_406f_808A_571E63311271"
         targetConnections="EAID_DC000000_D4EA_4019_9579_A77801604489"
-        font="1|Calibri|12.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri"
         lineColor="#4f4f4f"
         fillColor="#fefeb4">
       <bounds
-          x="46"
+          x="22"
           y="55"
-          width="120"
+          width="164"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
