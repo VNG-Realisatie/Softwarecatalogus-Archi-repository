@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sector"
-    id="id-7b69faf9e5f54ca88255d9587e02c6ce"/>
+    id="id-7b69faf9e5f54ca88255d9587e02c6ce"
+    documentation="- Gemeenten&#xD;&#xA;- Waterschappen&#xD;&#xA;- Provincies&#xD;&#xA;- Scholen&#xD;&#xA;- ..."/>

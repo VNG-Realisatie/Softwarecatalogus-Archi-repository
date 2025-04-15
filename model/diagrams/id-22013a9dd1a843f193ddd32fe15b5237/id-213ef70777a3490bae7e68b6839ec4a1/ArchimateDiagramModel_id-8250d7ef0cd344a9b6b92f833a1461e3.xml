@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BOM met bronnen"
-    id="id-8250d7ef0cd344a9b6b92f833a1461e3">
+    id="id-8250d7ef0cd344a9b6b92f833a1461e3"
+    documentation="Bedrijfsobjectmodel met koppelingen naar mogelijke externe bronnen">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-293dfac208394ac2b8384ff4569da837"
@@ -468,6 +469,11 @@
           id="id-c679ebd78aba401d95a4e1e8a03a250e"
           source="id-1e7f4f34f30a46779871d2e8d53e5654"
           target="id-270663249ece4b128321fa18d03d77c8">
+        <bendpoints
+            startX="-147"
+            startY="-22"
+            endX="182"
+            endY="-18"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_EAID_A0809043_7E0A_4830_9F52_5BDF66BAC9D2.xml#EAID_A0809043_7E0A_4830_9F52_5BDF66BAC9D2"/>
@@ -621,10 +627,15 @@
           source="id-270663249ece4b128321fa18d03d77c8"
           target="id-cfdbb03fcd254aada09d8d853c7d7e6f">
         <bendpoints
-            startX="261"
-            startY="14"
-            endX="113"
-            endY="-469"/>
+            startX="182"
+            startY="2"
+            endX="34"
+            endY="-481"/>
+        <bendpoints
+            startX="252"
+            startY="2"
+            endX="104"
+            endY="-481"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_EAID_50F243D9_29C2_4849_ADC7_C8A1C5FCA10A.xml#EAID_50F243D9_29C2_4849_ADC7_C8A1C5FCA10A"/>

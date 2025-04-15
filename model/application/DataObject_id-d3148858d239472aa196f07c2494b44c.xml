@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rol"
     id="id-d3148858d239472aa196f07c2494b44c"
-    documentation="Een organisatie heeft 1 of 2 rollen&#xD;&#xA;- Aanbieder&#xD;&#xA;- Gebruiker"/>
+    documentation="Een organisatie heeft 1 of 2 rollen&#xD;&#xA;- Aanbieder&#xD;&#xA;- Gebruiker&#xD;&#xA;&#xD;&#xA;Een aanbieder levert diensten, een afnemer registreert het gebruik van diensten &#xD;&#xA;Een aanbieder is eigenaar van een applicatie, een afnemer registreert het gebruik van een applicatie&#xD;&#xA;"/>

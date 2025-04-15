@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsobjectmodel"
-    id="EAID_F6824A49_9B51_42de_BD40_A47F3CEF7B26">
+    name="BOM"
+    id="EAID_F6824A49_9B51_42de_BD40_A47F3CEF7B26"
+    documentation="Bedrijfsobjectmodel, opgesteld door Alliantie">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="EAID_DN000000_91EF_4133_BF9A_F10D4A3D8793"
