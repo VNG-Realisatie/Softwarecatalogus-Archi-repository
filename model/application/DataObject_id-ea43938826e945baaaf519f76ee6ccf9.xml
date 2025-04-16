@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dienst (voorzieningaanbod)"
-    id="id-ea43938826e945baaaf519f76ee6ccf9"/>
+    id="id-ea43938826e945baaaf519f76ee6ccf9"
+    documentation="De rol die een leveranciersorganisatie speelt bij het aanbieden van een voorziening."/>

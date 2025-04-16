@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteund door intermediair"
+    id="id-23f3445a519f48bd9315e59a5de36ada"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8b1d8bc6b8574533900f7a63723cde34.xml#id-8b1d8bc6b8574533900f7a63723cde34"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-952302bc94204053bcca4bf38dd0e753.xml#id-952302bc94204053bcca4bf38dd0e753"/>
+</archimate:AssociationRelationship>

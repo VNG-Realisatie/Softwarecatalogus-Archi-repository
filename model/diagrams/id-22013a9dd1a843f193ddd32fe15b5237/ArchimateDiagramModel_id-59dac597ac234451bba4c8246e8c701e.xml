@@ -238,7 +238,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-638c7989e602462d9d3f49c42e328d5a"
+        id="id-c26a0597d62145d18e158637120dece4"
         fillColor="#d9ffff">
       <bounds
           x="20"
@@ -247,7 +247,7 @@
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-811e1ce341d54da7b057b71a7d554b7f.xml#id-811e1ce341d54da7b057b71a7d554b7f"/>
+          href="ArchimateDiagramModel_id-845cb485d3c34051810732df2c0e4590.xml#id-845cb485d3c34051810732df2c0e4590"/>
     </children>
   </children>
   <properties
