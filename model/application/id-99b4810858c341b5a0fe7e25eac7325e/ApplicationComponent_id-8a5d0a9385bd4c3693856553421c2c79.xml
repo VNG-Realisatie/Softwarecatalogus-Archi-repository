@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoringtool"
+    id="id-8a5d0a9385bd4c3693856553421c2c79"
+    documentation="Tool voor het verzamelen en visualiseren van systeemprestaties">
+  <properties
+      key="Toelichting"
+      value="Metrics verzamelen en dashboards tonen , met tools zoals Prometheus, Grafana, Elastic"/>
+</archimate:ApplicationComponent>
