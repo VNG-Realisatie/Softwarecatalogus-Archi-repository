@@ -1,6 +1,6 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bestandsopslag"
+    name="Bestand- en objectopslag"
     id="id-1556c232987a416b98861bc7d773d274"
     documentation="Technologieservice voor het opslaan van digitale bestanden op fysieke of cloud-gebaseerde opslagmedia.">
   <properties

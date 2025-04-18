@@ -6,8 +6,8 @@
       key="Object ID"
       value="ea663826-1d3a-4b12-a4b1-e1f77c0ecc84"/>
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-927ac5d426af4b44b82c6b6c81145bfb.xml#id-927ac5d426af4b44b82c6b6c81145bfb"/>
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-d7a78b937fb44d4ead7140204839060f.xml#id-d7a78b937fb44d4ead7140204839060f"/>
   <target
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_id-e8fe726a8ba1495b9144f9c5568d871e.xml#id-e8fe726a8ba1495b9144f9c5568d871e"/>

@@ -1,6 +1,6 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Blob-opslagcomponent"
+    name="Objectstore"
     id="id-6b2f87897f5f49bdb43a863267d06d5f"
     documentation="Technologiecomponent voor het opslaan van grote hoeveelheden ongestructureerde gegevens. Bijvoorbeeld: afbeeldingen, video's en documenten.">
   <properties
