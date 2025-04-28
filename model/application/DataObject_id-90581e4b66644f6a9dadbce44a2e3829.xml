@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Licentie"
+    name="Licentietype"
     id="id-90581e4b66644f6a9dadbce44a2e3829"
-    documentation="Open Source&#xD;&#xA;- GPL&#xD;&#xA;- EUPL"/>
+    documentation="- open source (GPL, EUPL, ..)&#xD;&#xA;- gesloten"/>

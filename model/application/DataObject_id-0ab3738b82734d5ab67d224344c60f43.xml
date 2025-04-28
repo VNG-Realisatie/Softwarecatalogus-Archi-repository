@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicatieversie (Voorzieningversie)"
     id="id-0ab3738b82734d5ab67d224344c60f43"
-    documentation="De eigenaar van de applicatie registreert minimaal één applicatieversie. De 'actuele versie' wordt als voorkeuze getoond.&#xD;&#xA;De aanbieder van een dienst registreert voor welke applicatie een dienst aangeboden wordt. Als geen versie wordt opgegeven geldt dit impliciet voor alle versies&#xD;&#xA;De gebruiker van een dienst registreert welke applicatie gebruikt wordt. Het registreren van een versie is optioneel."/>
+    documentation="De eigenaar van de applicatie registreert minimaal één applicatieversie. De 'actuele versie' wordt als voorkeuze getoond.&#xA;De aanbieder van een dienst registreert voor welke applicatie een dienst aangeboden wordt. Als geen versie wordt opgegeven geldt dit impliciet voor alle versies&#xA;De gebruiker van een dienst registreert welke applicatie gebruikt wordt. Het registreren van een versie is optioneel."/>

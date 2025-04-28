@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Type organisatie"
+    name="Organisatietype"
     id="id-c5af756b36a34135a23a9dc7620e2faa"
-    documentation="Juridisch&#xD;&#xA;- Gemeente&#xD;&#xA;- Samenwerking&#xD;&#xA;- Leverancier"/>
+    documentation="- Gemeente&#xA;- Samenwerking&#xA;- Leverancier"/>
