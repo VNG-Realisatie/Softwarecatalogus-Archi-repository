@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatiemodel en terminologie"
     id="id-845cb485d3c34051810732df2c0e4590"
-    documentation="Dit model is gebaseerd op het door de SWC alliantie opgestelde informatiemodel voorzieningencatalogus. Het is zeker geen vervanging, de definities en attributen zijn niet uitgewerkt. &#xD;&#xA;Zie daarvoor https://alliantie.github.io/voorzieningencatalogus.&#xD;&#xA;&#xD;&#xA;Wat dit model aan het alliantiemodel wil toevoegen::&#xD;&#xA;&#xD;&#xA;Gericht op gemeenten&#xD;&#xA;- uitgewerkt met te gebruiken begrippen die aansluiten op de GEMMA softwarecatalogus&#xD;&#xA;- eenvoudiger te lezen door nesting en toegevoegde waardenlijsten&#xD;&#xA;&#xD;&#xA;Waar het afwijkt:&#xD;&#xA;- Applicatie staat centraal i.p.v. pakketversie, wens van gemeenten om het beheer te verminderen. Het bijhouden van applicatieversie voor afnemers is optioneel&#xD;&#xA;- of toch een default 'actuele' applicatieversie centraal zetten?&#xD;&#xA;- Koppelingen slag verder uitgewerkt met entiteit 'Gegevensuitwisseling'&#xD;&#xA;&#xD;&#xA;Openstaande punten&#xD;&#xA;- aparte entiteiten voor overeenkomsten en verklaringen. Verschil is voornamelijk wel en geen relatie met aanbieder en afnemer. Zou samengevoegd kunnen worden&#xD;&#xA;- Overeenkomsten en verklaringen verwijzen naar een document. Document is niet opgenomen&#xD;&#xA;&#xD;&#xA;Wens voor gebruik externe bronnen&#xD;&#xA;- bron voor standaarden is het (GEMMA) ArchiMate-model. Wens is om dit ook te koppelen met NORA&#xD;&#xA;- Indelingen voor BIV-classificaties en IBP-risico's beschikbaar bij IBD">
+    documentation="Dit model is gebaseerd op het door de SWC alliantie opgestelde informatiemodel voorzieningencatalogus. Het is zeker geen vervanging, de definities en attributen zijn niet uitgewerkt. &#xD;&#xA;Zie daarvoor https://alliantie.github.io/voorzieningencatalogus.&#xD;&#xA;&#xD;&#xA;Wat dit model aan het alliantiemodel wil toevoegen::&#xD;&#xA;&#xD;&#xA;Gericht op gemeenten&#xD;&#xA;- uitgewerkt met te gebruiken begrippen die aansluiten op de GEMMA softwarecatalogus&#xD;&#xA;- eenvoudiger te lezen door nesting en toegevoegde waardenlijsten&#xD;&#xA;&#xD;&#xA;Waar het afwijkt:&#xD;&#xA;- Applicatie staat centraal i.p.v. pakketversie, wens van gemeenten om het beheer te verminderen. Het bijhouden van applicatieversie voor afnemers is optioneel&#xD;&#xA;- of toch een default 'actuele' applicatieversie centraal zetten?&#xD;&#xA;- Koppelingen slag verder uitgewerkt met entiteit 'Gegevensuitwisseling'&#xD;&#xA;&#xD;&#xA;Openstaande punten&#xD;&#xA;- aparte entiteiten voor overeenkomsten en verklaringen. Verschil is voornamelijk wel en geen relatie met aanbieder en afnemer. Zou samengevoegd kunnen worden&#xD;&#xA;- Overeenkomsten en verklaringen verwijzen naar een document. Document is niet opgenomen&#xD;&#xA;- naamgeving life cycle. Status en datum van gebruik van diensten, etc&#xD;&#xA;&#xD;&#xA;Wens voor gebruik externe bronnen&#xD;&#xA;- bron voor standaarden is het (GEMMA) ArchiMate-model. Wens is om dit ook te koppelen met NORA&#xD;&#xA;- Indelingen voor BIV-classificaties en IBP-risico's beschikbaar bij IBD">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f8bcec14f0874f83a8272da89f908336"
@@ -768,7 +768,7 @@
             x="35"
             y="40"
             width="156"
-            height="91"/>
+            height="111"/>
         <archimateElement
             xsi:type="archimate:DataObject"
             href="DataObject_id-0d8c327b29234f7ab00b53b30845f761.xml#id-0d8c327b29234f7ab00b53b30845f761"/>
@@ -850,6 +850,9 @@
           id="id-9bea244b1a664efdb6633123dc20deb2"
           source="id-bb2af62ef4f24b3eb078486d2a470693"
           target="id-4727e44b336546518dc1e057b405ff51">
+        <features
+            name="labelExpression"
+            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-46ecac8334c44488b80e935f5e8b08c3.xml#id-46ecac8334c44488b80e935f5e8b08c3"/>

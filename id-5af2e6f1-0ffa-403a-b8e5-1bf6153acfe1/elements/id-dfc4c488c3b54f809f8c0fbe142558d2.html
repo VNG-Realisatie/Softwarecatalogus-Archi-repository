@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Release</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Release</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessProcess"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessProcess" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Gereedmaken en beschikbaar stellen van de oplossing voor uitrol.</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-f647dc25e2ac4f698b0987c776ac1704">
+																	<td><a href="../views/id-f647dc25e2ac4f698b0987c776ac1704.html" target="view" title="DevOps en tools"> DevOps en tools </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-83e9c4d2fdbe4a749b6139aff28bbd19">
+																	<td><a href="../views/id-83e9c4d2fdbe4a749b6139aff28bbd19.html" target="view" title="DevOps en rollen"> DevOps en rollen </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-c3ef3671cb734a6fb03a1530d91f27f2">
+																	<td><a href="../views/id-c3ef3671cb734a6fb03a1530d91f27f2.html" target="view" title="DevOps en tools Conduction"> DevOps en tools Conduction </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-5611e5817fc64a9da5ff5e1fc06332fa.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-TriggeringRelationship" /></td>
+											<td><a href="../elements/id-dfc4c488c3b54f809f8c0fbe142558d2.html" target="element"> Release</a></td>
+											<td><a href="../elements/id-4f30041e077b42e5bb4ab760b5195410.html" target="element"> Production</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-731a47d9e7e7451ea945da248ef12884.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-TriggeringRelationship" /></td>
+											<td><a href="../elements/id-dfc4c488c3b54f809f8c0fbe142558d2.html" target="element"> Release</a></td>
+											<td><a href="../elements/id-a3028168c55343c2bd80a9cb49e1d574.html" target="element"> Deploy</a></td>
+										</tr>
+									<tr>
+											<td><a href="../elements/id-0e5ca1a61ab5452984742f39688dcf9e.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AggregationRelationship" /></td>
+											<td><a href="../elements/id-5eea7ca7c60a4b5ab679cc8d6f33f808.html" target="element"> Operations</a></td>
+											<td><a href="../elements/id-dfc4c488c3b54f809f8c0fbe142558d2.html" target="element"> Release</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-b1d618a48b984c409208e2393b11141f.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AssignmentRelationship" /></td>
+											<td><a href="../elements/id-d249a39c22a44ec1b16781498e79815e.html" target="element"> DevOps Engineer</a></td>
+											<td><a href="../elements/id-dfc4c488c3b54f809f8c0fbe142558d2.html" target="element"> Release</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-f09bef6e1aea4d4db26176f17d6cabcd.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AssignmentRelationship" /></td>
+											<td><a href="../elements/id-f07d227f7c784623a14a4b22ae0bbc41.html" target="element"> Applicatiebeheerder</a></td>
+											<td><a href="../elements/id-dfc4c488c3b54f809f8c0fbe142558d2.html" target="element"> Release</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-abd5abc2b75b4d299fb0da1df204df34.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-RealizationRelationship" /></td>
+											<td><a href="../elements/id-20c8a67b985d4f7990a10b83a4bb752a.html" target="element"> Releasemanagementtool</a></td>
+											<td><a href="../elements/id-dfc4c488c3b54f809f8c0fbe142558d2.html" target="element"> Release</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-f5ddba8162e243268f9401aaa9a9af55.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-RealizationRelationship" /></td>
+											<td><a href="../elements/id-652e2f6c9828456c9bc695104492257f.html" target="element"> CI/CD-tool</a></td>
+											<td><a href="../elements/id-dfc4c488c3b54f809f8c0fbe142558d2.html" target="element"> Release</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-442543af93f548739d7f4a7651c3f45e.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-TriggeringRelationship" /></td>
+											<td><a href="../elements/id-56937b1222af4e0ba8b098466850fc14.html" target="element"> Test</a></td>
+											<td><a href="../elements/id-dfc4c488c3b54f809f8c0fbe142558d2.html" target="element"> Release</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-9223d73ce66040fcb7ce529471dcd932.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-TriggeringRelationship" /></td>
+											<td><a href="../elements/id-1fc9ce835c964506807fadf6d7aa1482.html" target="element"> Staging</a></td>
+											<td><a href="../elements/id-dfc4c488c3b54f809f8c0fbe142558d2.html" target="element"> Release</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
