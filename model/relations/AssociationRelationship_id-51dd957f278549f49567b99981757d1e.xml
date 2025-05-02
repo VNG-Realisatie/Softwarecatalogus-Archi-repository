@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="behoort tot"
+    name="heeft een"
     id="id-51dd957f278549f49567b99981757d1e"
     directed="true">
   <source

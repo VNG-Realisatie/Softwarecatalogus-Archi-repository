@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverancier"
+    id="id-e9e629ef4dab4fe88d1472ef981a61fa">
+  <properties
+      key="Organisatietype"
+      value="Leverancier"/>
+</archimate:BusinessActor>

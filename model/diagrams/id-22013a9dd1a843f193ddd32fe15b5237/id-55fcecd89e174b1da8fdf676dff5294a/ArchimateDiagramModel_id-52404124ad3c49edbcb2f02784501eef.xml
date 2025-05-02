@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicatiearchitectuur onderdeel referentiearchitectuur"
+    name="Applicatiearchitectuur epic referentiearchitectuur"
     id="id-52404124ad3c49edbcb2f02784501eef"
     documentation="Uitwerking van de realisatie van ArchiMate-functionaliteit in onderliggende services, componenten en functies">
   <children

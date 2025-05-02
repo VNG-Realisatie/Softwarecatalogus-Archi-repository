@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeente"
+    id="id-699089bbc8e14ae488d636b1b3996325">
+  <properties
+      key="Organisatietype"
+      value="Gemeente"/>
+</archimate:BusinessActor>

@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="in de rol van"
+    id="id-8e882d6282a34072b36ef79f67bbb0ef">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-699089bbc8e14ae488d636b1b3996325.xml#id-699089bbc8e14ae488d636b1b3996325"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b226de182aba4ca0b512438a93e30824.xml#id-b226de182aba4ca0b512438a93e30824"/>
+</archimate:AssignmentRelationship>
