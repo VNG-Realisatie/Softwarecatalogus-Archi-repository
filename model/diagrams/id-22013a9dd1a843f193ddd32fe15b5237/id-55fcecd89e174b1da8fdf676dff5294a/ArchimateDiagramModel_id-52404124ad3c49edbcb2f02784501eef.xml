@@ -39,8 +39,8 @@
           href="AggregationRelationship_id-2a4ea90e3c494c2cbcfc2b4fe120fc6e.xml#id-2a4ea90e3c494c2cbcfc2b4fe120fc6e"/>
     </sourceConnections>
     <bounds
-        x="93"
-        y="711"
+        x="122"
+        y="815"
         width="978"
         height="146"/>
     <children
@@ -303,8 +303,8 @@
           href="ServingRelationship_id-10120f6e0cb24471b7c8e45bdba9b58a.xml#id-10120f6e0cb24471b7c8e45bdba9b58a"/>
     </sourceConnections>
     <bounds
-        x="410"
-        y="415"
+        x="439"
+        y="519"
         width="160"
         height="96"/>
     <children
@@ -331,8 +331,8 @@
       targetConnections="id-910ec3a0843e4731818dd1b94ea326cd"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
     <bounds
-        x="11"
-        y="51"
+        x="40"
+        y="155"
         width="136"
         height="55"/>
     <archimateElement
@@ -346,10 +346,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="11"
-        y="996"
+        x="673"
+        y="38"
         width="426"
-        height="246"/>
+        height="186"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f7bbee7a837c4917ba4a12541a65e9a1"
@@ -358,8 +358,8 @@
           name="deriveElementLineColor"
           value="false"/>
       <bounds
-          x="15"
-          y="140"
+          x="230"
+          y="35"
           width="181"
           height="29"/>
       <archimateElement
@@ -374,8 +374,8 @@
           name="deriveElementLineColor"
           value="false"/>
       <bounds
-          x="15"
-          y="173"
+          x="230"
+          y="68"
           width="181"
           height="29"/>
       <archimateElement
@@ -394,19 +394,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_id-17f6d99b1868478982f7834a00b7a7f3.xml#id-17f6d99b1868478982f7834a00b7a7f3"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-9634d5e2e2c74248ac14498487247ee5"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
-      <bounds
-          x="215"
-          y="35"
-          width="181"
-          height="29"/>
-      <archimateElement
-          xsi:type="archimate:Constraint"
-          href="Constraint_id-8972c593202b4670b0baac8b6e42b82e.xml#id-8972c593202b4670b0baac8b6e42b82e"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -441,13 +428,26 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-77a56717bc744175a51b9827a0ed009d">
       <bounds
-          x="15"
-          y="205"
+          x="230"
+          y="100"
           width="181"
           height="29"/>
       <archimateElement
           xsi:type="archimate:Artifact"
           href="Artifact_id-9ab748ec958b41d98b6478ce5d3832f8.xml#id-9ab748ec958b41d98b6478ce5d3832f8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9634d5e2e2c74248ac14498487247ee5"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
+      <bounds
+          x="15"
+          y="140"
+          width="181"
+          height="29"/>
+      <archimateElement
+          xsi:type="archimate:Constraint"
+          href="Constraint_id-8972c593202b4670b0baac8b6e42b82e.xml#id-8972c593202b4670b0baac8b6e42b82e"/>
     </children>
   </children>
   <children
@@ -479,8 +479,8 @@
           href="ServingRelationship_id-7ca03d9c621745f2a5f7eda084b1b3d7.xml#id-7ca03d9c621745f2a5f7eda084b1b3d7"/>
     </sourceConnections>
     <bounds
-        x="11"
-        y="896"
+        x="40"
+        y="1000"
         width="341"
         height="76"/>
     <archimateElement
@@ -501,8 +501,8 @@
           href="AggregationRelationship_id-0706295f179c43e9b8f3208790ed7aeb.xml#id-0706295f179c43e9b8f3208790ed7aeb"/>
     </sourceConnections>
     <bounds
-        x="879"
-        y="415"
+        x="908"
+        y="519"
         width="191"
         height="96"/>
     <children
@@ -546,8 +546,8 @@
           href="RealizationRelationship_id-e3cf9273ca6048a69bcf79c6bbeed426.xml#id-e3cf9273ca6048a69bcf79c6bbeed426"/>
     </sourceConnections>
     <bounds
-        x="11"
-        y="155"
+        x="40"
+        y="259"
         width="1060"
         height="196"/>
     <children
@@ -769,8 +769,8 @@
         source="id-78b15dec985b4c0b87eb219fd3804859"
         target="id-ded48a61ada54cda9b15d2f27da88e11"/>
     <bounds
-        x="391"
-        y="41"
+        x="301"
+        y="38"
         width="272"
         height="40"/>
   </children>
@@ -789,8 +789,8 @@
           href="ServingRelationship_id-0673b5abc025400694318e2d36d27524.xml#id-0673b5abc025400694318e2d36d27524"/>
     </sourceConnections>
     <bounds
-        x="386"
-        y="896"
+        x="415"
+        y="1000"
         width="201"
         height="76"/>
     <archimateElement
@@ -841,8 +841,8 @@
           href="ServingRelationship_id-73338ff7f9af487e8060d5e8c3896b1e.xml#id-73338ff7f9af487e8060d5e8c3896b1e"/>
     </sourceConnections>
     <bounds
-        x="621"
-        y="896"
+        x="650"
+        y="1000"
         width="450"
         height="76"/>
     <children
@@ -918,8 +918,8 @@
           href="AggregationRelationship_id-9f9f49373f6d42d39d9179af5c0c0ec5.xml#id-9f9f49373f6d42d39d9179af5c0c0ec5"/>
     </sourceConnections>
     <bounds
-        x="410"
-        y="535"
+        x="439"
+        y="639"
         width="429"
         height="154"/>
     <children
@@ -1006,8 +1006,8 @@
           href="ServingRelationship_id-a569e069251d409991d4532b4eb0f67e.xml#id-a569e069251d409991d4532b4eb0f67e"/>
     </sourceConnections>
     <bounds
-        x="879"
-        y="585"
+        x="908"
+        y="689"
         width="191"
         height="104"/>
     <children
@@ -1035,8 +1035,8 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#eafaff">
     <bounds
-        x="177"
-        y="11"
+        x="206"
+        y="115"
         width="185"
         height="100"/>
     <children
@@ -1101,8 +1101,8 @@
           href="ServingRelationship_id-91fc5fbe95014bd8a958e75fe0e25df6.xml#id-91fc5fbe95014bd8a958e75fe0e25df6"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="585"
+        x="125"
+        y="689"
         width="202"
         height="104"/>
     <children
@@ -1143,8 +1143,8 @@
           href="AggregationRelationship_id-f007047405d944c9a2fd8c0e8cbfa336.xml#id-f007047405d944c9a2fd8c0e8cbfa336"/>
     </sourceConnections>
     <bounds
-        x="721"
-        y="15"
+        x="446"
+        y="117"
         width="181"
         height="96"/>
     <children

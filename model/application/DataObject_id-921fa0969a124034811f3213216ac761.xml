@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Diensttype (leveranciersorganisatierol)"
+    name="Diensttype"
     id="id-921fa0969a124034811f3213216ac761"
-    documentation="- Functioneel beheer&#xA;- Applicatiebeheer&#xA;- Technisch beheer&#xA;- Implementatieondersteuning&#xA;- Opleiding&#xD;&#xA;- Cloudprovider&#xD;&#xA;- Consultancy&#xD;&#xA;- Informatiebeveiliging&#xD;&#xA;- Helpdesk en support"/>
+    documentation="- Functioneel beheer&#xA;- Applicatiebeheer&#xA;- Technisch beheer&#xA;- Implementatieondersteuning&#xA;- Opleidingen&#xD;&#xA;- Reseller&#xD;&#xA;&#xD;&#xA;- Consultancy/advies&#xD;&#xA;- Informatiebeveiliging&#xD;&#xA;- Helpdesk en support&#xD;&#xA;"/>

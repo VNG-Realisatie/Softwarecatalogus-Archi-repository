@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Softwarecatalogus Indexview"
+    name="Softwarecatalogus vernieuwing"
     id="id-59dac597ac234451bba4c8246e8c701e"
     documentation="Snelle toegang tot de relevante view voor de vernieuwing van de Softwarecatalogus">
   <children
@@ -227,7 +227,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-c26a0597d62145d18e158637120dece4"
-        fillColor="#d9ffff">
+        fillColor="#92cddc">
       <bounds
           x="20"
           y="100"

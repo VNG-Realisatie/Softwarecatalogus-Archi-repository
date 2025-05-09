@@ -1,13 +1,13 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="geeft"
-    id="id-1c489c63bc04402897a39358883b1c9a"
+    name="registreert in concept"
+    id="id-c3450ed5db2b4714bb684946f7305f42"
     directed="true">
   <source
       xsi:type="archimate:DataObject"
-      href="DataObject_id-03b6d5a76eec4683b85b89073a34ed99.xml#id-03b6d5a76eec4683b85b89073a34ed99"/>
+      href="DataObject_id-c45378e3b8014377a90da8344f7d6fca.xml#id-c45378e3b8014377a90da8344f7d6fca"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-5bffe5a97b3b4cb5b88d3f4c46ffd7fb.xml#id-5bffe5a97b3b4cb5b88d3f4c46ffd7fb"/>
+      href="DataObject_id-952302bc94204053bcca4bf38dd0e753.xml#id-952302bc94204053bcca4bf38dd0e753"/>
 </archimate:AssociationRelationship>

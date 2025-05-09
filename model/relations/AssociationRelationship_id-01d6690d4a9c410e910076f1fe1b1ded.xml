@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft"
     id="id-01d6690d4a9c410e910076f1fe1b1ded"
     directed="true">
   <source

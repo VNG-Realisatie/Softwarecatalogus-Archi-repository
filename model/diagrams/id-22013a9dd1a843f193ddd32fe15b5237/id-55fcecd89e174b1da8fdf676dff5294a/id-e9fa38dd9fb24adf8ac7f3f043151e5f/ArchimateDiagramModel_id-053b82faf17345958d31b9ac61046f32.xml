@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AMEFF export epic organisatie"
-    id="id-053b82faf17345958d31b9ac61046f32">
+    id="id-053b82faf17345958d31b9ac61046f32"
+    documentation="Uitwerking van de AMEFF export voor het informatiedomein organisatie">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-e9f819d9a7b4475ca88c3f809e22ccd8"
@@ -278,7 +279,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c04f7a66d67149f2aa73fcd734139893"
-          targetConnections="id-eae06ff0865343bab90328ed5af7b5f8 id-6badc3186d874107a09e6edb93715c54">
+          targetConnections="id-eae06ff0865343bab90328ed5af7b5f8">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-96caaf80f272402595e1b0f2fbb92bd6"
@@ -449,16 +450,16 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-1c298a38689643968b9920a9f368f973"
       textAlignment="1"
-      content="Is een export voor leveranciers wel relevant?. &#xD;&#xA;- Statistieken gebruik van export door Leveranciers ?&#xD;&#xA;- Niet interessant voor Leveranciers met slechts enkele pakketten, download van GEMMA met 1 pakket en klanten ingevoegd?&#xD;&#xA;- Wordt complex, onderscheid leverancier en gemeente is niet zo hard meer, gemeenten kunnen ook aanbieder zijn&#xD;&#xA;- voor gemeentelijke aanbieders ook de door de gemeenten aangeboden applicatie meenemen, inclusief het gebruik daarvan (de klanten van de applicatie)&#xD;&#xA;">
+      content="Export voor aanbieders laten vervallen: &#xD;&#xA;- Statistieken toont minimaal gebruik door Leveranciers&#xD;&#xA;- Veel leveranciers bieden slechts enkele pakketten aan. Meerwaarde export is dan beperkt">
     <sourceConnections
         id="id-717f36b493df4f2a90b93ac2b7ef2b48"
         source="id-1c298a38689643968b9920a9f368f973"
         target="id-82bb070aa00b45e39b84a04ba127a7ef"/>
     <bounds
-        x="840"
-        y="460"
+        x="820"
+        y="305"
         width="311"
-        height="180"/>
+        height="86"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -474,20 +475,5 @@
         y="194"
         width="291"
         height="70"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-f370fdda0a904b5497066d229143a2f5"
-      textAlignment="1"
-      content="Een leverancier kan klanten in meerdere sectoren bedienen.">
-    <sourceConnections
-        id="id-6badc3186d874107a09e6edb93715c54"
-        source="id-f370fdda0a904b5497066d229143a2f5"
-        target="id-c04f7a66d67149f2aa73fcd734139893"/>
-    <bounds
-        x="25"
-        y="599"
-        width="186"
-        height="54"/>
   </children>
 </archimate:ArchimateDiagramModel>

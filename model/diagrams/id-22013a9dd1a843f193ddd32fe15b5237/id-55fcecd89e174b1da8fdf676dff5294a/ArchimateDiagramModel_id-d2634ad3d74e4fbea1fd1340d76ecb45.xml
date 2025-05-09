@@ -793,10 +793,10 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="1176"
-        y="20"
-        width="426"
-        height="246"/>
+        x="1340"
+        y="25"
+        width="255"
+        height="321"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5e817dc59a4348efa4a3bc1a61b200d2"
@@ -847,8 +847,8 @@
         id="id-c28ba761f3004529ba6196f6a15855c1"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI">
       <bounds
-          x="215"
-          y="35"
+          x="15"
+          y="240"
           width="181"
           height="29"/>
       <archimateElement
