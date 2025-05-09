@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="betreft"
-    id="id-a04e1481216545bcaee9f9246180272a">
+    id="id-266b1680d911426690f76b9eda0cba93"
+    directed="true">
   <source
-      xsi:type="archimate:DataObject"
-      href="DataObject_id-e9725554f12e4486acc1b75935ebdee6.xml#id-e9725554f12e4486acc1b75935ebdee6"/>
-  <target
       xsi:type="archimate:Junction"
       href="Junction_id-71041892cd6240f2984e28e8ed23db1b.xml#id-71041892cd6240f2984e28e8ed23db1b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-952302bc94204053bcca4bf38dd0e753.xml#id-952302bc94204053bcca4bf38dd0e753"/>
 </archimate:AssociationRelationship>
