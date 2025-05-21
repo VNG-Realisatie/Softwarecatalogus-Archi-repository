@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JIRA"
+    id="id-3ca24d3b979d47248111cd548da8722f">
+  <profiles
+      href="folder.xml#id-1f9e9c3840d241a28096d4a3a37c8986"/>
+</archimate:ApplicationComponent>

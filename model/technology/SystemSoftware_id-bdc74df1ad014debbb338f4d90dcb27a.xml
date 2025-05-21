@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loki"
+    id="id-bdc74df1ad014debbb338f4d90dcb27a"
+    documentation="A log aggregation system optimized for storing and querying logs efficiently, designed to work seamlessly with Grafana for log visualization"/>

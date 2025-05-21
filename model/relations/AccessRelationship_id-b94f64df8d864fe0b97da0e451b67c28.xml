@@ -5,8 +5,8 @@
     id="id-b94f64df8d864fe0b97da0e451b67c28"
     accessType="1">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-001459986b55493aa3368a99caaa31d8.xml#id-001459986b55493aa3368a99caaa31d8"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-d482c4348c5945c8ac898a8621e1aa60.xml#id-d482c4348c5945c8ac898a8621e1aa60"/>
   <target
       xsi:type="archimate:Artifact"
       href="Artifact_id-da877f4e3eda4049a289e70cb41b5e67.xml#id-da877f4e3eda4049a289e70cb41b5e67"/>

@@ -4,8 +4,8 @@
     name="Push"
     id="id-38f07ee714b24a558d787b5d22e42ce8">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-001459986b55493aa3368a99caaa31d8.xml#id-001459986b55493aa3368a99caaa31d8"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-d482c4348c5945c8ac898a8621e1aa60.xml#id-d482c4348c5945c8ac898a8621e1aa60"/>
   <target
       xsi:type="archimate:Artifact"
       href="Artifact_id-a314d191ee8f4adbb4f308f8801351cb.xml#id-a314d191ee8f4adbb4f308f8801351cb"/>

@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurcomponent"
+    id="id-2df9670c-a8d8-4a7b-b7d1-a52c404dc6fd"
+    documentation="Component voor het ontwikkelen en bewaken van verschillende architecturen, zoals bedrijfs- of informatiearchitectuur">
+  <properties
+      key="BBN"
+      value="BBN 1"/>
+  <properties
+      key="BIV score BBN"
+      value="111"/>
+  <properties
+      key="Beschikbaarheid"
+      value="1"/>
+  <properties
+      key="Beschikbaarheid (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade)."/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Referentiecomponent"/>
+  <properties
+      key="Integriteit"
+      value="1"/>
+  <properties
+      key="Integriteit (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade)."/>
+  <properties
+      key="Object ID"
+      value="2df9670c-a8d8-4a7b-b7d1-a52c404dc6fd"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="1"/>
+  <properties
+      key="Vertrouwelijkheid (belangrijkste reden)"
+      value="1 : interne negatieve publiciteit (imagoschade)."/>
+  <properties
+      key="Toelichting"
+      value="Architectuurmodellen maken en beheren, met tools zoals Archi, Enterprise Architect"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Docker"
+    id="id-b9b9893209824e07933a374978298077"
+    documentation="Docker is a containerization platform that allows developers to package, distribute, and run applications in isolated environments, ensuring consistency, scalability, and efficiency across different environments."/>

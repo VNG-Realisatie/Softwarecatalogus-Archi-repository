@@ -241,15 +241,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-e268e109c55745fe9b524569ac48538c"
-          source="id-031fae9d9cda468687ae190fd8e3b6bb"
-          target="id-177f3fcf1cad4dcea7ee78a58f6f4f67">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-7bc0206f0f344fd9825c3e47eb1d4c43.xml#id-7bc0206f0f344fd9825c3e47eb1d4c43"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-b7eacb438d6545adb2111b325b32fe6f"
           source="id-031fae9d9cda468687ae190fd8e3b6bb"
           target="id-dfb1d84db81546f3be13cba0f5eefe6b">
@@ -274,6 +265,15 @@
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-34d75402e9434d46a3535013347f1528.xml#id-34d75402e9434d46a3535013347f1528"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-e268e109c55745fe9b524569ac48538c"
+          source="id-031fae9d9cda468687ae190fd8e3b6bb"
+          target="id-177f3fcf1cad4dcea7ee78a58f6f4f67">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-7bc0206f0f344fd9825c3e47eb1d4c43.xml#id-7bc0206f0f344fd9825c3e47eb1d4c43"/>
       </sourceConnections>
       <bounds
           x="30"

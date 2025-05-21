@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kwetsbaarheidsscanner"
-    id="id-6100fba2c98e4804bff9d8dd6e485e56"
-    documentation="Tool voor het detecteren van bekende kwetsbaarheden in code, dependencies en containers">
-  <properties
-      key="Toelichting"
-      value="Dependencies en containers scannen op CVE’s , met tools zoals Trivy, Snyk"/>
-</archimate:ApplicationComponent>

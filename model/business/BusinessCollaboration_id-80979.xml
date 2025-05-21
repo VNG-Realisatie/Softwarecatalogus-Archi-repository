@@ -9,4 +9,7 @@
   <properties
       key="Bron"
       value="Softwarecatalogus"/>
+  <properties
+      key="Organisatietype"
+      value="Samenwerking"/>
 </archimate:BusinessCollaboration>

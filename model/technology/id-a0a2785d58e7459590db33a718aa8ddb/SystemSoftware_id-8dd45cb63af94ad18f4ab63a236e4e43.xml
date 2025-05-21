@@ -1,9 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Geheimenbeheer tool"
-    id="id-8dd45cb63af94ad18f4ab63a236e4e43"
-    documentation="Tool voor veilige opslag en gebruik van geheimen zoals tokens">
-  <properties
-      key="Toelichting"
-      value="Secrets veilig opslaan en beschikbaar stellen tijdens deploy , met tools zoals HashiCorp Vault, Sealed Secrets"/>
-</archimate:SystemSoftware>

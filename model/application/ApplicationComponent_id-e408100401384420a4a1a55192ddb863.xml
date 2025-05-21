@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAST-tool"
-    id="id-e408100401384420a4a1a55192ddb863"
-    documentation="Een Dynamic Application Security Testing (DAST) tool die automatisch kwetsbaarheden opspoort in een draaiende applicatie door gesimuleerde aanvallen. ">
-  <properties
-      key="Toelichting"
-      value="Vergelijkbaar met een geautomatiseerde penetratietest voor het identificeren van kwetsbaarheden zoals XSS, SQL-injectie en misconfiguraties"/>
-</archimate:ApplicationComponent>

@@ -4,11 +4,11 @@
     id="id-5c5b331b410c49718dc848a5dde9e500"
     documentation="Als gebruik-beheerder wil ik ingevoerde pakketten door aanbod-beheerders eenvoudig kunnen koppelen aan mijn applicatielandschap, zodat ik niet veel tijd kwijt ben aan registratie.">
   <properties
-      key="Type requirement"
-      value="Functional"/>
-  <properties
       key="ReqID"
       value="38"/>
+  <properties
+      key="Type requirement"
+      value="Functional"/>
   <properties
       key="Functionaliteitgroep"
       value="Gebruik"/>

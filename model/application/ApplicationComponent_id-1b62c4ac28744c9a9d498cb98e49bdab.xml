@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Helm"
-    id="id-1b62c4ac28744c9a9d498cb98e49bdab"
-    documentation="Helm is the package manager for Kubernetes and supports the process of defining, installing, and upgrading Kubernetes applications"/>

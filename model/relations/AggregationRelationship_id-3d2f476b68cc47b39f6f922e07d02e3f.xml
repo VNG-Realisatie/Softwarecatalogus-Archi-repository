@@ -5,8 +5,8 @@
     id="id-3d2f476b68cc47b39f6f922e07d02e3f">
   <source
       xsi:type="archimate:BusinessCollaboration"
-      href="BusinessCollaboration_id-3e475339999b46419752decfd7cbc477.xml#id-3e475339999b46419752decfd7cbc477"/>
+      href="BusinessCollaboration_id-80979.xml#id-80979"/>
   <target
       xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-699089bbc8e14ae488d636b1b3996325.xml#id-699089bbc8e14ae488d636b1b3996325"/>
+      href="BusinessActor_id-80978.xml#id-80978"/>
 </archimate:AggregationRelationship>

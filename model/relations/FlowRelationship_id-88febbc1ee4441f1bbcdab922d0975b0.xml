@@ -4,8 +4,8 @@
     name="pentest"
     id="id-88febbc1ee4441f1bbcdab922d0975b0">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-df45a1ad6d2b4052adb0fc0250a622a2.xml#id-df45a1ad6d2b4052adb0fc0250a622a2"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-c138558f77224a509d547424817623c2.xml#id-c138558f77224a509d547424817623c2"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-23642e026358400493f78fea406d5723.xml#id-23642e026358400493f78fea406d5723"/>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specmatic"
+    id="id-ea339f315b254166b27ed3edb66a6f33"
+    documentation="Specmatic is an open-source tool for contract-driven testing, using API specifications as executable contracts to ensure compliance through automated tests and mocking."/>

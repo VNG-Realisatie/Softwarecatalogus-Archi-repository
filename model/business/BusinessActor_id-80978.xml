@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gemeente"
     id="id-80978"
-    documentation="Een gemeente is een groep van woonkernen (dorpen, steden) met het bijbehorende gebied die samen worden bestuurd door een politiek apparaat.&#xA;">
+    documentation="Een gemeente is een groep van woonkernen (dorpen, steden) met het bijbehorende gebied die samen worden bestuurd door een politiek apparaat.">
   <properties
       key="Object ID"
       value="8eb2ca70-5a63-4d9f-bfaf-ee67bbfbdb90"/>
@@ -15,4 +15,7 @@
   <properties
       key="Toelichting"
       value="Basisgegevens * Object GUID * Naam * Beschrijving * Toelichting * Elementtype=''Gemeente'' Gemeente gegevens * Gemeente CBS -> SWC en persoonsgegevens die niet meegaan in het architectuurmodel * Gemeente contact -> * Gemeente Contact email -> Gemeente e-mail * Voortgang -> Gemeente voortgang * Laatste activiteit -> Gemeente laatste wijziging"/>
+  <properties
+      key="Organisatietype"
+      value="Gemeente"/>
 </archimate:BusinessActor>

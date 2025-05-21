@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Docker"
-    id="id-e252d2f94b484c7586921de6296ab8f2"
-    documentation="Docker is a containerization platform that allows developers to package, distribute, and run applications in isolated environments, ensuring consistency, scalability, and efficiency across different environments."/>
