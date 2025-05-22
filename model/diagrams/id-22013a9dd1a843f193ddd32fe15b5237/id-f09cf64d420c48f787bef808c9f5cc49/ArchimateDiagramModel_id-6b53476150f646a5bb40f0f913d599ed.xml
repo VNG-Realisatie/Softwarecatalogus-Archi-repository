@@ -6,8 +6,7 @@
     documentation="Verdeling van eigenaarschap en verantwoordelijkheiden voor de Softwarecatalogus en gebruikte services">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6a072f4bbba04aebb2538efc2b864806"
-      targetConnections="id-03e40608390e43f7b0244c07e5fa622a">
+      id="id-6a072f4bbba04aebb2538efc2b864806">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e9053e40c6334be4be86b8f7937b5d30"
@@ -24,7 +23,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
-        href="TechnologyService_id-cf831e23e2b8462a8ac6ea6f67877933.xml#id-cf831e23e2b8462a8ac6ea6f67877933"/>
+        href="TechnologyService_id-3d63b902c84c4ee3aa547cd3148d3cca.xml#id-3d63b902c84c4ee3aa547cd3148d3cca"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -464,15 +463,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e7cd4414f0be4fa2b51691c7d6c0f50c"
         targetConnections="id-f37bafdc2656422cbf0dfbd9a7d4f98f">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-03e40608390e43f7b0244c07e5fa622a"
-          source="id-e7cd4414f0be4fa2b51691c7d6c0f50c"
-          target="id-6a072f4bbba04aebb2538efc2b864806">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-565e86fe14ef4f3db6811a0a233e5754.xml#id-565e86fe14ef4f3db6811a0a233e5754"/>
-      </sourceConnections>
       <bounds
           x="35"
           y="595"
