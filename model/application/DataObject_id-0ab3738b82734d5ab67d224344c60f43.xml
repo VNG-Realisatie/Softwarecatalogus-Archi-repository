@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicatieversie (Voorzieningversie)"
+    name="Voorzieningsdeelversie"
     id="id-0ab3738b82734d5ab67d224344c60f43"
-    documentation="Een applicatie heeft minimaal één applicatieversie (default de 'actuele versie')"/>
+    documentation="Een onderdeel van een voorziening heeft minimaal één applicatieversie (default de 'actuele versie')"/>
