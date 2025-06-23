@@ -7,6 +7,6 @@
       xsi:type="archimate:DataObject"
       href="DataObject_id-e9725554f12e4486acc1b75935ebdee6.xml#id-e9725554f12e4486acc1b75935ebdee6"/>
   <target
-      xsi:type="archimate:Junction"
-      href="Junction_id-71041892cd6240f2984e28e8ed23db1b.xml#id-71041892cd6240f2984e28e8ed23db1b"/>
+      xsi:type="archimate:AssociationRelationship"
+      href="AssociationRelationship_id-b19be0b105364389b1075f071d77b616.xml#id-b19be0b105364389b1075f071d77b616"/>
 </archimate:AssociationRelationship>

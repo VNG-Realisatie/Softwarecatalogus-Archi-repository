@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geschikt voor"
+    id="id-d471c06805084c59aec7a534ea198945"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-1f34faa2fd59471983d45098215aa84e.xml#id-1f34faa2fd59471983d45098215aa84e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8592e61a74634c8cac67815909d186a3.xml#id-8592e61a74634c8cac67815909d186a3"/>
+</archimate:AssociationRelationship>
