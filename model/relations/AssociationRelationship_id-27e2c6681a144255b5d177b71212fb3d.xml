@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="externe koppeling"
+    id="id-27e2c6681a144255b5d177b71212fb3d">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2dfaa33875934cfc95d82bcffa193bee.xml#id-2dfaa33875934cfc95d82bcffa193bee"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-248ff09548ce4d3f97d8f36a3938556c.xml#id-248ff09548ce4d3f97d8f36a3938556c"/>
+</archimate:AssociationRelationship>

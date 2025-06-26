@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="interne koppeling"
+    id="id-6e3c3ee0e41e418891747ae0f9f0f303">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2dfaa33875934cfc95d82bcffa193bee.xml#id-2dfaa33875934cfc95d82bcffa193bee"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2dfaa33875934cfc95d82bcffa193bee.xml#id-2dfaa33875934cfc95d82bcffa193bee"/>
+</archimate:AssociationRelationship>

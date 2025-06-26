@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intern van applicatie"
+    id="id-a393f21ff7274184b4c01a64196a38c2">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-bd2eda99206b479d938a60a601a40e7e.xml#id-bd2eda99206b479d938a60a601a40e7e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8b1d8bc6b8574533900f7a63723cde34.xml#id-8b1d8bc6b8574533900f7a63723cde34"/>
+</archimate:AssociationRelationship>

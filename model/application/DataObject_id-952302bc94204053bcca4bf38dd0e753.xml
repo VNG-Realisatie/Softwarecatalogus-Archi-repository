@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Voorziening (voorzieningaanbod)"
-    id="id-952302bc94204053bcca4bf38dd0e753"/>
+    name="Product (voorzieningaanbod)"
+    id="id-952302bc94204053bcca4bf38dd0e753"
+    documentation="Een samenhangende set Diensten in ICT-oplossingen die onder in een Overeenkomst beschreven voorwaarden kan worden afgenomen."/>

@@ -1,7 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(heeft betrekking) op"
+    name="samengesteld uit"
     id="id-859317c2835c46c9bb0b51fce8b2328b">
   <source
       xsi:type="archimate:DataObject"

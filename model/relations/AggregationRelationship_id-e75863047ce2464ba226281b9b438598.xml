@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft waardelijst"
     id="id-e75863047ce2464ba226281b9b438598">
   <source
       xsi:type="archimate:DataObject"

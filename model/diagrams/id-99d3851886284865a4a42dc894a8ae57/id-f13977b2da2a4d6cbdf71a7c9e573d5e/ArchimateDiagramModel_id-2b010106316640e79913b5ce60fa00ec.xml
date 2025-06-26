@@ -13,8 +13,8 @@
         source="id-a96c6e4b32524a0eb0024f0f61cb976a"
         target="id-87249cb5e220466397bef8f1f8a600de">
       <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-80970.xml#id-80970"/>
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_id-5c0dea0dcfdd4158bb6bd55eaa2b5ea9.xml#id-5c0dea0dcfdd4158bb6bd55eaa2b5ea9"/>
     </sourceConnections>
     <bounds
         x="40"
@@ -194,8 +194,8 @@
         source="id-7b6d93fb66654fffb5f8b26b1a2c5d15"
         target="id-4e733726c10e4924aa8f1e45ef3c32c1">
       <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-80970.xml#id-80970"/>
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_id-5c0dea0dcfdd4158bb6bd55eaa2b5ea9.xml#id-5c0dea0dcfdd4158bb6bd55eaa2b5ea9"/>
     </sourceConnections>
     <bounds
         x="40"

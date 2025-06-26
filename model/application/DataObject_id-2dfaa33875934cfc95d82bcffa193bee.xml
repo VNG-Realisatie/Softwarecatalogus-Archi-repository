@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Product (Applicatie, Platform, Infrastructuur)"
-    id="id-2dfaa33875934cfc95d82bcffa193bee"/>
+    name="ICT-oplossing (Applicatie, Platform, Infrastructuur)"
+    id="id-2dfaa33875934cfc95d82bcffa193bee"
+    documentation="Technische realisatie van de dienst, op basis van applicaties, platforms en infrastructuur."/>

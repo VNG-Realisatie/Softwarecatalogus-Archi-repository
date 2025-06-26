@@ -114,15 +114,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-7e35d3a724b9492eb8f7364c97281b2c"
-          source="id-8ce285702f5449afb5c103da339a336a"
-          target="id-2776e13a95cc44199ef8d7076aa07262">
-        <archimateRelationship
-            xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_id-80970.xml#id-80970"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1ceacb4b4f6848e9af9c7f315b089776"
           lineWidth="2"
           lineColor="#ff0000"
@@ -152,6 +143,15 @@
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_id-791d173e51d541488c232daaf43bad6a.xml#id-791d173e51d541488c232daaf43bad6a"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-7e35d3a724b9492eb8f7364c97281b2c"
+          source="id-8ce285702f5449afb5c103da339a336a"
+          target="id-2776e13a95cc44199ef8d7076aa07262">
+        <archimateRelationship
+            xsi:type="archimate:SpecializationRelationship"
+            href="SpecializationRelationship_id-5c0dea0dcfdd4158bb6bd55eaa2b5ea9.xml#id-5c0dea0dcfdd4158bb6bd55eaa2b5ea9"/>
       </sourceConnections>
       <bounds
           x="150"
