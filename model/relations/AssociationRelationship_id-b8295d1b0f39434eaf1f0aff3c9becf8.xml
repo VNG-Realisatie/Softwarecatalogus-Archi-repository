@@ -1,13 +1,13 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is intermediair van"
+    name="gerealiseerd met intermediair"
     id="id-b8295d1b0f39434eaf1f0aff3c9becf8"
     directed="true">
   <source
       xsi:type="archimate:DataObject"
-      href="DataObject_id-13f25d787d2b46118f702a72d127bcca.xml#id-13f25d787d2b46118f702a72d127bcca"/>
+      href="DataObject_id-8b1d8bc6b8574533900f7a63723cde34.xml#id-8b1d8bc6b8574533900f7a63723cde34"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-8b1d8bc6b8574533900f7a63723cde34.xml#id-8b1d8bc6b8574533900f7a63723cde34"/>
+      href="DataObject_id-13f25d787d2b46118f702a72d127bcca.xml#id-13f25d787d2b46118f702a72d127bcca"/>
 </archimate:AssociationRelationship>
