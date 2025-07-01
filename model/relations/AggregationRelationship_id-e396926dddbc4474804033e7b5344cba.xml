@@ -1,7 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="met"
+    name="wordt geleverd als"
     id="id-e396926dddbc4474804033e7b5344cba">
   <source
       xsi:type="archimate:DataObject"

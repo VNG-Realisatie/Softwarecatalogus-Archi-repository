@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Referentiecomponent"
-    id="id-01dc077df20744be92e3215abd71192e"/>
+    id="id-01dc077df20744be92e3215abd71192e"
+    documentation="- BAG beheercomponent&#xD;&#xA;- Helpdeskcomponent&#xD;&#xA;- Belastingencomponent&#xD;&#xA;- .."/>

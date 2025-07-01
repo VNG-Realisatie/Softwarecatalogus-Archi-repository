@@ -1039,40 +1039,6 @@
           height="266"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-3f4118b24d734f29b427d9331a56d4eb"
-          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          textAlignment="1"
-          fillColor="#b0dbe6">
-        <bounds
-            x="620"
-            y="35"
-            width="151"
-            height="146"/>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="id-6315c9c8be0646a1828bb3075f84c589"
-            targetConnections="id-c55a1f443ba94e088371b3a1be55aa2a"
-            font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-            textAlignment="1"
-            fillColor="#dff0f4">
-          <features
-              name="labelExpression"
-              value="${name}&#xD;&#xA;&#xD;&#xA;${documentation}"/>
-          <bounds
-              x="20"
-              y="45"
-              width="111"
-              height="81"/>
-          <archimateElement
-              xsi:type="archimate:DataObject"
-              href="DataObject_id-2c50cde9641a4f828b8d3769fbf86b1c.xml#id-2c50cde9641a4f828b8d3769fbf86b1c"/>
-        </children>
-        <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_id-1f34faa2fd59471983d45098215aa84e.xml#id-1f34faa2fd59471983d45098215aa84e"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8384959e5b85440fac7939ca9e6251f8"
           targetConnections="id-4c0e2ce51a424162b151cc496324005f"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
@@ -1230,6 +1196,25 @@
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-2dfaa33875934cfc95d82bcffa193bee.xml#id-2dfaa33875934cfc95d82bcffa193bee"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6315c9c8be0646a1828bb3075f84c589"
+        targetConnections="id-c55a1f443ba94e088371b3a1be55aa2a"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        textAlignment="1"
+        fillColor="#dff0f4">
+      <features
+          name="labelExpression"
+          value="${name}&#xD;&#xA;&#xD;&#xA;${documentation}"/>
+      <bounds
+          x="740"
+          y="45"
+          width="111"
+          height="81"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-2c50cde9641a4f828b8d3769fbf86b1c.xml#id-2c50cde9641a4f828b8d3769fbf86b1c"/>
     </children>
     <archimateElement
         xsi:type="archimate:DataObject"

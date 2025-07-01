@@ -360,10 +360,10 @@
             source="id-8e66ea5734754bfeae2e07820c208052"
             target="id-087232accf5d45e5919c08f013fa4cc2">
           <bendpoints
-              startX="-30"
-              startY="210"
-              endX="-40"
-              endY="-225"/>
+              startX="-25"
+              startY="175"
+              endX="-35"
+              endY="-260"/>
           <archimateRelationship
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_id-d5eddc1b479f4e789c3822c388bc74a9.xml#id-d5eddc1b479f4e789c3822c388bc74a9"/>
@@ -551,7 +551,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2d778b65719b4237be32597dc4f75f6f"
-        targetConnections="id-e5cf81079f0547daa191a2fb5f2820ff id-86e67add3fa84b92850447ca79727904 id-accfdaac926c489eb8bf7526d6759b61 id-40e2d2faf6be48f9acd5a54e1edcc5fd id-99f94004fc2146fc9a32bfb5816258cc id-7d711789c477408dae464321776bbd86"
+        targetConnections="id-e5cf81079f0547daa191a2fb5f2820ff id-86e67add3fa84b92850447ca79727904 id-accfdaac926c489eb8bf7526d6759b61 id-40e2d2faf6be48f9acd5a54e1edcc5fd id-99f94004fc2146fc9a32bfb5816258cc"
         font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -684,7 +684,7 @@
     <bounds
         x="880"
         y="706"
-        width="120"
+        width="151"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -703,15 +703,6 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-166442b052b848e0affa820378a97a5d.xml#id-166442b052b848e0affa820378a97a5d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7d711789c477408dae464321776bbd86"
-        source="id-087232accf5d45e5919c08f013fa4cc2"
-        target="id-2d778b65719b4237be32597dc4f75f6f">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-9c98c062c44b45d892594c2aa76410cb.xml#id-9c98c062c44b45d892594c2aa76410cb"/>
     </sourceConnections>
     <bounds
         x="980"
@@ -734,7 +725,4 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-baf1da1d324f4ed48cb3d104e7b8f1e8.xml#id-baf1da1d324f4ed48cb3d104e7b8f1e8"/>
   </children>
-  <properties
-      key="generate_view_param"
-      value="{&#xA; &quot;action&quot;: &quot;Layout&quot;,&#xA; &quot;graphDepth&quot;: 1,&#xA; &quot;includeElementType&quot;: [],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [&#xA;  &quot;aggregation-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutCircular&quot;: true,&#xA; &quot;graphDirection&quot;: &quot;TB&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 200,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 40,&#xA; &quot;vSep&quot;: 180,&#xA; &quot;debug&quot;: false,&#xA; &quot;excludeFromView&quot;: false,&#xA; &quot;viewName&quot;: &quot;Informatiedomein organisatie&quot;,&#xA; &quot;viewNameSuffix&quot;: &quot;&quot;,&#xA; &quot;viewFolder&quot;: &quot;&quot;&#xA;}"/>
 </archimate:ArchimateDiagramModel>
