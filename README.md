@@ -1,3 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis Centrum Architectuur<br/>Markt & Overheid | Mark Backer, Peter Makkes |
+<hr/>
+
 # **Softwarecatalogus Archi Repository**  
 
 Dit is de Archi-repository voor de **Softwarecatalogus**, waarin het **ArchiMate-model** van de architectuur en het ontwerp van de (vernieuwde) Softwarecatalogus. Dit model wordt door VNG-Realisatie beheerd.  
