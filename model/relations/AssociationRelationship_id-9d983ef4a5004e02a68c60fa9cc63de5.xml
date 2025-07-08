@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="levert"
+    name="is (intellectueel) eigenaar van"
     id="id-9d983ef4a5004e02a68c60fa9cc63de5"
     directed="true">
   <source

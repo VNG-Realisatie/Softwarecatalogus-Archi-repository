@@ -1,12 +1,13 @@
-<archimate:AggregationRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="samengesteld uit"
-    id="id-859317c2835c46c9bb0b51fce8b2328b">
+    name="levert"
+    id="id-3584fc6315574807a78956d05903f545"
+    directed="true">
   <source
       xsi:type="archimate:DataObject"
-      href="DataObject_id-952302bc94204053bcca4bf38dd0e753.xml#id-952302bc94204053bcca4bf38dd0e753"/>
+      href="DataObject_id-03b6d5a76eec4683b85b89073a34ed99.xml#id-03b6d5a76eec4683b85b89073a34ed99"/>
   <target
       xsi:type="archimate:DataObject"
       href="DataObject_id-ea43938826e945baaaf519f76ee6ccf9.xml#id-ea43938826e945baaaf519f76ee6ccf9"/>
-</archimate:AggregationRelationship>
+</archimate:AssociationRelationship>
