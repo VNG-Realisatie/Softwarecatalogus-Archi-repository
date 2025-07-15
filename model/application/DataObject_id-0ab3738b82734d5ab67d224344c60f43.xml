@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Productversie (Applicatie, Platform, Infrastructuur)"
+    name="Module-versie"
     id="id-0ab3738b82734d5ab67d224344c60f43"
-    documentation="Een onderdeel van een product heeft minimaal één versie (default de 'actuele versie')"/>
+    documentation="Een module heeft minimaal één versie (default de 'actuele versie')"/>
