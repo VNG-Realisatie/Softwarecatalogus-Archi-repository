@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registreert voor deelnemer"
+    id="id-7c206f20dcb94a4fb6f787d6a5815ca5"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2ecc186344de4ca19c45508ea66329f9.xml#id-2ecc186344de4ca19c45508ea66329f9"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-339668af997f442290e485a73a5c72f2.xml#id-339668af997f442290e485a73a5c72f2"/>
+</archimate:AssociationRelationship>

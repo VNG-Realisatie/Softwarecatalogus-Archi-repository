@@ -1,13 +1,13 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="stelt op"
+    name="over"
     id="id-de210f0a42fb46db89707435877efe82"
     directed="true">
   <source
-      xsi:type="archimate:DataObject"
-      href="DataObject_id-c45378e3b8014377a90da8344f7d6fca.xml#id-c45378e3b8014377a90da8344f7d6fca"/>
+      xsi:type="archimate:Junction"
+      href="Junction_id-c121c76718164d87a036e903cb1ac2ff.xml#id-c121c76718164d87a036e903cb1ac2ff"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-e9725554f12e4486acc1b75935ebdee6.xml#id-e9725554f12e4486acc1b75935ebdee6"/>
+      href="DataObject_id-c45378e3b8014377a90da8344f7d6fca.xml#id-c45378e3b8014377a90da8344f7d6fca"/>
 </archimate:AssociationRelationship>

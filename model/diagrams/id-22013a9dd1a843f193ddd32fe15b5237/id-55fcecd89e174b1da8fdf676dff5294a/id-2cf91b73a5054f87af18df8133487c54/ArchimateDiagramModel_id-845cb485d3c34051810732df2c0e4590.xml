@@ -291,20 +291,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-d60b9c467ae54626b586d101e3683df8"
-          source="id-ac8f938111cb41c592a50455a7bf9c2b"
-          target="id-a321efa26e6e44b6b54fe68a5b1364da">
-        <bendpoints
-            startX="-18"
-            startY="195"
-            endX="-110"
-            endY="-453"/>
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-de210f0a42fb46db89707435877efe82.xml#id-de210f0a42fb46db89707435877efe82"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-51170358b8be4c0ea77668421260ff9f"
           source="id-ac8f938111cb41c592a50455a7bf9c2b"
           target="id-6b86d00662a740bd90c03ae14e61f367">
@@ -852,7 +838,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a321efa26e6e44b6b54fe68a5b1364da"
-        targetConnections="id-d60b9c467ae54626b586d101e3683df8"
         font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -984,7 +969,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-852727bba0c34714a8e306e7987b5016"
-        targetConnections="id-7a4908b53ee84b0db08a7906dd438dd0"
+        targetConnections="id-7a4908b53ee84b0db08a7906dd438dd0 id-8f5ddd1742a34e71929bb6f8dbce1d61"
         font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1065,7 +1050,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e4de0264edff41ef91b955866ae393c0"
-          targetConnections="id-857a09ca33104e3abc59da3d0fb829e5 id-8f5ddd1742a34e71929bb6f8dbce1d61"
+          targetConnections="id-857a09ca33104e3abc59da3d0fb829e5"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           textAlignment="1"
           fillColor="#b0dbe6">
@@ -1519,7 +1504,7 @@
         id="id-8f5ddd1742a34e71929bb6f8dbce1d61"
         targetConnections="id-710e03d8709b47fe91159c22f43161e4"
         source="id-bb2af62ef4f24b3eb078486d2a470693"
-        target="id-e4de0264edff41ef91b955866ae393c0">
+        target="id-852727bba0c34714a8e306e7987b5016">
       <features
           name="labelExpression"
           value="${wordwrap:20:${name}}"/>
