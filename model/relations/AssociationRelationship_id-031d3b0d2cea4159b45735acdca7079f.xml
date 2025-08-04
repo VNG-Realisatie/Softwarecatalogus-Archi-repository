@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registreert plaatsvervangend"
+    id="id-031d3b0d2cea4159b45735acdca7079f">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c45378e3b8014377a90da8344f7d6fca.xml#id-c45378e3b8014377a90da8344f7d6fca"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8b1d8bc6b8574533900f7a63723cde34.xml#id-8b1d8bc6b8574533900f7a63723cde34"/>
+</archimate:AssociationRelationship>

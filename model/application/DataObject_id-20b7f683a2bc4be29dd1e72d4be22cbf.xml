@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overeenkomst (Contract)"
-    id="id-20b7f683a2bc4be29dd1e72d4be22cbf"/>
+    id="id-20b7f683a2bc4be29dd1e72d4be22cbf"
+    documentation="Bindende afspraak tussen aanbieder en afnemer over rechten en verplichtingen met betrekking tot levering en gebruik van een product"/>

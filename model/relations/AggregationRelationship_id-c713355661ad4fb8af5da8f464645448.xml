@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afkomstig uit"
+    id="id-c713355661ad4fb8af5da8f464645448">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-090fedd2dd32442b863705ca652b0f8d.xml#id-090fedd2dd32442b863705ca652b0f8d"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9ef04e6a8c384c5e944032d4fab51817.xml#id-9ef04e6a8c384c5e944032d4fab51817"/>
+</archimate:AggregationRelationship>

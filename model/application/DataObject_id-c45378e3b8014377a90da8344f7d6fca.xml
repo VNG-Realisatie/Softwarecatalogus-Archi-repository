@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisatie"
-    id="id-c45378e3b8014377a90da8344f7d6fca"/>
+    id="id-c45378e3b8014377a90da8344f7d6fca"
+    documentation="Rechtspersoon die diensten of applicaties aanbiedt of gebruikt.&#xD;&#xA;Uitzondering is de community, dit hoeft geen rechtspersoon"/>
