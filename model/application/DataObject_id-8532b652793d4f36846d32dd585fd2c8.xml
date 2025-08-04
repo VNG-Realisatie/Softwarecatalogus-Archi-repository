@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliancy"
+    id="id-8532b652793d4f36846d32dd585fd2c8"
+    documentation="Een module heeft minimaal één versie (default de 'actuele versie')"/>

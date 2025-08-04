@@ -1016,16 +1016,6 @@
         </sourceConnections>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-344658eecdf9431c8bd172a198a785c5"
-            font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-            source="id-86f71912d41044679704e058e557bac6"
-            target="id-456929b8c212436fb6188073bdbc968c">
-          <archimateRelationship
-              xsi:type="archimate:AssociationRelationship"
-              href="AssociationRelationship_id-51eb3c4b605349b382e2702a57c01407.xml#id-51eb3c4b605349b382e2702a57c01407"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-d0e7292eccb440f7aec50076a6eb070b"
             source="id-86f71912d41044679704e058e557bac6"
             target="id-d9918911f5ec45c383e39ec60100a269">
@@ -1492,7 +1482,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-456929b8c212436fb6188073bdbc968c"
-            targetConnections="id-344658eecdf9431c8bd172a198a785c5 id-a9d80a22d9f54397b015d9afd1a5d61d"
+            targetConnections="id-a9d80a22d9f54397b015d9afd1a5d61d"
             font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
             textAlignment="1"
             fillColor="#b0dbe6">
