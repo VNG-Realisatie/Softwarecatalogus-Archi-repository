@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aangeboden voor"
+    id="id-cd88c4ed8ff94adfa91c8b883e4f5315"
+    directed="true">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_id-b31fef455c1d4f1c96439ecf0d8e5ddf.xml#id-b31fef455c1d4f1c96439ecf0d8e5ddf"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-55e929c0e2f643b1aa1e78bed48b0cb4.xml#id-55e929c0e2f643b1aa1e78bed48b0cb4"/>
+</archimate:AssociationRelationship>

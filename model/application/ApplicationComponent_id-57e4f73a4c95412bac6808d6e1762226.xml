@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatieversie"
+    id="id-57e4f73a4c95412bac6808d6e1762226">
+  <profiles
+      href="folder.xml#id-1f9e9c3840d241a28096d4a3a37c8986"/>
+</archimate:ApplicationComponent>

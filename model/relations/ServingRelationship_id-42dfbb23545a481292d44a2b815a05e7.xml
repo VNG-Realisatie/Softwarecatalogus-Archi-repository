@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gebruikt door"
+    id="id-42dfbb23545a481292d44a2b815a05e7">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-2527f15b13384c80a0f61c1f87b42b24.xml#id-2527f15b13384c80a0f61c1f87b42b24"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-80978.xml#id-80978"/>
+</archimate:ServingRelationship>

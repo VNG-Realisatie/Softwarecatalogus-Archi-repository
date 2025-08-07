@@ -39,7 +39,4 @@
   <properties
       key="Vertrouwelijkheid (belangrijkste reden)"
       value="1 : interne negatieve publiciteit (imagoschade)."/>
-  <properties
-      key="Toelichting"
-      value="Werk structureren, sprints plannen, issues bijhouden , met tools zoals Jira, Trello, Azure Boards"/>
 </archimate:ApplicationComponent>

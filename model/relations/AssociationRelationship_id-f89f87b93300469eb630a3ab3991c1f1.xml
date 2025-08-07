@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft waardelijst"
+    id="id-f89f87b93300469eb630a3ab3991c1f1"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8532b652793d4f36846d32dd585fd2c8.xml#id-8532b652793d4f36846d32dd585fd2c8"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f333c64d53bd4efa81537cbadde5b368.xml#id-f333c64d53bd4efa81537cbadde5b368"/>
+</archimate:AssociationRelationship>

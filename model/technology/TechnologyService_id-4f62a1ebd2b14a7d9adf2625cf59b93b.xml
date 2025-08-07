@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GitHub services"
+    id="id-4f62a1ebd2b14a7d9adf2625cf59b93b"
+    documentation="GitHub is een online platform voor softwareontwikkeling en versiebeheer (wikipedia)">
+  <properties
+      key="Object ID"
+      value="4933f015-79a3-47d1-9160-9cea72e3d4f3"/>
+</archimate:TechnologyService>

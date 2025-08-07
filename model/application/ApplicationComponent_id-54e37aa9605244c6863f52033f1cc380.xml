@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GitHub.com webinterface"
+    id="id-54e37aa9605244c6863f52033f1cc380"
+    documentation="GitHub is een online platform voor softwareontwikkeling en versiebeheer (wikipedia)">
+  <properties
+      key="Object ID"
+      value="4933f015-79a3-47d1-9160-9cea72e3d4f3"/>
+</archimate:ApplicationComponent>

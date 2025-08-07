@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="gebruik"
+    name="gebruikt door"
     id="id-4b4ead8656774c618456348024a52651">
   <properties
       key="Status gebruik"/>
@@ -13,6 +13,6 @@
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-55e929c0e2f643b1aa1e78bed48b0cb4.xml#id-55e929c0e2f643b1aa1e78bed48b0cb4"/>
   <target
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-f7bde2e000fa4fec88fcfe5ec3401887.xml#id-f7bde2e000fa4fec88fcfe5ec3401887"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-80978.xml#id-80978"/>
 </archimate:ServingRelationship>

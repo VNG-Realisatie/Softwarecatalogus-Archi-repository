@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GitHub pages"
-    id="id-dba429b31fbc4b5697ae0cfbfe102b3b"
-    documentation="GitHub Pages is een gratis dienst van GitHub waarmee je direct een statische website kunt publiceren vanuit een Git-repository.">
-  <properties
-      key="Toelichting"
-      value=" voor documentatie, portfolio's of projectwebsites — bijvoorbeeld met tools als Docusaurus of Jekyll."/>
-</archimate:ApplicationComponent>

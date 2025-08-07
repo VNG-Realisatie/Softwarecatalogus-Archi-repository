@@ -7,8 +7,8 @@
     directed="true">
   <source
       xsi:type="archimate:DataObject"
-      href="DataObject_id-8b1d8bc6b8574533900f7a63723cde34.xml#id-8b1d8bc6b8574533900f7a63723cde34"/>
+      href="DataObject_id-4c9adc668f714a8ebb10567f66ffa5ef.xml#id-4c9adc668f714a8ebb10567f66ffa5ef"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-4c9adc668f714a8ebb10567f66ffa5ef.xml#id-4c9adc668f714a8ebb10567f66ffa5ef"/>
+      href="DataObject_id-8b1d8bc6b8574533900f7a63723cde34.xml#id-8b1d8bc6b8574533900f7a63723cde34"/>
 </archimate:AssociationRelationship>

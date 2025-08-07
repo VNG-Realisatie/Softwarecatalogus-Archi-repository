@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is lid van"
+    id="id-e22a8815f87b4d039e0b4715ebdb5a67"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-80979.xml#id-80979"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-3b368846a4ae461ebbd04938af43d890.xml#id-3b368846a4ae461ebbd04938af43d890"/>
+</archimate:AssociationRelationship>
