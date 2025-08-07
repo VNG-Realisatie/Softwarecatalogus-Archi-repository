@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is aanbieder van"
+    name="is eigenaar van"
     id="id-b5f689a71c724bb4a2fec16b471a9b31"
     directed="true">
   <source

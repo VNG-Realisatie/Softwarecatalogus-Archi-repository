@@ -1,13 +1,13 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is lid van"
-    id="id-c545dbb648a94a45b418c336e0f16e3a"
+    name="gebruikt door"
+    id="id-b35b846ff4f246d98347ebcf106ddcd3"
     directed="true">
   <source
+      xsi:type="archimate:FlowRelationship"
+      href="FlowRelationship_id-b080554298c24523a9931c7e60f56c50.xml#id-b080554298c24523a9931c7e60f56c50"/>
+  <target
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-80978.xml#id-80978"/>
-  <target
-      xsi:type="archimate:BusinessCollaboration"
-      href="BusinessCollaboration_id-3b368846a4ae461ebbd04938af43d890.xml#id-3b368846a4ae461ebbd04938af43d890"/>
 </archimate:AssociationRelationship>

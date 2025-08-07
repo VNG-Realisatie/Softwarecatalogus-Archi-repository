@@ -1,7 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ondersteund"
+    name="ondersteunt"
     id="id-f246af9910a44a9389fa8e0e359fcea7">
   <source
       xsi:type="archimate:ApplicationComponent"
