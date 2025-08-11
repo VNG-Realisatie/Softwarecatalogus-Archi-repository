@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="interne koppeling aanbod"
+    id="id-808980b024c047de83511c4461dfb6bb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1817a71f4df441409a2e6570d949915f.xml#id-1817a71f4df441409a2e6570d949915f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1817a71f4df441409a2e6570d949915f.xml#id-1817a71f4df441409a2e6570d949915f"/>
+</archimate:FlowRelationship>

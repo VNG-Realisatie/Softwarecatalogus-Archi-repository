@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatieversie (&lt;naam afnemer>)"
+    id="id-3d9b75c99b964fb9b13be3e52a69ade6">
+  <profiles
+      href="folder.xml#id-1f9e9c3840d241a28096d4a3a37c8986"/>
+</archimate:ApplicationComponent>

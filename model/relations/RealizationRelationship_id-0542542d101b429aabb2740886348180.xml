@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geleverd als"
+    id="id-0542542d101b429aabb2740886348180">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_id-b31fef455c1d4f1c96439ecf0d8e5ddf.xml#id-b31fef455c1d4f1c96439ecf0d8e5ddf"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-9639e99fa5404550989ac8ce64e2c32a.xml#id-9639e99fa5404550989ac8ce64e2c32a"/>
+</archimate:RealizationRelationship>
