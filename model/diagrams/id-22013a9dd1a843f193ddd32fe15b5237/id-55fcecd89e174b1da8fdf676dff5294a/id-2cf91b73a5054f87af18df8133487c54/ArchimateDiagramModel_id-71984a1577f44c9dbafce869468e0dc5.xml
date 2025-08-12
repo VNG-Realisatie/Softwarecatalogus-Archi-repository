@@ -1,12 +1,16 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AMEFF export epic aanbod en gebruik relaties"
+    name="AMEFF export epic aanbod en gebruik één organisatie"
     id="id-71984a1577f44c9dbafce869468e0dc5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-10704bbc4e584ae9bfaf58a47a25e747"
-      textAlignment="1">
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      alpha="130">
+    <features
+        name="lineAlpha"
+        value="145"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a5a7a0a160ba4f0789a76dd3f895fe47"
@@ -764,7 +768,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3662907aea2e446e9c461e1d26a2ded3"
-      textAlignment="1">
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      alpha="130">
+    <features
+        name="lineAlpha"
+        value="145"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f63df38eaa60411482fbd94e8669d246"

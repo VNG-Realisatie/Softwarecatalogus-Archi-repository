@@ -16,7 +16,7 @@
     <bounds
         x="320"
         y="20"
-        width="666"
+        width="346"
         height="671"/>
   </children>
   <children
@@ -92,16 +92,16 @@
           href="AggregationRelationship_id-5238b5322fbd4c2bbee62175a130193e.xml#id-5238b5322fbd4c2bbee62175a130193e"/>
     </sourceConnections>
     <bounds
-        x="20"
-        y="70"
-        width="1351"
+        x="80"
+        y="65"
+        width="1001"
         height="596"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-559dd2acd9314442a9aebee1168bae8f"
         targetConnections="id-5825353af3104dfc9b7ffcd0b19bf510 id-51bf7aa99fca4608ac8c65c4d95e5696 id-96f7ca6038ea4a7ba63f2afe43278686 id-d46c365fa258474aa38c7b77b62ae85c id-da2e5ee3176b456fb76a05191f869737">
       <bounds
-          x="85"
+          x="25"
           y="60"
           width="81"
           height="435"/>
@@ -152,9 +152,9 @@
             href="AssignmentRelationship_id-6b8af08d3a7b444689a0d875c9bf7692.xml#id-6b8af08d3a7b444689a0d875c9bf7692"/>
       </sourceConnections>
       <bounds
-          x="325"
+          x="265"
           y="339"
-          width="446"
+          width="291"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
@@ -165,7 +165,7 @@
         id="id-5798b7152ed5405783c347de7afdf804"
         targetConnections="id-8d9a60afd7604a7c8358bb37a4577719 id-fe5af3e5d2bf46469ae8f4fa60f4f871 id-92c8f390568e4e559de70c6128f081cb">
       <bounds
-          x="1000"
+          x="675"
           y="255"
           width="96"
           height="96"/>
@@ -203,9 +203,9 @@
             href="AssignmentRelationship_id-9ea408133de94110808ba80ce4adefe4.xml#id-9ea408133de94110808ba80ce4adefe4"/>
       </sourceConnections>
       <bounds
-          x="325"
+          x="265"
           y="439"
-          width="266"
+          width="291"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
@@ -254,10 +254,10 @@
             name="labelExpression"
             value="${wordwrap:12:${name}}"/>
         <bendpoints
-            startX="-40"
-            startY="63"
-            endX="102"
-            endY="-62"/>
+            startX="80"
+            startY="64"
+            endX="80"
+            endY="-61"/>
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-3d2f476b68cc47b39f6f922e07d02e3f.xml#id-3d2f476b68cc47b39f6f922e07d02e3f"/>
@@ -281,9 +281,9 @@
             href="AssignmentRelationship_id-9f170a06c1fd4c7190ebaf1b79dae46b.xml#id-9f170a06c1fd4c7190ebaf1b79dae46b"/>
       </sourceConnections>
       <bounds
-          x="325"
+          x="265"
           y="214"
-          width="526"
+          width="291"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessCollaboration"
@@ -326,6 +326,11 @@
         <features
             name="labelExpression"
             value="${wordwrap:12:${name}}"/>
+        <bendpoints
+            startX="-175"
+            startY="78"
+            endX="-58"
+            endY="-301"/>
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-d7018d5050d7412aaf9deee155a8bec5.xml#id-d7018d5050d7412aaf9deee155a8bec5"/>
@@ -351,18 +356,18 @@
             name="labelExpression"
             value="${wordwrap:12:${name}}"/>
         <bendpoints
-            startX="-97"
-            startY="128"
-            endX="-73"
-            endY="-92"/>
+            startX="-55"
+            startY="78"
+            endX="-55"
+            endY="-201"/>
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-663c96b92ebd4f31bfd52a21e4397024.xml#id-663c96b92ebd4f31bfd52a21e4397024"/>
       </sourceConnections>
       <bounds
-          x="325"
+          x="265"
           y="60"
-          width="611"
+          width="291"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessCollaboration"
@@ -373,7 +378,7 @@
         id="id-5d9ffe1efb3143b1b8aee79d7288b11f"
         targetConnections="id-6e5e7e14c0cf46f3aca8543a22ef6195 id-a2ac2ffd61f041578ae58a3c1fdd7a74 id-91ffd8b5f8644540b46282bd1269d235 id-00b8c252c25a44bbba7a28d2cbb0c57d id-e5598a7e2df444469b942f21f3333c3a">
       <bounds
-          x="1200"
+          x="860"
           y="60"
           width="106"
           height="446"/>
