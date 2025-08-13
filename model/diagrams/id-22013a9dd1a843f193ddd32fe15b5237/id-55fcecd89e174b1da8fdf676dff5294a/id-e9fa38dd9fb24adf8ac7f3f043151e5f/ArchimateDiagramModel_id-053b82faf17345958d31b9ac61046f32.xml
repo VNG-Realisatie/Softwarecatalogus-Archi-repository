@@ -112,7 +112,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f0d4d0c1179b4f98a7b37f21ec1207ba"
-        targetConnections="id-4f8e2ea314eb46d5a5c26b1f82106988 id-0ccff06131d44a699fab53a480d28a1c id-0646deae28804e439fd7e75b8ce3ee11">
+        targetConnections="id-4f8e2ea314eb46d5a5c26b1f82106988 id-0646deae28804e439fd7e75b8ce3ee11 id-0ccff06131d44a699fab53a480d28a1c">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-96f7ca6038ea4a7ba63f2afe43278686"
@@ -247,23 +247,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-0ccff06131d44a699fab53a480d28a1c"
-          source="id-77ad0bce7bdd40c7ab58b1291e54192d"
-          target="id-f0d4d0c1179b4f98a7b37f21ec1207ba">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
-        <bendpoints
-            startX="80"
-            startY="64"
-            endX="80"
-            endY="-61"/>
-        <archimateRelationship
-            xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_id-3d2f476b68cc47b39f6f922e07d02e3f.xml#id-3d2f476b68cc47b39f6f922e07d02e3f"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-00b8c252c25a44bbba7a28d2cbb0c57d"
           textPosition="2"
           source="id-77ad0bce7bdd40c7ab58b1291e54192d"
@@ -279,6 +262,23 @@
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_id-9f170a06c1fd4c7190ebaf1b79dae46b.xml#id-9f170a06c1fd4c7190ebaf1b79dae46b"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-0ccff06131d44a699fab53a480d28a1c"
+          source="id-77ad0bce7bdd40c7ab58b1291e54192d"
+          target="id-f0d4d0c1179b4f98a7b37f21ec1207ba">
+        <features
+            name="labelExpression"
+            value="${wordwrap:12:${name}}"/>
+        <bendpoints
+            startX="80"
+            startY="64"
+            endX="80"
+            endY="-61"/>
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-80961.xml#id-80961"/>
       </sourceConnections>
       <bounds
           x="265"

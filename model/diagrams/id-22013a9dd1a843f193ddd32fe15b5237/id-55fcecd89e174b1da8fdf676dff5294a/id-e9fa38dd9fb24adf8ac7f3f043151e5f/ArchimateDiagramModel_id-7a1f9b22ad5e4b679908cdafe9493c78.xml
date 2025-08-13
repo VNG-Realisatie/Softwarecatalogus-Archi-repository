@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AMEFF export epic aanbod en gebruik"
+    name="AMEFF export epic aanbod en gebruik - instantie per afnemer"
     id="id-7a1f9b22ad5e4b679908cdafe9493c78">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -555,6 +555,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7746fd10dfbb4850aad706d508498072"
+          lineWidth="2"
+          lineColor="#0080ff"
           source="id-2cd28f60293c4a578adbe400b555ea42"
           target="id-3d3eead3e43a420ebb085da8e9c5c886">
         <archimateRelationship
@@ -577,6 +579,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-34617f97808e4d809b06b1199b2879e0"
+          lineWidth="2"
+          lineColor="#0080ff"
           source="id-351f0b31838746e8a2a904a4850fbe93"
           target="id-1d7fb00369ad458dbccb91fe3053cceb">
         <archimateRelationship
@@ -1428,6 +1432,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-663f2d7efd1c4f97aa9e582b1100f301"
+          lineColor="#ff0000"
           source="id-b50740eac181450ea05c70899c2d8907"
           target="id-3665690e4afb41fe85c99209e888c867">
         <archimateRelationship
@@ -1450,6 +1455,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e7bb3dadb3bd42b7bc787baf90e99f2c"
+          lineColor="#ff0000"
           source="id-1167a73d0b764cda8db527519253d372"
           target="id-37271fad246f437b89e916a00c1e75ef">
         <archimateRelationship

@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Code-analysetool"
-    id="id-4f711315bd8a47f58430da56dea22f4d"
-    documentation="Tool die code scant op fouten, kwetsbaarheden en best practices">
-  <properties
-      key="Toelichting"
-      value="Code automatisch scannen en rapporteren , met tools zoals SonarQube, Semgrep"/>
-</archimate:ApplicationComponent>

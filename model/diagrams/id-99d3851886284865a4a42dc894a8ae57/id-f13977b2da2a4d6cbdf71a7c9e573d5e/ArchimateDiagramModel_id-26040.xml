@@ -813,6 +813,9 @@
               lineColor="#ff0000"
               source="id-81070"
               target="id-024fb6dc3d334190bbc01e5006c00f3d">
+            <features
+                name="nameVisible"
+                value="false"/>
             <bendpoints
                 startX="-315"
                 startY="-210"
@@ -871,6 +874,9 @@
               lineColor="#ff0000"
               source="id-81070"
               target="id-2eb0f53b636d48e0a2365a7a120322f1">
+            <features
+                name="nameVisible"
+                value="false"/>
             <archimateRelationship
                 xsi:type="archimate:SpecializationRelationship"
                 href="SpecializationRelationship_id-7e4b90ea36914250a9d78dc33d3180d6.xml#id-7e4b90ea36914250a9d78dc33d3180d6"/>

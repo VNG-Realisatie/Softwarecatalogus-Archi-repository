@@ -260,20 +260,7 @@
         x="20"
         y="425"
         width="826"
-        height="163"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-ba4bdbbf43f24c0094b8fe63d5d1d638"
-        fillColor="#c0e2eb">
-      <bounds
-          x="20"
-          y="95"
-          width="781"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-7a1f9b22ad5e4b679908cdafe9493c78.xml#id-7a1f9b22ad5e4b679908cdafe9493c78"/>
-    </children>
+        height="171"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-531a99b260ae4bb089eeee87da96e559"
@@ -286,6 +273,45 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-baf1da1d324f4ed48cb3d104e7b8f1e8.xml#id-baf1da1d324f4ed48cb3d104e7b8f1e8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-03c61e870c824047b543e7344a9f4ab5"
+        fillColor="#c0e2eb">
+      <bounds
+          x="560"
+          y="101"
+          width="241"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-a55bc140e13946099552dbd138ae6bea.xml#id-a55bc140e13946099552dbd138ae6bea"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-2fb0f2dbdfd24ea08fd504b220d3f410"
+        fillColor="#c0e2eb">
+      <bounds
+          x="20"
+          y="101"
+          width="241"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-06a9a5e77ae54fbf8064ee3bbae6f88b.xml#id-06a9a5e77ae54fbf8064ee3bbae6f88b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-6ab94c9a452044678893533eca5921f7"
+        fillColor="#c0e2eb">
+      <bounds
+          x="290"
+          y="101"
+          width="241"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-053b82faf17345958d31b9ac61046f32.xml#id-053b82faf17345958d31b9ac61046f32"/>
     </children>
   </children>
   <properties

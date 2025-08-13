@@ -1,6 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is versie van"
     id="id-0044255068e5409aba33884e74babcdb">
   <source
       xsi:type="archimate:SystemSoftware"

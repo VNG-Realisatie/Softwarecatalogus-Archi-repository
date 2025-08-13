@@ -200,6 +200,9 @@
             lineColor="#ff0000"
             source="id-2776e13a95cc44199ef8d7076aa07262"
             target="id-e9607a8d673f4b25ad02a3e92977bfda">
+          <features
+              name="nameVisible"
+              value="false"/>
           <bendpoints
               startX="-315"
               startY="-210"
@@ -216,6 +219,9 @@
             lineColor="#ff0000"
             source="id-2776e13a95cc44199ef8d7076aa07262"
             target="id-3b35a910bf0f41499e8511e8668082cf">
+          <features
+              name="nameVisible"
+              value="false"/>
           <bendpoints
               startX="55"
               startY="-160"
