@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Van standaardtechnologie naar gemeentespecifieke oplossingen"
+    name="Ondersteuning van referentiecomponenten door technologiecomponenten"
     id="id-46863740e76a4b7fa7f64cc8bc6538de"
-    documentation="Toont hoe generieke technologiecomponenten – zoals message-broker, event-broker en operational datastores – de basis vormen voor gemeentelijke referentiecomponenten die koppelingen realiseren op basis van gemeentelijke en overheidsstandaarden">
+    documentation="Toont hoe generieke technologiecomponenten gemeentelijke referentiecomponenten ondersteunen bij het realiseren van koppelingen volgens gemeentelijke en overheidsstandaarden.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9df83d73bd024be9afe7897d012f2501"

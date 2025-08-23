@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="interne koppeling aanbod"
+    name="interne koppeling gebruik"
     id="id-808980b024c047de83511c4461dfb6bb">
   <source
       xsi:type="archimate:ApplicationComponent"

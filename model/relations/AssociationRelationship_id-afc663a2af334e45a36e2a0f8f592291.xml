@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geleverd als"
+    id="id-afc663a2af334e45a36e2a0f8f592291">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-06e3372171ca43a6a2e578504ce714fb.xml#id-06e3372171ca43a6a2e578504ce714fb"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-9639e99fa5404550989ac8ce64e2c32a.xml#id-9639e99fa5404550989ac8ce64e2c32a"/>
+</archimate:AssociationRelationship>

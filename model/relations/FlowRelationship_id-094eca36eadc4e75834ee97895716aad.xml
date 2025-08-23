@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="externe koppeling aanbod"
+    name="externe koppeling gerbuik"
     id="id-094eca36eadc4e75834ee97895716aad">
   <source
       xsi:type="archimate:ApplicationComponent"

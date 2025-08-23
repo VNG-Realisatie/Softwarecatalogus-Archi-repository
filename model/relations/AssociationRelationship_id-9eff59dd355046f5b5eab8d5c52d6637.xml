@@ -5,8 +5,8 @@
     id="id-9eff59dd355046f5b5eab8d5c52d6637"
     directed="true">
   <source
-      xsi:type="archimate:Product"
-      href="Product_id-b31fef455c1d4f1c96439ecf0d8e5ddf.xml#id-b31fef455c1d4f1c96439ecf0d8e5ddf"/>
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-06e3372171ca43a6a2e578504ce714fb.xml#id-06e3372171ca43a6a2e578504ce714fb"/>
   <target
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-2527f15b13384c80a0f61c1f87b42b24.xml#id-2527f15b13384c80a0f61c1f87b42b24"/>

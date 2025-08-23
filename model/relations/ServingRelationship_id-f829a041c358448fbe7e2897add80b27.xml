@@ -4,8 +4,8 @@
     name="gebruikt door"
     id="id-f829a041c358448fbe7e2897add80b27">
   <source
-      xsi:type="archimate:Product"
-      href="Product_id-b31fef455c1d4f1c96439ecf0d8e5ddf.xml#id-b31fef455c1d4f1c96439ecf0d8e5ddf"/>
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-06e3372171ca43a6a2e578504ce714fb.xml#id-06e3372171ca43a6a2e578504ce714fb"/>
   <target
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-80978.xml#id-80978"/>

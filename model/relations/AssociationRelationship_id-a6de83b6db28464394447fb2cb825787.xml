@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is eigenaar van"
+    id="id-a6de83b6db28464394447fb2cb825787"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1f58ee8f769f44b9a8f28e9a177097f4.xml#id-1f58ee8f769f44b9a8f28e9a177097f4"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-9639e99fa5404550989ac8ce64e2c32a.xml#id-9639e99fa5404550989ac8ce64e2c32a"/>
+</archimate:AssociationRelationship>
