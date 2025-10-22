@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="registreert plaatsvervangend"
+    name="geregistreerd door"
     id="id-6767c090a8fa49589d791a9aeed62bae"
     directed="true">
   <source
