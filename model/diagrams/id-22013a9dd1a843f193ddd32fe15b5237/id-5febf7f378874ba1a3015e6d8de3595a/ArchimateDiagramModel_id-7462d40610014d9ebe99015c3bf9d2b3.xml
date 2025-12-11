@@ -121,7 +121,7 @@
         height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-6e3748aa3664471387bc6cc0cadc6bc4.xml#id-6e3748aa3664471387bc6cc0cadc6bc4"/>
+        href="ApplicationService_id-d57920ba9c9e45d9badab6de9eae841a.xml#id-d57920ba9c9e45d9badab6de9eae841a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -134,7 +134,7 @@
         height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-c91d58937c14402191f64af79393528b.xml#id-c91d58937c14402191f64af79393528b"/>
+        href="ApplicationService_id-75f06f517d3c46eabdde7189b5a3b45e.xml#id-75f06f517d3c46eabdde7189b5a3b45e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

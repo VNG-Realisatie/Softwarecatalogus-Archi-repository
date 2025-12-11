@@ -1,14 +1,17 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanbod"
-    id="id-6e3748aa3664471387bc6cc0cadc6bc4">
+    id="id-d57920ba9c9e45d9badab6de9eae841a">
   <properties
       key="Latest Sync Date"
       value="16/10/2024 10:26:13"/>
   <properties
       key="Kolom"
-      value="Functionaliteitgroep"/>
+      value="Functionaliteit"/>
   <properties
       key="Object ID"
-      value="37e4b074-fa02-469e-ac3d-ea720b16d745"/>
+      value="25127a10-ed9f-4d53-9828-24c9e4cdc29f"/>
+  <properties
+      key="Kolom"
+      value="Functionaliteitgroep"/>
 </archimate:ApplicationService>

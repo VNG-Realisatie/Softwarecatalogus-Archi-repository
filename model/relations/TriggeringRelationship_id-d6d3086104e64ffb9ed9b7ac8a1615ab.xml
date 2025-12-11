@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienst niet gevonden"
+    id="id-d6d3086104e64ffb9ed9b7ac8a1615ab">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-e7918c7c971a48d8a771e03611967132.xml#id-e7918c7c971a48d8a771e03611967132"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-c9461400887a48449b53dc2fb5863059.xml#id-c9461400887a48449b53dc2fb5863059"/>
+</archimate:TriggeringRelationship>

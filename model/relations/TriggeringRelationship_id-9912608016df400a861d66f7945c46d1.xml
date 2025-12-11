@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverantier ID"
+    id="id-9912608016df400a861d66f7945c46d1">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-9c7fe464a2054672b64d348849971cf9.xml#id-9c7fe464a2054672b64d348849971cf9"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-c14c44443c954dfbbe0076dd53fb4585.xml#id-c14c44443c954dfbbe0076dd53fb4585"/>
+</archimate:TriggeringRelationship>

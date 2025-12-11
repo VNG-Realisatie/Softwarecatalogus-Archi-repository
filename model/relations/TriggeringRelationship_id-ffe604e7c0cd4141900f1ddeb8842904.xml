@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Koppeling niet gevonden"
+    id="id-ffe604e7c0cd4141900f1ddeb8842904">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-0979141e2e8f419fad6b123ee54c253e.xml#id-0979141e2e8f419fad6b123ee54c253e"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-01f1d76616b74179b236bcc4cd8f1b89.xml#id-01f1d76616b74179b236bcc4cd8f1b89"/>
+</archimate:TriggeringRelationship>
