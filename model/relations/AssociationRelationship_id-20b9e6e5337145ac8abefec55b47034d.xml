@@ -1,12 +1,13 @@
-<archimate:AggregationRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="met gebruik van"
-    id="id-b0f11cffdb7d4e9ab42d2f93c06b0740">
+    name="is gebruiker van"
+    id="id-20b9e6e5337145ac8abefec55b47034d"
+    directed="true">
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-6b1aef46e510480b9f3d392e673496d9.xml#id-6b1aef46e510480b9f3d392e673496d9"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-80978.xml#id-80978"/>
   <target
       xsi:type="archimate:SystemSoftware"
       href="SystemSoftware_id-0f7fbe0115ba43c28c87579e24ab4c87.xml#id-0f7fbe0115ba43c28c87579e24ab4c87"/>
-</archimate:AggregationRelationship>
+</archimate:AssociationRelationship>

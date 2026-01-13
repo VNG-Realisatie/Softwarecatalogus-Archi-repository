@@ -1,12 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="aangeboden als"
-    id="id-a70764ebbb88462e814f9852e9d11e3f"
-    directed="true">
+    name="wordt geleverd als"
+    id="id-dc1d54b5edb147b8a5ddc34ffe2d34bc">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-55e929c0e2f643b1aa1e78bed48b0cb4.xml#id-55e929c0e2f643b1aa1e78bed48b0cb4"/>
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-2527f15b13384c80a0f61c1f87b42b24.xml#id-2527f15b13384c80a0f61c1f87b42b24"/>
   <target
       xsi:type="archimate:Product"
       href="Product_id-ade7e4e7fa7140f4a3a12563c1e7307f.xml#id-ade7e4e7fa7140f4a3a12563c1e7307f"/>

@@ -2,12 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is eigenaar van"
-    id="id-360b378b98b7411fad07644b5e7ddaef"
+    id="id-767f3e0c19314d0fb9ef9b0fd9c14fc3"
     directed="true">
   <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-55e929c0e2f643b1aa1e78bed48b0cb4.xml#id-55e929c0e2f643b1aa1e78bed48b0cb4"/>
+  <target
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-1f58ee8f769f44b9a8f28e9a177097f4.xml#id-1f58ee8f769f44b9a8f28e9a177097f4"/>
-  <target
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-f3ed7788e4c94ca8be910420faf74f14.xml#id-f3ed7788e4c94ca8be910420faf74f14"/>
 </archimate:AssociationRelationship>
