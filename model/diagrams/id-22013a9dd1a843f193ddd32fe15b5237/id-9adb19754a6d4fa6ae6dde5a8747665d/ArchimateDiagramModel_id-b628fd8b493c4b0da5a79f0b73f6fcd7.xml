@@ -836,9 +836,9 @@
             href="AggregationRelationship_id-66a2214a0737408b9805ecb4f5fc8a02.xml#id-66a2214a0737408b9805ecb4f5fc8a02"/>
       </sourceConnections>
       <bounds
-          x="40"
+          x="30"
           y="395"
-          width="120"
+          width="130"
           height="55"/>
       <archimateElement
           xsi:type="archimate:DataObject"

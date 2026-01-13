@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicatie niet gevongen"
+    name="Applicatie niet gevonden"
     id="id-01641e52d5a747839587fb63cec78d25">
   <source
       xsi:type="archimate:ApplicationProcess"
