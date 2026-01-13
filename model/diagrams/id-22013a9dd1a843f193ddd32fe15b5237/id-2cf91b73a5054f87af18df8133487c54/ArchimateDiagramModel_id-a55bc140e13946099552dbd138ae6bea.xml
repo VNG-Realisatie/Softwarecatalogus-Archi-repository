@@ -74,7 +74,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-04ea2114ff7b4c06b6ec7f564f6d9fee"
-        targetConnections="id-ceeee93503ad46c3ac46ddbe08e40075 id-227bbeacba4c40838b615dd611cc889f id-ffdb6e9e7aab40c9acf8439875e92a08"
+        targetConnections="id-ceeee93503ad46c3ac46ddbe08e40075 id-ffdb6e9e7aab40c9acf8439875e92a08 id-227bbeacba4c40838b615dd611cc889f"
         fillColor="#daeef3">
       <features
           name="lineStyle"
