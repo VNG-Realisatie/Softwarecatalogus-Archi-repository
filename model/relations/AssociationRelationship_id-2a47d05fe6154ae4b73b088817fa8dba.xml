@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is afnemer van"
+    id="id-2a47d05fe6154ae4b73b088817fa8dba"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-80978.xml#id-80978"/>
+  <target
+      xsi:type="archimate:FlowRelationship"
+      href="FlowRelationship_id-4092ba2dc8554e2492f4f79be9b3575e.xml#id-4092ba2dc8554e2492f4f79be9b3575e"/>
+</archimate:AssociationRelationship>

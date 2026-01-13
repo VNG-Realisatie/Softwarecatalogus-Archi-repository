@@ -16,7 +16,7 @@
         x="30"
         y="20"
         width="896"
-        height="1026"/>
+        height="1091"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-895a183d5d6c49f2b93406939235572b"
@@ -173,58 +173,19 @@
           x="35"
           y="445"
           width="826"
-          height="171"/>
+          height="116"/>
       <children
           xsi:type="archimate:DiagramModelReference"
           id="id-531a99b260ae4bb089eeee87da96e559"
           fillColor="#92cddc">
         <bounds
             x="20"
-            y="30"
+            y="40"
             width="781"
             height="55"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-baf1da1d324f4ed48cb3d104e7b8f1e8.xml#id-baf1da1d324f4ed48cb3d104e7b8f1e8"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-2fb0f2dbdfd24ea08fd504b220d3f410"
-          fillColor="#c0e2eb">
-        <bounds
-            x="20"
-            y="101"
-            width="241"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-06a9a5e77ae54fbf8064ee3bbae6f88b.xml#id-06a9a5e77ae54fbf8064ee3bbae6f88b"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-6ab94c9a452044678893533eca5921f7"
-          fillColor="#c0e2eb">
-        <bounds
-            x="290"
-            y="101"
-            width="241"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-053b82faf17345958d31b9ac61046f32.xml#id-053b82faf17345958d31b9ac61046f32"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-61cb75ee259d46c0a46021e4aab536b5"
-          fillColor="#c0e2eb">
-        <bounds
-            x="560"
-            y="101"
-            width="241"
-            height="55"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-22363b4255d44dda901126785045d2f1.xml#id-22363b4255d44dda901126785045d2f1"/>
       </children>
     </children>
     <children
@@ -237,16 +198,16 @@
         borderType="1">
       <bounds
           x="35"
-          y="645"
+          y="580"
           width="826"
-          height="351"/>
+          height="361"/>
       <children
           xsi:type="archimate:DiagramModelReference"
           id="id-69f13712e84e4da589250e0e575880d2"
           fillColor="#ffffcc">
         <bounds
             x="20"
-            y="30"
+            y="40"
             width="612"
             height="55"/>
         <referencedModel
@@ -259,7 +220,7 @@
           fillColor="#def6e3">
         <bounds
             x="19"
-            y="275"
+            y="285"
             width="612"
             height="55"/>
         <referencedModel
@@ -272,7 +233,7 @@
           fillColor="#def6e3">
         <bounds
             x="20"
-            y="210"
+            y="220"
             width="611"
             height="55"/>
         <referencedModel
@@ -285,7 +246,7 @@
           fillColor="#d9ffff">
         <bounds
             x="20"
-            y="95"
+            y="105"
             width="611"
             height="102"/>
         <referencedModel
@@ -298,7 +259,7 @@
           fillColor="#d9ffff">
         <bounds
             x="39"
-            y="130"
+            y="140"
             width="277"
             height="55"/>
         <referencedModel
@@ -310,7 +271,7 @@
           id="id-06066bd3ca704348ae6f2b26061804bd">
         <bounds
             x="640"
-            y="30"
+            y="40"
             width="161"
             height="300"/>
         <referencedModel
@@ -322,12 +283,65 @@
           id="id-c39da7794edb4c4b8e4b06f8979d53d3">
         <bounds
             x="650"
-            y="95"
+            y="105"
             width="141"
             height="51"/>
         <referencedModel
             xsi:type="archimate:ArchimateDiagramModel"
             href="ArchimateDiagramModel_id-c3ef3671cb734a6fb03a1530d91f27f2.xml#id-c3ef3671cb734a6fb03a1530d91f27f2"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-de6c77c49dca42da96667d7d41d2e6d3"
+        name="4. ArchiMate export"
+        font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        fillColor="#ffffff"
+        borderType="1">
+      <bounds
+          x="40"
+          y="960"
+          width="826"
+          height="111"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-c1ef69cc677041839a3663b85cb3bf6e"
+          fillColor="#c0e2eb">
+        <bounds
+            x="20"
+            y="41"
+            width="241"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-06a9a5e77ae54fbf8064ee3bbae6f88b.xml#id-06a9a5e77ae54fbf8064ee3bbae6f88b"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-b3c21cf38ea94282973ef505b2f0ca94"
+          fillColor="#c0e2eb">
+        <bounds
+            x="290"
+            y="41"
+            width="241"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-053b82faf17345958d31b9ac61046f32.xml#id-053b82faf17345958d31b9ac61046f32"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-695b5d19441c4882aaafa364e5a74602"
+          fillColor="#c0e2eb">
+        <bounds
+            x="560"
+            y="41"
+            width="241"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-22363b4255d44dda901126785045d2f1.xml#id-22363b4255d44dda901126785045d2f1"/>
       </children>
     </children>
   </children>

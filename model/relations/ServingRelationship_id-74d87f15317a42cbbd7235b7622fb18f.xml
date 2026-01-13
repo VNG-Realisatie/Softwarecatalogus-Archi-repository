@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is gebruiker van"
+    name="is afnemer van"
     id="id-74d87f15317a42cbbd7235b7622fb18f">
   <source
       xsi:type="archimate:BusinessActor"
